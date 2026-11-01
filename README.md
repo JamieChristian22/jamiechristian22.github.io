@@ -6,13 +6,14 @@ A responsive, accessible, static landing page for the independent business, prod
 
 ## What is included
 
-- One-file HTML/CSS/JS site in [index.html](index.html)
+- HTML/CSS/JS site in [index.html](index.html)
+- Eight self-hosted project images in [assets/](assets/) with [source inventory](ASSET_SOURCES.md)
 - Responsive navigation and mobile layout
 - Filterable featured GitHub projects
 - Links to professional profile and GitHub Sponsors
 - Accessibility features: skip link, labels, focus states, reduced-motion behavior, live filter status
 - Explicit disclosure of synthetic and simulated portfolio work
-- Offline structural checker: [tools/check_site.py](tools/check_site.py)
+- Offline HTML and asset integrity checker: [tools/check_site.py](tools/check_site.py)
 - GitHub Actions validation: [.github/workflows/site-check.yml](.github/workflows/site-check.yml)
 
 ## Preview and local checks
