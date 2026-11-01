@@ -19,3 +19,8 @@ jobs:
           python-version: '3.11'
       - name: Validate homepage structure and local links
         run: python tools/check_site.py
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test category filters and accessible selection state
+        run: node tools/check_filter.mjs
