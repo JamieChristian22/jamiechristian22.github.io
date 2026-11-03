@@ -39,3 +39,7 @@ This repo's default branch contains a root `index.html`. If the site is not publ
 ## Evidence policy
 
 Links point to project repositories, which may contain synthetic datasets, simulations, and project exercises. A live business outcome or production system is never implied solely by a portfolio card.
+
+## License and third-party materials
+
+See [LICENSE](LICENSE) for the repository license. Third-party code, datasets, images, and other assets retain their respective terms.
