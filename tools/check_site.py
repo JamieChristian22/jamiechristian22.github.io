@@ -12,6 +12,7 @@ EXPECTED={
     "assets/cybersecurity.png",
     "assets/cloud-engineering.png",
     "assets/aws-security.svg",
+    "talent-acquisition-hr/assets/demo_analytics_preview.png",
 }
 class Inspector(HTMLParser):
     def __init__(self):
@@ -48,9 +49,9 @@ p.feed((ROOT/"index.html").read_text(encoding="utf-8"))
 for tag in ("html","head","body","main","nav","h1","title"):
     if p.tags.get(tag,0)<1:p.errors.append("Missing "+tag)
 if p.tags.get("h1")!=1:p.errors.append("Expected one H1")
-if p.cards!=9:p.errors.append("Expected nine project cards")
+if p.cards!=10:p.errors.append("Expected ten project cards")
 if p.filters!=4:p.errors.append("Expected four category filters")
-if len(p.images)!=8:p.errors.append("Expected eight project image elements")
+if len(p.images)!=9:p.errors.append("Expected nine project image elements")
 seen=set()
 for element in p.images:
     src=element.get("src","")
