@@ -1,2 +1,0 @@
-# Optional for rebuilding the included executive PDF; core application uses Python standard library.
-reportlab>=4.0,<5

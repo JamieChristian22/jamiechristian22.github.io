@@ -6,7 +6,7 @@ const html = readFileSync(new URL('../index.html', import.meta.url), 'utf8');
 const script = html.match(/<script>([\s\S]*?)<\/script>/i)?.[1];
 assert.ok(script, 'Homepage needs an inline filter script');
 const categories = [...html.matchAll(/<article class="project" data-category="([^"]+)"/g)].map(m => m[1]);
-assert.equal(categories.length, 10);
+assert.equal(categories.length, 9);
 
 const buttons = ['all','business','data','cloud'].map(filter => ({
   dataset:{filter}, attributes:{}, listeners:{},
@@ -27,7 +27,7 @@ const document={
   }
 };
 runInNewContext(script,{document});
-for(const [filter,n] of [['all',10],['business',4],['data',3],['cloud',3],['all',10]]){
+for(const [filter,n] of [['all',9],['business',3],['data',3],['cloud',3],['all',9]]){
   const b=buttons.find(item=>item.dataset.filter===filter);
   assert.equal(typeof b.listeners.click,'function');
   b.listeners.click();
