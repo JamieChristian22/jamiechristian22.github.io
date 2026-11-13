@@ -1,0 +1,169 @@
+task_id,application_id,task_name,owner_team,due_at,completed_at,status
+ONB-000001,APP-000012,Welcome & first-day logistics,Recruiting Ops,2026-03-31,2026-04-02,Completed
+ONB-000002,APP-000012,HRIS profile verification,People Operations,2026-04-01,2026-04-02,Completed
+ONB-000003,APP-000012,Payroll and benefits instructions,People Operations,2026-04-02,2026-04-02,Completed
+ONB-000004,APP-000012,Equipment and access provisioning,IT,2026-03-31,2026-03-31,Completed
+ONB-000005,APP-000012,Role-specific 30-day goals,Hiring Manager,2026-04-05,2026-04-05,Completed
+ONB-000006,APP-000012,Required policy acknowledgment,People Operations,2026-04-03,2026-04-03,Completed
+ONB-000007,APP-000012,I-9 process handoff (no identity documents stored),People Operations,2026-04-03,2026-04-03,Completed
+ONB-000008,APP-000031,Welcome & first-day logistics,Recruiting Ops,2026-05-15,2026-05-17,Completed
+ONB-000009,APP-000031,HRIS profile verification,People Operations,2026-05-16,2026-05-16,Completed
+ONB-000010,APP-000031,Payroll and benefits instructions,People Operations,2026-05-17,,Open
+ONB-000011,APP-000031,Equipment and access provisioning,IT,2026-05-15,,Open
+ONB-000012,APP-000031,Role-specific 30-day goals,Hiring Manager,2026-05-20,2026-05-19,Completed
+ONB-000013,APP-000031,Required policy acknowledgment,People Operations,2026-05-18,2026-05-18,Completed
+ONB-000014,APP-000031,I-9 process handoff (no identity documents stored),People Operations,2026-05-18,2026-05-18,Completed
+ONB-000015,APP-000064,Welcome & first-day logistics,Recruiting Ops,2026-06-14,2026-06-14,Completed
+ONB-000016,APP-000064,HRIS profile verification,People Operations,2026-06-15,2026-06-17,Completed
+ONB-000017,APP-000064,Payroll and benefits instructions,People Operations,2026-06-16,2026-06-17,Completed
+ONB-000018,APP-000064,Equipment and access provisioning,IT,2026-06-14,2026-06-16,Completed
+ONB-000019,APP-000064,Role-specific 30-day goals,Hiring Manager,2026-06-19,2026-06-19,Completed
+ONB-000020,APP-000064,Required policy acknowledgment,People Operations,2026-06-17,2026-06-18,Completed
+ONB-000021,APP-000064,I-9 process handoff (no identity documents stored),People Operations,2026-06-17,2026-06-17,Completed
+ONB-000022,APP-000087,Welcome & first-day logistics,Recruiting Ops,2026-04-25,2026-04-25,Completed
+ONB-000023,APP-000087,HRIS profile verification,People Operations,2026-04-26,2026-04-28,Completed
+ONB-000024,APP-000087,Payroll and benefits instructions,People Operations,2026-04-27,2026-04-27,Completed
+ONB-000025,APP-000087,Equipment and access provisioning,IT,2026-04-25,2026-04-24,Completed
+ONB-000026,APP-000087,Role-specific 30-day goals,Hiring Manager,2026-04-30,2026-05-01,Completed
+ONB-000027,APP-000087,Required policy acknowledgment,People Operations,2026-04-28,2026-04-28,Completed
+ONB-000028,APP-000087,I-9 process handoff (no identity documents stored),People Operations,2026-04-28,2026-04-27,Completed
+ONB-000029,APP-000124,Welcome & first-day logistics,Recruiting Ops,2026-03-09,2026-03-09,Completed
+ONB-000030,APP-000124,HRIS profile verification,People Operations,2026-03-10,2026-03-12,Completed
+ONB-000031,APP-000124,Payroll and benefits instructions,People Operations,2026-03-11,2026-03-13,Completed
+ONB-000032,APP-000124,Equipment and access provisioning,IT,2026-03-09,2026-03-10,Completed
+ONB-000033,APP-000124,Role-specific 30-day goals,Hiring Manager,2026-03-14,2026-03-14,Completed
+ONB-000034,APP-000124,Required policy acknowledgment,People Operations,2026-03-12,2026-03-14,Completed
+ONB-000035,APP-000124,I-9 process handoff (no identity documents stored),People Operations,2026-03-12,2026-03-12,Completed
+ONB-000036,APP-000162,Welcome & first-day logistics,Recruiting Ops,2026-07-04,2026-07-04,Completed
+ONB-000037,APP-000162,HRIS profile verification,People Operations,2026-07-05,2026-07-05,Completed
+ONB-000038,APP-000162,Payroll and benefits instructions,People Operations,2026-07-06,2026-07-08,Completed
+ONB-000039,APP-000162,Equipment and access provisioning,IT,2026-07-04,2026-07-03,Completed
+ONB-000040,APP-000162,Role-specific 30-day goals,Hiring Manager,2026-07-09,2026-07-10,Completed
+ONB-000041,APP-000162,Required policy acknowledgment,People Operations,2026-07-07,2026-07-07,Completed
+ONB-000042,APP-000162,I-9 process handoff (no identity documents stored),People Operations,2026-07-07,2026-07-06,Completed
+ONB-000043,APP-000177,Welcome & first-day logistics,Recruiting Ops,2026-05-26,2026-05-25,Completed
+ONB-000044,APP-000177,HRIS profile verification,People Operations,2026-05-27,2026-05-29,Completed
+ONB-000045,APP-000177,Payroll and benefits instructions,People Operations,2026-05-28,2026-05-28,Completed
+ONB-000046,APP-000177,Equipment and access provisioning,IT,2026-05-26,2026-05-25,Completed
+ONB-000047,APP-000177,Role-specific 30-day goals,Hiring Manager,2026-05-31,2026-06-01,Completed
+ONB-000048,APP-000177,Required policy acknowledgment,People Operations,2026-05-29,2026-05-29,Completed
+ONB-000049,APP-000177,I-9 process handoff (no identity documents stored),People Operations,2026-05-29,2026-05-28,Completed
+ONB-000050,APP-000227,Welcome & first-day logistics,Recruiting Ops,2026-07-15,2026-07-17,Completed
+ONB-000051,APP-000227,HRIS profile verification,People Operations,2026-07-16,2026-07-17,Completed
+ONB-000052,APP-000227,Payroll and benefits instructions,People Operations,2026-07-17,2026-07-17,Completed
+ONB-000053,APP-000227,Equipment and access provisioning,IT,2026-07-15,2026-07-15,Completed
+ONB-000054,APP-000227,Role-specific 30-day goals,Hiring Manager,2026-07-20,2026-07-21,Completed
+ONB-000055,APP-000227,Required policy acknowledgment,People Operations,2026-07-18,2026-07-18,Completed
+ONB-000056,APP-000227,I-9 process handoff (no identity documents stored),People Operations,2026-07-18,2026-07-18,Completed
+ONB-000057,APP-000236,Welcome & first-day logistics,Recruiting Ops,2026-05-24,2026-05-26,Completed
+ONB-000058,APP-000236,HRIS profile verification,People Operations,2026-05-25,,Open
+ONB-000059,APP-000236,Payroll and benefits instructions,People Operations,2026-05-26,2026-05-27,Completed
+ONB-000060,APP-000236,Equipment and access provisioning,IT,2026-05-24,2026-05-23,Completed
+ONB-000061,APP-000236,Role-specific 30-day goals,Hiring Manager,2026-05-29,,Open
+ONB-000062,APP-000236,Required policy acknowledgment,People Operations,2026-05-27,2026-05-27,Completed
+ONB-000063,APP-000236,I-9 process handoff (no identity documents stored),People Operations,2026-05-27,2026-05-27,Completed
+ONB-000064,APP-000274,Welcome & first-day logistics,Recruiting Ops,2026-03-24,2026-03-23,Completed
+ONB-000065,APP-000274,HRIS profile verification,People Operations,2026-03-25,2026-03-27,Completed
+ONB-000066,APP-000274,Payroll and benefits instructions,People Operations,2026-03-26,2026-03-27,Completed
+ONB-000067,APP-000274,Equipment and access provisioning,IT,2026-03-24,2026-03-23,Completed
+ONB-000068,APP-000274,Role-specific 30-day goals,Hiring Manager,2026-03-29,2026-03-29,Completed
+ONB-000069,APP-000274,Required policy acknowledgment,People Operations,2026-03-27,,Open
+ONB-000070,APP-000274,I-9 process handoff (no identity documents stored),People Operations,2026-03-27,2026-03-27,Completed
+ONB-000071,APP-000305,Welcome & first-day logistics,Recruiting Ops,2026-07-06,2026-07-05,Completed
+ONB-000072,APP-000305,HRIS profile verification,People Operations,2026-07-07,2026-07-09,Completed
+ONB-000073,APP-000305,Payroll and benefits instructions,People Operations,2026-07-08,2026-07-08,Completed
+ONB-000074,APP-000305,Equipment and access provisioning,IT,2026-07-06,2026-07-05,Completed
+ONB-000075,APP-000305,Role-specific 30-day goals,Hiring Manager,2026-07-11,2026-07-10,Completed
+ONB-000076,APP-000305,Required policy acknowledgment,People Operations,2026-07-09,2026-07-08,Completed
+ONB-000077,APP-000305,I-9 process handoff (no identity documents stored),People Operations,2026-07-09,2026-07-09,Completed
+ONB-000078,APP-000353,Welcome & first-day logistics,Recruiting Ops,2026-05-10,2026-05-10,Completed
+ONB-000079,APP-000353,HRIS profile verification,People Operations,2026-05-11,2026-05-11,Completed
+ONB-000080,APP-000353,Payroll and benefits instructions,People Operations,2026-05-12,2026-05-12,Completed
+ONB-000081,APP-000353,Equipment and access provisioning,IT,2026-05-10,2026-05-10,Completed
+ONB-000082,APP-000353,Role-specific 30-day goals,Hiring Manager,2026-05-15,2026-05-15,Completed
+ONB-000083,APP-000353,Required policy acknowledgment,People Operations,2026-05-13,2026-05-13,Completed
+ONB-000084,APP-000353,I-9 process handoff (no identity documents stored),People Operations,2026-05-13,2026-05-15,Completed
+ONB-000085,APP-000361,Welcome & first-day logistics,Recruiting Ops,2026-04-20,2026-04-19,Completed
+ONB-000086,APP-000361,HRIS profile verification,People Operations,2026-04-21,2026-04-20,Completed
+ONB-000087,APP-000361,Payroll and benefits instructions,People Operations,2026-04-22,2026-04-22,Completed
+ONB-000088,APP-000361,Equipment and access provisioning,IT,2026-04-20,2026-04-21,Completed
+ONB-000089,APP-000361,Role-specific 30-day goals,Hiring Manager,2026-04-25,2026-04-27,Completed
+ONB-000090,APP-000361,Required policy acknowledgment,People Operations,2026-04-23,2026-04-25,Completed
+ONB-000091,APP-000361,I-9 process handoff (no identity documents stored),People Operations,2026-04-23,2026-04-22,Completed
+ONB-000092,APP-000416,Welcome & first-day logistics,Recruiting Ops,2026-04-16,2026-04-16,Completed
+ONB-000093,APP-000416,HRIS profile verification,People Operations,2026-04-17,2026-04-17,Completed
+ONB-000094,APP-000416,Payroll and benefits instructions,People Operations,2026-04-18,2026-04-19,Completed
+ONB-000095,APP-000416,Equipment and access provisioning,IT,2026-04-16,2026-04-16,Completed
+ONB-000096,APP-000416,Role-specific 30-day goals,Hiring Manager,2026-04-21,2026-04-23,Completed
+ONB-000097,APP-000416,Required policy acknowledgment,People Operations,2026-04-19,2026-04-19,Completed
+ONB-000098,APP-000416,I-9 process handoff (no identity documents stored),People Operations,2026-04-19,,Open
+ONB-000099,APP-000430,Welcome & first-day logistics,Recruiting Ops,2026-07-09,2026-07-08,Completed
+ONB-000100,APP-000430,HRIS profile verification,People Operations,2026-07-10,2026-07-10,Completed
+ONB-000101,APP-000430,Payroll and benefits instructions,People Operations,2026-07-11,2026-07-10,Completed
+ONB-000102,APP-000430,Equipment and access provisioning,IT,2026-07-09,2026-07-09,Completed
+ONB-000103,APP-000430,Role-specific 30-day goals,Hiring Manager,2026-07-14,2026-07-14,Completed
+ONB-000104,APP-000430,Required policy acknowledgment,People Operations,2026-07-12,2026-07-13,Completed
+ONB-000105,APP-000430,I-9 process handoff (no identity documents stored),People Operations,2026-07-12,2026-07-12,Completed
+ONB-000106,APP-000472,Welcome & first-day logistics,Recruiting Ops,2026-07-01,,Open
+ONB-000107,APP-000472,HRIS profile verification,People Operations,2026-07-02,2026-07-02,Completed
+ONB-000108,APP-000472,Payroll and benefits instructions,People Operations,2026-07-03,2026-07-04,Completed
+ONB-000109,APP-000472,Equipment and access provisioning,IT,2026-07-01,2026-07-03,Completed
+ONB-000110,APP-000472,Role-specific 30-day goals,Hiring Manager,2026-07-06,2026-07-05,Completed
+ONB-000111,APP-000472,Required policy acknowledgment,People Operations,2026-07-04,2026-07-03,Completed
+ONB-000112,APP-000472,I-9 process handoff (no identity documents stored),People Operations,2026-07-04,,Open
+ONB-000113,APP-000503,Welcome & first-day logistics,Recruiting Ops,2026-04-20,2026-04-22,Completed
+ONB-000114,APP-000503,HRIS profile verification,People Operations,2026-04-21,2026-04-21,Completed
+ONB-000115,APP-000503,Payroll and benefits instructions,People Operations,2026-04-22,2026-04-24,Completed
+ONB-000116,APP-000503,Equipment and access provisioning,IT,2026-04-20,2026-04-22,Completed
+ONB-000117,APP-000503,Role-specific 30-day goals,Hiring Manager,2026-04-25,2026-04-25,Completed
+ONB-000118,APP-000503,Required policy acknowledgment,People Operations,2026-04-23,2026-04-23,Completed
+ONB-000119,APP-000503,I-9 process handoff (no identity documents stored),People Operations,2026-04-23,2026-04-24,Completed
+ONB-000120,APP-000518,Welcome & first-day logistics,Recruiting Ops,2026-06-23,2026-06-23,Completed
+ONB-000121,APP-000518,HRIS profile verification,People Operations,2026-06-24,2026-06-24,Completed
+ONB-000122,APP-000518,Payroll and benefits instructions,People Operations,2026-06-25,2026-06-24,Completed
+ONB-000123,APP-000518,Equipment and access provisioning,IT,2026-06-23,2026-06-24,Completed
+ONB-000124,APP-000518,Role-specific 30-day goals,Hiring Manager,2026-06-28,2026-06-28,Completed
+ONB-000125,APP-000518,Required policy acknowledgment,People Operations,2026-06-26,,Open
+ONB-000126,APP-000518,I-9 process handoff (no identity documents stored),People Operations,2026-06-26,,Open
+ONB-000127,APP-000552,Welcome & first-day logistics,Recruiting Ops,2026-07-12,2026-07-12,Completed
+ONB-000128,APP-000552,HRIS profile verification,People Operations,2026-07-13,2026-07-13,Completed
+ONB-000129,APP-000552,Payroll and benefits instructions,People Operations,2026-07-14,2026-07-15,Completed
+ONB-000130,APP-000552,Equipment and access provisioning,IT,2026-07-12,2026-07-11,Completed
+ONB-000131,APP-000552,Role-specific 30-day goals,Hiring Manager,2026-07-17,2026-07-18,Completed
+ONB-000132,APP-000552,Required policy acknowledgment,People Operations,2026-07-15,2026-07-15,Completed
+ONB-000133,APP-000552,I-9 process handoff (no identity documents stored),People Operations,2026-07-15,2026-07-14,Completed
+ONB-000134,APP-000575,Welcome & first-day logistics,Recruiting Ops,2026-05-25,2026-05-25,Completed
+ONB-000135,APP-000575,HRIS profile verification,People Operations,2026-05-26,,Open
+ONB-000136,APP-000575,Payroll and benefits instructions,People Operations,2026-05-27,,Open
+ONB-000137,APP-000575,Equipment and access provisioning,IT,2026-05-25,2026-05-25,Completed
+ONB-000138,APP-000575,Role-specific 30-day goals,Hiring Manager,2026-05-30,,Open
+ONB-000139,APP-000575,Required policy acknowledgment,People Operations,2026-05-28,2026-05-28,Completed
+ONB-000140,APP-000575,I-9 process handoff (no identity documents stored),People Operations,2026-05-28,2026-05-30,Completed
+ONB-000141,APP-000627,Welcome & first-day logistics,Recruiting Ops,2026-05-12,2026-05-12,Completed
+ONB-000142,APP-000627,HRIS profile verification,People Operations,2026-05-13,2026-05-12,Completed
+ONB-000143,APP-000627,Payroll and benefits instructions,People Operations,2026-05-14,2026-05-16,Completed
+ONB-000144,APP-000627,Equipment and access provisioning,IT,2026-05-12,2026-05-12,Completed
+ONB-000145,APP-000627,Role-specific 30-day goals,Hiring Manager,2026-05-17,2026-05-17,Completed
+ONB-000146,APP-000627,Required policy acknowledgment,People Operations,2026-05-15,2026-05-15,Completed
+ONB-000147,APP-000627,I-9 process handoff (no identity documents stored),People Operations,2026-05-15,2026-05-15,Completed
+ONB-000148,APP-000637,Welcome & first-day logistics,Recruiting Ops,2026-07-13,2026-07-14,Completed
+ONB-000149,APP-000637,HRIS profile verification,People Operations,2026-07-14,2026-07-14,Completed
+ONB-000150,APP-000637,Payroll and benefits instructions,People Operations,2026-07-15,2026-07-17,Completed
+ONB-000151,APP-000637,Equipment and access provisioning,IT,2026-07-13,2026-07-13,Completed
+ONB-000152,APP-000637,Role-specific 30-day goals,Hiring Manager,2026-07-18,2026-07-20,Completed
+ONB-000153,APP-000637,Required policy acknowledgment,People Operations,2026-07-16,2026-07-17,Completed
+ONB-000154,APP-000637,I-9 process handoff (no identity documents stored),People Operations,2026-07-16,2026-07-15,Completed
+ONB-000155,APP-000655,Welcome & first-day logistics,Recruiting Ops,2026-05-24,,Open
+ONB-000156,APP-000655,HRIS profile verification,People Operations,2026-05-25,2026-05-24,Completed
+ONB-000157,APP-000655,Payroll and benefits instructions,People Operations,2026-05-26,2026-05-26,Completed
+ONB-000158,APP-000655,Equipment and access provisioning,IT,2026-05-24,2026-05-24,Completed
+ONB-000159,APP-000655,Role-specific 30-day goals,Hiring Manager,2026-05-29,2026-05-28,Completed
+ONB-000160,APP-000655,Required policy acknowledgment,People Operations,2026-05-27,2026-05-27,Completed
+ONB-000161,APP-000655,I-9 process handoff (no identity documents stored),People Operations,2026-05-27,2026-05-27,Completed
+ONB-000162,APP-000696,Welcome & first-day logistics,Recruiting Ops,2026-05-01,2026-05-03,Completed
+ONB-000163,APP-000696,HRIS profile verification,People Operations,2026-05-02,,Open
+ONB-000164,APP-000696,Payroll and benefits instructions,People Operations,2026-05-03,2026-05-05,Completed
+ONB-000165,APP-000696,Equipment and access provisioning,IT,2026-05-01,2026-05-03,Completed
+ONB-000166,APP-000696,Role-specific 30-day goals,Hiring Manager,2026-05-06,2026-05-06,Completed
+ONB-000167,APP-000696,Required policy acknowledgment,People Operations,2026-05-04,2026-05-03,Completed
+ONB-000168,APP-000696,I-9 process handoff (no identity documents stored),People Operations,2026-05-04,2026-05-03,Completed

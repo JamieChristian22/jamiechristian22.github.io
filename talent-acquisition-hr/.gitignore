@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+*.log
+.DS_Store
+.streamlit/secrets.toml
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+# Do not commit actual HR data, resumes, PII or background reports.
+data/private/
+secrets/
+exports/live/
+
+# Local-only transient workflow/API workspaces
+*.sqlite3
+*.db-journal
+*.sqlite-journal
+playwright-report/

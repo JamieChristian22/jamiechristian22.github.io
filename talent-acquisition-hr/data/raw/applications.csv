@@ -1,0 +1,1250 @@
+application_id,candidate_id,req_id,source,applied_at,current_stage,disposition_reason,consent_to_contact
+APP-000001,CAND-000001,REQ-0001,Indeed,2026-02-20,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000002,CAND-000002,REQ-0001,Indeed,2026-03-11,Rejected,Position filled,Yes
+APP-000003,CAND-000003,REQ-0001,LinkedIn,2026-03-10,Rejected,Position filled,Yes
+APP-000004,CAND-000004,REQ-0001,LinkedIn,2026-03-17,Rejected,Other candidates progressed,Yes
+APP-000005,CAND-000005,REQ-0001,Professional Network,2026-02-21,Rejected,Job-related requirements not met,Yes
+APP-000006,CAND-000006,REQ-0001,Company Careers,2026-03-01,Rejected,Job-related requirements not met,Yes
+APP-000007,CAND-000007,REQ-0001,Company Careers,2026-02-25,Rejected,Position filled,Yes
+APP-000008,CAND-000008,REQ-0001,Professional Network,2026-02-28,Rejected,Position filled,Yes
+APP-000009,CAND-000009,REQ-0001,Employee Referral,2026-03-05,Withdrawn,Candidate withdrew after review,Yes
+APP-000010,CAND-000010,REQ-0001,University,2026-03-02,Rejected,Position filled,Yes
+APP-000011,CAND-000011,REQ-0001,Company Careers,2026-03-05,Rejected,Other candidates progressed,Yes
+APP-000012,CAND-000012,REQ-0001,Company Careers,2026-03-01,Hired,,Yes
+APP-000013,CAND-000013,REQ-0001,University,2026-03-10,Rejected,Job-related requirements not met,Yes
+APP-000014,CAND-000014,REQ-0001,Professional Network,2026-03-22,Rejected,Position filled,Yes
+APP-000015,CAND-000015,REQ-0001,Professional Network,2026-03-20,Rejected,Position filled,Yes
+APP-000016,CAND-000016,REQ-0001,University,2026-02-27,Rejected,Position filled,Yes
+APP-000017,CAND-000017,REQ-0001,Indeed,2026-03-04,Rejected,Job-related requirements not met,Yes
+APP-000018,CAND-000018,REQ-0001,University,2026-03-23,Rejected,Job-related requirements not met,Yes
+APP-000019,CAND-000019,REQ-0001,LinkedIn,2026-03-10,Rejected,Job-related requirements not met,Yes
+APP-000020,CAND-000020,REQ-0001,Company Careers,2026-03-17,Withdrawn,Candidate withdrew after review,Yes
+APP-000021,CAND-000021,REQ-0001,LinkedIn,2026-03-08,Rejected,Other candidates progressed,Yes
+APP-000022,CAND-000022,REQ-0001,University,2026-03-19,Withdrawn,Candidate withdrew after review,Yes
+APP-000023,CAND-000023,REQ-0001,Professional Network,2026-03-13,Rejected,Position filled,Yes
+APP-000024,CAND-000024,REQ-0001,Professional Network,2026-03-14,Rejected,Position filled,Yes
+APP-000025,CAND-000025,REQ-0002,Indeed,2026-04-12,Rejected,Job-related requirements not met,Yes
+APP-000026,CAND-000026,REQ-0002,University,2026-04-09,Withdrawn,Candidate withdrew after review,Yes
+APP-000027,CAND-000027,REQ-0002,Company Careers,2026-04-06,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000028,CAND-000028,REQ-0002,Employee Referral,2026-05-02,Rejected,Position filled,Yes
+APP-000029,CAND-000029,REQ-0002,University,2026-04-23,Rejected,Job-related requirements not met,Yes
+APP-000030,CAND-000030,REQ-0002,Indeed,2026-04-30,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000031,CAND-000031,REQ-0002,University,2026-04-15,Hired,,Yes
+APP-000032,CAND-000032,REQ-0002,Employee Referral,2026-05-06,Withdrawn,Candidate withdrew after review,Yes
+APP-000033,CAND-000033,REQ-0002,LinkedIn,2026-05-08,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000034,CAND-000034,REQ-0002,University,2026-05-02,Rejected,Job-related requirements not met,Yes
+APP-000035,CAND-000035,REQ-0002,Company Careers,2026-04-26,Rejected,Position filled,Yes
+APP-000036,CAND-000036,REQ-0002,Employee Referral,2026-05-04,Rejected,Other candidates progressed,Yes
+APP-000037,CAND-000037,REQ-0002,LinkedIn,2026-04-16,Withdrawn,Candidate withdrew after review,Yes
+APP-000038,CAND-000038,REQ-0002,Indeed,2026-04-07,Rejected,Position filled,Yes
+APP-000039,CAND-000039,REQ-0002,Professional Network,2026-03-29,Rejected,Job-related requirements not met,Yes
+APP-000040,CAND-000040,REQ-0002,Company Careers,2026-04-13,Withdrawn,Candidate withdrew after review,No
+APP-000041,CAND-000041,REQ-0002,Employee Referral,2026-04-04,Rejected,Position filled,Yes
+APP-000042,CAND-000042,REQ-0002,Employee Referral,2026-03-29,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000043,CAND-000043,REQ-0002,Indeed,2026-04-22,Rejected,Position filled,Yes
+APP-000044,CAND-000044,REQ-0002,Professional Network,2026-04-25,Rejected,Other candidates progressed,Yes
+APP-000045,CAND-000045,REQ-0002,Employee Referral,2026-05-06,Rejected,Job-related requirements not met,Yes
+APP-000046,CAND-000046,REQ-0002,Professional Network,2026-04-15,Rejected,Position filled,Yes
+APP-000047,CAND-000047,REQ-0002,Professional Network,2026-04-28,Rejected,Other candidates progressed,Yes
+APP-000048,CAND-000048,REQ-0002,Professional Network,2026-05-08,Rejected,Job-related requirements not met,Yes
+APP-000049,CAND-000049,REQ-0002,Indeed,2026-04-02,Rejected,Job-related requirements not met,Yes
+APP-000050,CAND-000050,REQ-0002,University,2026-04-16,Rejected,Job-related requirements not met,Yes
+APP-000051,CAND-000051,REQ-0002,Professional Network,2026-04-11,Rejected,Position filled,Yes
+APP-000052,CAND-000052,REQ-0002,Professional Network,2026-04-28,Withdrawn,Candidate withdrew after review,Yes
+APP-000053,CAND-000053,REQ-0002,Company Careers,2026-04-08,Rejected,Job-related requirements not met,Yes
+APP-000054,CAND-000054,REQ-0002,Indeed,2026-04-20,Rejected,Position filled,Yes
+APP-000055,CAND-000055,REQ-0002,LinkedIn,2026-04-04,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000056,CAND-000056,REQ-0002,University,2026-04-18,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000057,CAND-000057,REQ-0002,LinkedIn,2026-04-16,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000058,CAND-000058,REQ-0002,Company Careers,2026-04-25,Withdrawn,Candidate withdrew after review,Yes
+APP-000059,CAND-000059,REQ-0002,LinkedIn,2026-04-15,Rejected,Other candidates progressed,Yes
+APP-000060,CAND-000060,REQ-0002,LinkedIn,2026-04-27,Rejected,Job-related requirements not met,Yes
+APP-000061,CAND-000061,REQ-0002,Employee Referral,2026-04-21,Rejected,Position filled,Yes
+APP-000062,CAND-000062,REQ-0002,Company Careers,2026-04-25,Rejected,Job-related requirements not met,Yes
+APP-000063,CAND-000063,REQ-0003,Employee Referral,2026-04-26,Withdrawn,Candidate withdrew after review,Yes
+APP-000064,CAND-000064,REQ-0003,Professional Network,2026-05-15,Hired,,Yes
+APP-000065,CAND-000065,REQ-0003,Employee Referral,2026-05-26,Withdrawn,Candidate withdrew after review,Yes
+APP-000066,CAND-000066,REQ-0003,Professional Network,2026-05-13,Withdrawn,Candidate withdrew after review,Yes
+APP-000067,CAND-000067,REQ-0003,Employee Referral,2026-05-15,Rejected,Position filled,Yes
+APP-000068,CAND-000068,REQ-0003,University,2026-05-22,Rejected,Job-related requirements not met,Yes
+APP-000069,CAND-000069,REQ-0003,Employee Referral,2026-05-27,Rejected,Other candidates progressed,Yes
+APP-000070,CAND-000070,REQ-0003,LinkedIn,2026-05-22,Rejected,Position filled,Yes
+APP-000071,CAND-000071,REQ-0003,LinkedIn,2026-06-08,Rejected,Job-related requirements not met,Yes
+APP-000072,CAND-000072,REQ-0003,Professional Network,2026-05-02,Rejected,Other candidates progressed,Yes
+APP-000073,CAND-000073,REQ-0003,Employee Referral,2026-04-24,Withdrawn,Candidate withdrew after review,Yes
+APP-000074,CAND-000074,REQ-0003,LinkedIn,2026-05-02,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000075,CAND-000075,REQ-0003,LinkedIn,2026-05-03,Rejected,Job-related requirements not met,Yes
+APP-000076,CAND-000076,REQ-0003,Employee Referral,2026-06-02,Rejected,Position filled,Yes
+APP-000077,CAND-000077,REQ-0003,University,2026-05-06,Rejected,Job-related requirements not met,Yes
+APP-000078,CAND-000078,REQ-0003,Employee Referral,2026-05-21,Withdrawn,Candidate withdrew after review,No
+APP-000079,CAND-000079,REQ-0003,Employee Referral,2026-05-26,Rejected,Job-related requirements not met,Yes
+APP-000080,CAND-000080,REQ-0003,Company Careers,2026-05-30,Withdrawn,Candidate withdrew after review,Yes
+APP-000081,CAND-000081,REQ-0003,Professional Network,2026-05-18,Withdrawn,Candidate withdrew after review,Yes
+APP-000082,CAND-000082,REQ-0003,Indeed,2026-06-05,Rejected,Job-related requirements not met,Yes
+APP-000083,CAND-000083,REQ-0003,LinkedIn,2026-06-03,Withdrawn,Candidate withdrew after review,Yes
+APP-000084,CAND-000084,REQ-0004,LinkedIn,2026-04-12,Withdrawn,Candidate withdrew after review,Yes
+APP-000085,CAND-000085,REQ-0004,Employee Referral,2026-03-26,Rejected,Job-related requirements not met,Yes
+APP-000086,CAND-000086,REQ-0004,Indeed,2026-04-10,Rejected,Job-related requirements not met,Yes
+APP-000087,CAND-000087,REQ-0004,Indeed,2026-03-26,Hired,,Yes
+APP-000088,CAND-000088,REQ-0004,Employee Referral,2026-02-18,Rejected,Other candidates progressed,Yes
+APP-000089,CAND-000089,REQ-0004,University,2026-04-01,Rejected,Job-related requirements not met,Yes
+APP-000090,CAND-000090,REQ-0004,University,2026-03-30,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000091,CAND-000091,REQ-0004,Professional Network,2026-03-03,Rejected,Other candidates progressed,Yes
+APP-000092,CAND-000092,REQ-0004,Indeed,2026-03-29,Rejected,Job-related requirements not met,Yes
+APP-000093,CAND-000093,REQ-0004,Company Careers,2026-03-27,Rejected,Position filled,Yes
+APP-000094,CAND-000094,REQ-0004,Indeed,2026-03-02,Withdrawn,Candidate withdrew after review,Yes
+APP-000095,CAND-000095,REQ-0004,LinkedIn,2026-03-05,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000096,CAND-000096,REQ-0004,Indeed,2026-03-10,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000097,CAND-000097,REQ-0004,LinkedIn,2026-03-03,Rejected,Other candidates progressed,Yes
+APP-000098,CAND-000098,REQ-0004,Indeed,2026-03-03,Rejected,Job-related requirements not met,Yes
+APP-000099,CAND-000099,REQ-0004,Professional Network,2026-03-24,Rejected,Other candidates progressed,Yes
+APP-000100,CAND-000100,REQ-0004,Company Careers,2026-03-09,Rejected,Job-related requirements not met,Yes
+APP-000101,CAND-000101,REQ-0004,Professional Network,2026-03-29,Withdrawn,Candidate withdrew after review,Yes
+APP-000102,CAND-000102,REQ-0004,Indeed,2026-03-24,Rejected,Other candidates progressed,Yes
+APP-000103,CAND-000103,REQ-0004,Professional Network,2026-04-03,Withdrawn,Candidate withdrew after review,No
+APP-000104,CAND-000104,REQ-0004,Professional Network,2026-03-14,Rejected,Job-related requirements not met,Yes
+APP-000105,CAND-000105,REQ-0005,Indeed,2026-01-21,Rejected,Position filled,Yes
+APP-000106,CAND-000106,REQ-0005,University,2026-01-30,Rejected,Other candidates progressed,Yes
+APP-000107,CAND-000107,REQ-0005,Company Careers,2026-02-04,Rejected,Other candidates progressed,Yes
+APP-000108,CAND-000108,REQ-0005,Employee Referral,2026-02-01,Rejected,Position filled,Yes
+APP-000109,CAND-000109,REQ-0005,LinkedIn,2026-02-27,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000110,CAND-000110,REQ-0005,Indeed,2026-02-15,Rejected,Other candidates progressed,Yes
+APP-000111,CAND-000111,REQ-0005,Professional Network,2026-01-28,Rejected,Job-related requirements not met,Yes
+APP-000112,CAND-000112,REQ-0005,Employee Referral,2026-02-21,Rejected,Job-related requirements not met,Yes
+APP-000113,CAND-000113,REQ-0005,Employee Referral,2026-01-30,Rejected,Job-related requirements not met,Yes
+APP-000114,CAND-000114,REQ-0005,University,2026-01-23,Rejected,Position filled,Yes
+APP-000115,CAND-000115,REQ-0005,University,2026-01-23,Withdrawn,Candidate withdrew after review,Yes
+APP-000116,CAND-000116,REQ-0005,University,2026-01-30,Rejected,Job-related requirements not met,Yes
+APP-000117,CAND-000117,REQ-0005,Professional Network,2026-03-02,Withdrawn,Candidate withdrew after review,Yes
+APP-000118,CAND-000118,REQ-0005,Indeed,2026-02-10,Withdrawn,Candidate withdrew after review,Yes
+APP-000119,CAND-000119,REQ-0005,Indeed,2026-01-31,Rejected,Other candidates progressed,Yes
+APP-000120,CAND-000120,REQ-0005,LinkedIn,2026-02-24,Rejected,Position filled,Yes
+APP-000121,CAND-000121,REQ-0005,Professional Network,2026-03-04,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000122,CAND-000122,REQ-0005,Professional Network,2026-02-08,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000123,CAND-000123,REQ-0005,University,2026-02-25,Withdrawn,Candidate withdrew after review,Yes
+APP-000124,CAND-000124,REQ-0005,Professional Network,2026-02-07,Hired,,Yes
+APP-000125,CAND-000125,REQ-0005,University,2026-03-01,Rejected,Job-related requirements not met,Yes
+APP-000126,CAND-000126,REQ-0005,Indeed,2026-02-09,Rejected,Job-related requirements not met,Yes
+APP-000127,CAND-000127,REQ-0005,Employee Referral,2026-01-21,Rejected,Other candidates progressed,Yes
+APP-000128,CAND-000128,REQ-0006,Indeed,2026-05-04,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000129,CAND-000129,REQ-0006,Indeed,2026-06-06,Rejected,Other candidates progressed,No
+APP-000130,CAND-000130,REQ-0006,Professional Network,2026-06-14,Rejected,Other candidates progressed,Yes
+APP-000131,CAND-000131,REQ-0006,LinkedIn,2026-06-01,Rejected,Position filled,Yes
+APP-000132,CAND-000132,REQ-0006,Company Careers,2026-05-24,Rejected,Position filled,Yes
+APP-000133,CAND-000133,REQ-0006,University,2026-05-08,Rejected,Position filled,Yes
+APP-000134,CAND-000134,REQ-0006,University,2026-05-24,Rejected,Other candidates progressed,Yes
+APP-000135,CAND-000135,REQ-0006,University,2026-06-02,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000136,CAND-000136,REQ-0006,Indeed,2026-06-16,Rejected,Position filled,Yes
+APP-000137,CAND-000137,REQ-0006,Professional Network,2026-05-24,Rejected,Position filled,Yes
+APP-000138,CAND-000138,REQ-0006,Employee Referral,2026-05-30,Withdrawn,Candidate withdrew after review,Yes
+APP-000139,CAND-000139,REQ-0006,Employee Referral,2026-05-14,Rejected,Other candidates progressed,Yes
+APP-000140,CAND-000140,REQ-0006,Company Careers,2026-05-24,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000141,CAND-000141,REQ-0006,Professional Network,2026-06-25,Rejected,Position filled,Yes
+APP-000142,CAND-000142,REQ-0006,Company Careers,2026-05-02,Rejected,Position filled,Yes
+APP-000143,CAND-000143,REQ-0006,LinkedIn,2026-05-02,Rejected,Other candidates progressed,Yes
+APP-000144,CAND-000144,REQ-0006,Indeed,2026-05-25,Rejected,Other candidates progressed,Yes
+APP-000145,CAND-000145,REQ-0006,LinkedIn,2026-06-06,Rejected,Other candidates progressed,Yes
+APP-000146,CAND-000146,REQ-0006,Company Careers,2026-05-17,Withdrawn,Candidate withdrew after review,Yes
+APP-000147,CAND-000147,REQ-0006,Company Careers,2026-06-01,Rejected,Job-related requirements not met,Yes
+APP-000148,CAND-000148,REQ-0006,Indeed,2026-06-11,Rejected,Job-related requirements not met,Yes
+APP-000149,CAND-000149,REQ-0006,Professional Network,2026-05-26,Rejected,Other candidates progressed,Yes
+APP-000150,CAND-000150,REQ-0006,Company Careers,2026-05-26,Rejected,Other candidates progressed,Yes
+APP-000151,CAND-000151,REQ-0006,University,2026-06-02,Rejected,Position filled,Yes
+APP-000152,CAND-000152,REQ-0006,Employee Referral,2026-05-10,Rejected,Other candidates progressed,Yes
+APP-000153,CAND-000153,REQ-0006,University,2026-06-15,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000154,CAND-000154,REQ-0006,LinkedIn,2026-05-29,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000155,CAND-000155,REQ-0006,Employee Referral,2026-05-22,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000156,CAND-000156,REQ-0006,Professional Network,2026-05-31,Rejected,Job-related requirements not met,Yes
+APP-000157,CAND-000157,REQ-0006,LinkedIn,2026-06-15,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000158,CAND-000158,REQ-0006,Indeed,2026-05-23,Rejected,Other candidates progressed,Yes
+APP-000159,CAND-000159,REQ-0006,Professional Network,2026-06-05,Rejected,Other candidates progressed,Yes
+APP-000160,CAND-000160,REQ-0006,University,2026-05-19,Rejected,Other candidates progressed,Yes
+APP-000161,CAND-000161,REQ-0006,University,2026-06-28,Withdrawn,Candidate withdrew after review,Yes
+APP-000162,CAND-000162,REQ-0006,Professional Network,2026-06-04,Hired,,Yes
+APP-000163,CAND-000163,REQ-0006,LinkedIn,2026-04-29,Rejected,Job-related requirements not met,Yes
+APP-000164,CAND-000164,REQ-0006,University,2026-06-10,Rejected,Job-related requirements not met,Yes
+APP-000165,CAND-000165,REQ-0006,Indeed,2026-06-28,Withdrawn,Candidate withdrew after review,Yes
+APP-000166,CAND-000166,REQ-0007,Company Careers,2026-04-18,Rejected,Job-related requirements not met,Yes
+APP-000167,CAND-000167,REQ-0007,Company Careers,2026-04-18,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000168,CAND-000168,REQ-0007,Employee Referral,2026-05-13,Rejected,Other candidates progressed,Yes
+APP-000169,CAND-000169,REQ-0007,Professional Network,2026-05-13,Withdrawn,Candidate withdrew after review,Yes
+APP-000170,CAND-000170,REQ-0007,University,2026-04-16,Rejected,Job-related requirements not met,Yes
+APP-000171,CAND-000171,REQ-0007,Indeed,2026-05-10,Rejected,Other candidates progressed,Yes
+APP-000172,CAND-000172,REQ-0007,LinkedIn,2026-04-13,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000173,CAND-000173,REQ-0007,Company Careers,2026-04-21,Rejected,Other candidates progressed,Yes
+APP-000174,CAND-000174,REQ-0007,LinkedIn,2026-05-12,Rejected,Other candidates progressed,Yes
+APP-000175,CAND-000175,REQ-0007,Employee Referral,2026-04-23,Rejected,Job-related requirements not met,Yes
+APP-000176,CAND-000176,REQ-0007,LinkedIn,2026-04-09,Rejected,Other candidates progressed,Yes
+APP-000177,CAND-000177,REQ-0007,Indeed,2026-04-26,Hired,,Yes
+APP-000178,CAND-000178,REQ-0007,Indeed,2026-05-18,Withdrawn,Candidate withdrew after review,Yes
+APP-000179,CAND-000179,REQ-0007,LinkedIn,2026-04-05,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000180,CAND-000180,REQ-0007,Indeed,2026-05-06,Rejected,Other candidates progressed,Yes
+APP-000181,CAND-000181,REQ-0007,LinkedIn,2026-04-02,Rejected,Job-related requirements not met,Yes
+APP-000182,CAND-000182,REQ-0007,LinkedIn,2026-04-27,Rejected,Other candidates progressed,Yes
+APP-000183,CAND-000183,REQ-0007,University,2026-05-04,Rejected,Other candidates progressed,Yes
+APP-000184,CAND-000184,REQ-0007,Employee Referral,2026-04-16,Rejected,Job-related requirements not met,Yes
+APP-000185,CAND-000185,REQ-0007,Employee Referral,2026-04-07,Rejected,Other candidates progressed,Yes
+APP-000186,CAND-000186,REQ-0007,Professional Network,2026-05-09,Rejected,Job-related requirements not met,Yes
+APP-000187,CAND-000187,REQ-0007,LinkedIn,2026-04-03,Rejected,Other candidates progressed,Yes
+APP-000188,CAND-000188,REQ-0007,Employee Referral,2026-03-31,Rejected,Job-related requirements not met,Yes
+APP-000189,CAND-000189,REQ-0007,Indeed,2026-04-28,Rejected,Position filled,Yes
+APP-000190,CAND-000190,REQ-0007,LinkedIn,2026-04-23,Withdrawn,Candidate withdrew after review,Yes
+APP-000191,CAND-000191,REQ-0007,LinkedIn,2026-05-13,Rejected,Job-related requirements not met,Yes
+APP-000192,CAND-000192,REQ-0007,Indeed,2026-04-25,Rejected,Other candidates progressed,Yes
+APP-000193,CAND-000193,REQ-0007,LinkedIn,2026-04-29,Rejected,Job-related requirements not met,No
+APP-000194,CAND-000194,REQ-0007,Indeed,2026-04-15,Rejected,Job-related requirements not met,No
+APP-000195,CAND-000195,REQ-0007,Professional Network,2026-05-01,Rejected,Other candidates progressed,Yes
+APP-000196,CAND-000196,REQ-0007,Professional Network,2026-05-18,Rejected,Other candidates progressed,Yes
+APP-000197,CAND-000197,REQ-0008,Indeed,2026-06-09,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000198,CAND-000198,REQ-0008,Indeed,2026-05-20,Rejected,Position filled,Yes
+APP-000199,CAND-000199,REQ-0008,Indeed,2026-07-10,Rejected,Position filled,Yes
+APP-000200,CAND-000200,REQ-0008,University,2026-06-19,Withdrawn,Candidate withdrew after review,Yes
+APP-000201,CAND-000201,REQ-0008,LinkedIn,2026-06-20,Rejected,Other candidates progressed,Yes
+APP-000202,CAND-000202,REQ-0008,Employee Referral,2026-05-24,Rejected,Job-related requirements not met,Yes
+APP-000203,CAND-000203,REQ-0008,Company Careers,2026-06-14,Rejected,Job-related requirements not met,Yes
+APP-000204,CAND-000204,REQ-0008,Indeed,2026-07-04,Rejected,Position filled,Yes
+APP-000205,CAND-000205,REQ-0008,Indeed,2026-06-21,Rejected,Other candidates progressed,Yes
+APP-000206,CAND-000206,REQ-0008,Employee Referral,2026-06-18,Rejected,Other candidates progressed,Yes
+APP-000207,CAND-000207,REQ-0008,Professional Network,2026-06-11,Rejected,Position filled,Yes
+APP-000208,CAND-000208,REQ-0008,LinkedIn,2026-07-04,Rejected,Position filled,Yes
+APP-000209,CAND-000209,REQ-0008,University,2026-05-25,Rejected,Other candidates progressed,Yes
+APP-000210,CAND-000210,REQ-0008,Indeed,2026-07-09,Withdrawn,Candidate withdrew after review,Yes
+APP-000211,CAND-000211,REQ-0008,Company Careers,2026-07-06,Withdrawn,Candidate withdrew after review,Yes
+APP-000212,CAND-000212,REQ-0008,LinkedIn,2026-06-19,Rejected,Other candidates progressed,Yes
+APP-000213,CAND-000213,REQ-0008,LinkedIn,2026-05-17,Rejected,Other candidates progressed,Yes
+APP-000214,CAND-000214,REQ-0008,Professional Network,2026-06-30,Rejected,Position filled,Yes
+APP-000215,CAND-000215,REQ-0008,Company Careers,2026-06-09,Rejected,Job-related requirements not met,Yes
+APP-000216,CAND-000216,REQ-0008,Company Careers,2026-05-20,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000217,CAND-000217,REQ-0008,Professional Network,2026-06-16,Rejected,Position filled,Yes
+APP-000218,CAND-000218,REQ-0008,Professional Network,2026-06-24,Rejected,Job-related requirements not met,Yes
+APP-000219,CAND-000219,REQ-0008,LinkedIn,2026-06-11,Rejected,Other candidates progressed,Yes
+APP-000220,CAND-000220,REQ-0008,LinkedIn,2026-05-23,Rejected,Position filled,Yes
+APP-000221,CAND-000221,REQ-0008,Employee Referral,2026-06-27,Rejected,Position filled,Yes
+APP-000222,CAND-000222,REQ-0008,Indeed,2026-05-24,Withdrawn,Candidate withdrew after review,Yes
+APP-000223,CAND-000223,REQ-0008,LinkedIn,2026-06-26,Withdrawn,Candidate withdrew after review,No
+APP-000224,CAND-000224,REQ-0008,Employee Referral,2026-05-21,Withdrawn,Candidate withdrew after review,Yes
+APP-000225,CAND-000225,REQ-0008,Indeed,2026-05-29,Rejected,Position filled,Yes
+APP-000226,CAND-000226,REQ-0008,Professional Network,2026-06-11,Rejected,Job-related requirements not met,Yes
+APP-000227,CAND-000227,REQ-0008,Company Careers,2026-06-15,Hired,,Yes
+APP-000228,CAND-000228,REQ-0008,University,2026-07-07,Rejected,Position filled,Yes
+APP-000229,CAND-000229,REQ-0009,University,2026-04-01,Rejected,Job-related requirements not met,Yes
+APP-000230,CAND-000230,REQ-0009,Indeed,2026-04-28,Rejected,Other candidates progressed,Yes
+APP-000231,CAND-000231,REQ-0009,Company Careers,2026-03-22,Rejected,Other candidates progressed,Yes
+APP-000232,CAND-000232,REQ-0009,University,2026-03-17,Rejected,Position filled,Yes
+APP-000233,CAND-000233,REQ-0009,LinkedIn,2026-05-19,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000234,CAND-000234,REQ-0009,Employee Referral,2026-04-15,Rejected,Other candidates progressed,Yes
+APP-000235,CAND-000235,REQ-0009,LinkedIn,2026-03-24,Rejected,Position filled,Yes
+APP-000236,CAND-000236,REQ-0009,LinkedIn,2026-04-24,Hired,,Yes
+APP-000237,CAND-000237,REQ-0009,Indeed,2026-03-30,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000238,CAND-000238,REQ-0009,Indeed,2026-04-06,Rejected,Other candidates progressed,Yes
+APP-000239,CAND-000239,REQ-0009,Employee Referral,2026-03-20,Rejected,Other candidates progressed,Yes
+APP-000240,CAND-000240,REQ-0009,Employee Referral,2026-04-27,Withdrawn,Candidate withdrew after review,Yes
+APP-000241,CAND-000241,REQ-0009,University,2026-04-24,Withdrawn,Candidate withdrew after review,Yes
+APP-000242,CAND-000242,REQ-0009,Professional Network,2026-03-25,Rejected,Job-related requirements not met,Yes
+APP-000243,CAND-000243,REQ-0009,LinkedIn,2026-04-13,Rejected,Job-related requirements not met,Yes
+APP-000244,CAND-000244,REQ-0009,Professional Network,2026-04-05,Rejected,Job-related requirements not met,Yes
+APP-000245,CAND-000245,REQ-0009,University,2026-05-17,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000246,CAND-000246,REQ-0009,Employee Referral,2026-05-09,Rejected,Other candidates progressed,Yes
+APP-000247,CAND-000247,REQ-0009,LinkedIn,2026-05-07,Rejected,Other candidates progressed,Yes
+APP-000248,CAND-000248,REQ-0009,LinkedIn,2026-05-19,Rejected,Job-related requirements not met,Yes
+APP-000249,CAND-000249,REQ-0009,Professional Network,2026-04-09,Rejected,Other candidates progressed,Yes
+APP-000250,CAND-000250,REQ-0009,Indeed,2026-04-13,Rejected,Job-related requirements not met,Yes
+APP-000251,CAND-000251,REQ-0010,University,2026-03-11,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000252,CAND-000252,REQ-0010,LinkedIn,2026-02-17,Rejected,Job-related requirements not met,No
+APP-000253,CAND-000253,REQ-0010,Employee Referral,2026-03-12,Rejected,Other candidates progressed,Yes
+APP-000254,CAND-000254,REQ-0010,University,2026-01-31,Rejected,Job-related requirements not met,Yes
+APP-000255,CAND-000255,REQ-0010,LinkedIn,2026-01-27,Rejected,Other candidates progressed,Yes
+APP-000256,CAND-000256,REQ-0010,Company Careers,2026-02-02,Rejected,Position filled,Yes
+APP-000257,CAND-000257,REQ-0010,Employee Referral,2026-01-18,Rejected,Other candidates progressed,Yes
+APP-000258,CAND-000258,REQ-0010,Employee Referral,2026-02-08,Rejected,Position filled,Yes
+APP-000259,CAND-000259,REQ-0010,LinkedIn,2026-01-19,Rejected,Other candidates progressed,Yes
+APP-000260,CAND-000260,REQ-0010,LinkedIn,2026-03-12,Rejected,Other candidates progressed,Yes
+APP-000261,CAND-000261,REQ-0010,University,2026-02-23,Rejected,Job-related requirements not met,Yes
+APP-000262,CAND-000262,REQ-0010,Indeed,2026-02-22,Rejected,Job-related requirements not met,Yes
+APP-000263,CAND-000263,REQ-0010,Employee Referral,2026-01-23,Withdrawn,Candidate withdrew after review,Yes
+APP-000264,CAND-000264,REQ-0010,LinkedIn,2026-01-18,Withdrawn,Candidate withdrew after review,Yes
+APP-000265,CAND-000265,REQ-0010,Indeed,2026-03-07,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000266,CAND-000266,REQ-0010,Indeed,2026-01-26,Rejected,Job-related requirements not met,Yes
+APP-000267,CAND-000267,REQ-0010,Company Careers,2026-02-05,Rejected,Other candidates progressed,Yes
+APP-000268,CAND-000268,REQ-0010,Company Careers,2026-02-25,Rejected,Job-related requirements not met,Yes
+APP-000269,CAND-000269,REQ-0010,Company Careers,2026-02-01,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000270,CAND-000270,REQ-0010,Company Careers,2026-02-16,Rejected,Position filled,Yes
+APP-000271,CAND-000271,REQ-0010,Indeed,2026-02-17,Rejected,Position filled,Yes
+APP-000272,CAND-000272,REQ-0010,LinkedIn,2026-02-22,Withdrawn,Candidate withdrew after review,Yes
+APP-000273,CAND-000273,REQ-0010,Company Careers,2026-02-07,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000274,CAND-000274,REQ-0010,LinkedIn,2026-02-22,Hired,,Yes
+APP-000275,CAND-000275,REQ-0010,University,2026-01-26,Rejected,Job-related requirements not met,Yes
+APP-000276,CAND-000276,REQ-0010,University,2026-01-21,Rejected,Other candidates progressed,Yes
+APP-000277,CAND-000277,REQ-0010,Professional Network,2026-02-16,Rejected,Job-related requirements not met,Yes
+APP-000278,CAND-000278,REQ-0010,Employee Referral,2026-03-19,Rejected,Other candidates progressed,Yes
+APP-000279,CAND-000279,REQ-0010,LinkedIn,2026-03-05,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000280,CAND-000280,REQ-0010,University,2026-03-16,Withdrawn,Candidate withdrew after review,Yes
+APP-000281,CAND-000281,REQ-0010,University,2026-02-13,Rejected,Job-related requirements not met,Yes
+APP-000282,CAND-000282,REQ-0010,Employee Referral,2026-03-11,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000283,CAND-000283,REQ-0010,Employee Referral,2026-01-31,Withdrawn,Candidate withdrew after review,Yes
+APP-000284,CAND-000284,REQ-0010,Employee Referral,2026-02-06,Rejected,Position filled,Yes
+APP-000285,CAND-000285,REQ-0010,University,2026-03-06,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000286,CAND-000286,REQ-0010,Professional Network,2026-03-12,Withdrawn,Candidate withdrew after review,Yes
+APP-000287,CAND-000287,REQ-0010,Indeed,2026-01-18,Withdrawn,Candidate withdrew after review,Yes
+APP-000288,CAND-000288,REQ-0010,Company Careers,2026-02-16,Rejected,Job-related requirements not met,No
+APP-000289,CAND-000289,REQ-0010,Indeed,2026-01-24,Rejected,Other candidates progressed,Yes
+APP-000290,CAND-000290,REQ-0011,University,2026-06-27,Rejected,Position filled,Yes
+APP-000291,CAND-000291,REQ-0011,Indeed,2026-05-26,Withdrawn,Candidate withdrew after review,Yes
+APP-000292,CAND-000292,REQ-0011,University,2026-07-01,Withdrawn,Candidate withdrew after review,Yes
+APP-000293,CAND-000293,REQ-0011,Indeed,2026-07-01,Rejected,Position filled,Yes
+APP-000294,CAND-000294,REQ-0011,Employee Referral,2026-05-26,Rejected,Job-related requirements not met,Yes
+APP-000295,CAND-000295,REQ-0011,LinkedIn,2026-06-09,Withdrawn,Candidate withdrew after review,Yes
+APP-000296,CAND-000296,REQ-0011,LinkedIn,2026-06-13,Rejected,Job-related requirements not met,Yes
+APP-000297,CAND-000297,REQ-0011,Employee Referral,2026-05-26,Rejected,Position filled,Yes
+APP-000298,CAND-000298,REQ-0011,LinkedIn,2026-06-22,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000299,CAND-000299,REQ-0011,Employee Referral,2026-06-18,Withdrawn,Candidate withdrew after review,Yes
+APP-000300,CAND-000300,REQ-0011,Company Careers,2026-06-10,Rejected,Position filled,Yes
+APP-000301,CAND-000301,REQ-0011,University,2026-06-19,Rejected,Job-related requirements not met,Yes
+APP-000302,CAND-000302,REQ-0011,Professional Network,2026-06-05,Rejected,Other candidates progressed,No
+APP-000303,CAND-000303,REQ-0011,Professional Network,2026-05-27,Withdrawn,Candidate withdrew after review,Yes
+APP-000304,CAND-000304,REQ-0011,Company Careers,2026-06-10,Rejected,Position filled,Yes
+APP-000305,CAND-000305,REQ-0011,Professional Network,2026-06-06,Hired,,Yes
+APP-000306,CAND-000306,REQ-0011,LinkedIn,2026-06-09,Withdrawn,Candidate withdrew after review,Yes
+APP-000307,CAND-000307,REQ-0011,Company Careers,2026-06-08,Withdrawn,Candidate withdrew after review,Yes
+APP-000308,CAND-000308,REQ-0011,Indeed,2026-06-24,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000309,CAND-000309,REQ-0011,Indeed,2026-06-08,Withdrawn,Candidate withdrew after review,Yes
+APP-000310,CAND-000310,REQ-0011,Indeed,2026-06-18,Rejected,Other candidates progressed,Yes
+APP-000311,CAND-000311,REQ-0011,University,2026-06-30,Rejected,Job-related requirements not met,Yes
+APP-000312,CAND-000312,REQ-0011,Indeed,2026-06-19,Rejected,Position filled,Yes
+APP-000313,CAND-000313,REQ-0011,Company Careers,2026-06-20,Rejected,Other candidates progressed,Yes
+APP-000314,CAND-000314,REQ-0011,LinkedIn,2026-05-23,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000315,CAND-000315,REQ-0011,Employee Referral,2026-06-16,Rejected,Position filled,Yes
+APP-000316,CAND-000316,REQ-0012,Company Careers,2026-04-25,Rejected,Other candidates progressed,Yes
+APP-000317,CAND-000317,REQ-0012,Employee Referral,2026-04-24,Withdrawn,Candidate withdrew after review,Yes
+APP-000318,CAND-000318,REQ-0012,Professional Network,2026-04-08,Withdrawn,Candidate withdrew after review,Yes
+APP-000319,CAND-000319,REQ-0012,University,2026-04-17,Rejected,Position filled,Yes
+APP-000320,CAND-000320,REQ-0012,LinkedIn,2026-04-09,Rejected,Other candidates progressed,Yes
+APP-000321,CAND-000321,REQ-0012,University,2026-04-18,Rejected,Job-related requirements not met,Yes
+APP-000322,CAND-000322,REQ-0012,University,2026-04-20,Withdrawn,Candidate withdrew after review,Yes
+APP-000323,CAND-000323,REQ-0012,Company Careers,2026-04-14,Rejected,Job-related requirements not met,Yes
+APP-000324,CAND-000324,REQ-0012,Professional Network,2026-04-14,Withdrawn,Candidate withdrew after review,Yes
+APP-000325,CAND-000325,REQ-0012,Employee Referral,2026-04-09,Withdrawn,Candidate withdrew after review,Yes
+APP-000326,CAND-000326,REQ-0012,University,2026-04-17,Rejected,Position filled,Yes
+APP-000327,CAND-000327,REQ-0012,LinkedIn,2026-04-02,Rejected,Other candidates progressed,Yes
+APP-000328,CAND-000328,REQ-0012,University,2026-04-27,Rejected,Position filled,Yes
+APP-000329,CAND-000329,REQ-0012,Employee Referral,2026-04-01,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000330,CAND-000330,REQ-0012,Professional Network,2026-04-20,Rejected,Position filled,Yes
+APP-000331,CAND-000331,REQ-0012,Company Careers,2026-03-30,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000332,CAND-000332,REQ-0012,University,2026-04-06,Rejected,Position filled,Yes
+APP-000333,CAND-000333,REQ-0012,LinkedIn,2026-05-05,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000334,CAND-000334,REQ-0012,Professional Network,2026-04-08,Rejected,Position filled,Yes
+APP-000335,CAND-000335,REQ-0012,Indeed,2026-04-23,Rejected,Job-related requirements not met,Yes
+APP-000336,CAND-000336,REQ-0012,University,2026-04-06,Withdrawn,Candidate withdrew after review,Yes
+APP-000337,CAND-000337,REQ-0012,LinkedIn,2026-04-01,Withdrawn,Candidate withdrew after review,Yes
+APP-000338,CAND-000338,REQ-0012,LinkedIn,2026-05-02,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000339,CAND-000339,REQ-0012,University,2026-04-23,Rejected,Job-related requirements not met,Yes
+APP-000340,CAND-000340,REQ-0012,Indeed,2026-04-19,Rejected,Position filled,Yes
+APP-000341,CAND-000341,REQ-0012,Employee Referral,2026-04-20,Rejected,Position filled,Yes
+APP-000342,CAND-000342,REQ-0012,Indeed,2026-04-01,Rejected,Job-related requirements not met,Yes
+APP-000343,CAND-000343,REQ-0012,Professional Network,2026-04-02,Rejected,Position filled,Yes
+APP-000344,CAND-000344,REQ-0012,LinkedIn,2026-03-30,Rejected,Job-related requirements not met,Yes
+APP-000345,CAND-000345,REQ-0012,Company Careers,2026-04-26,Rejected,Other candidates progressed,No
+APP-000346,CAND-000346,REQ-0012,Professional Network,2026-04-01,Rejected,Position filled,Yes
+APP-000347,CAND-000347,REQ-0012,University,2026-04-12,Rejected,Other candidates progressed,Yes
+APP-000348,CAND-000348,REQ-0012,Indeed,2026-04-05,Rejected,Job-related requirements not met,Yes
+APP-000349,CAND-000349,REQ-0012,Company Careers,2026-04-22,Rejected,Job-related requirements not met,Yes
+APP-000350,CAND-000350,REQ-0012,Company Careers,2026-03-31,Rejected,Job-related requirements not met,Yes
+APP-000351,CAND-000351,REQ-0012,Company Careers,2026-03-31,Rejected,Job-related requirements not met,Yes
+APP-000352,CAND-000352,REQ-0012,Employee Referral,2026-04-10,Rejected,Position filled,Yes
+APP-000353,CAND-000353,REQ-0012,University,2026-04-10,Hired,,Yes
+APP-000354,CAND-000354,REQ-0012,Professional Network,2026-04-29,Rejected,Job-related requirements not met,Yes
+APP-000355,CAND-000355,REQ-0012,Employee Referral,2026-04-14,Rejected,Other candidates progressed,Yes
+APP-000356,CAND-000356,REQ-0012,LinkedIn,2026-04-07,Rejected,Job-related requirements not met,Yes
+APP-000357,CAND-000357,REQ-0013,Company Careers,2026-03-11,Rejected,Job-related requirements not met,Yes
+APP-000358,CAND-000358,REQ-0013,Professional Network,2026-03-24,Rejected,Other candidates progressed,Yes
+APP-000359,CAND-000359,REQ-0013,Employee Referral,2026-03-10,Rejected,Position filled,Yes
+APP-000360,CAND-000360,REQ-0013,Indeed,2026-03-16,Rejected,Position filled,Yes
+APP-000361,CAND-000361,REQ-0013,LinkedIn,2026-03-21,Hired,,Yes
+APP-000362,CAND-000362,REQ-0013,Professional Network,2026-04-15,Rejected,Job-related requirements not met,Yes
+APP-000363,CAND-000363,REQ-0013,Company Careers,2026-04-12,Rejected,Position filled,Yes
+APP-000364,CAND-000364,REQ-0013,Company Careers,2026-03-10,Rejected,Job-related requirements not met,Yes
+APP-000365,CAND-000365,REQ-0013,Employee Referral,2026-03-22,Withdrawn,Candidate withdrew after review,Yes
+APP-000366,CAND-000366,REQ-0013,LinkedIn,2026-04-03,Rejected,Job-related requirements not met,Yes
+APP-000367,CAND-000367,REQ-0013,Employee Referral,2026-03-15,Rejected,Position filled,Yes
+APP-000368,CAND-000368,REQ-0013,Employee Referral,2026-03-22,Rejected,Position filled,Yes
+APP-000369,CAND-000369,REQ-0013,Employee Referral,2026-03-19,Rejected,Job-related requirements not met,Yes
+APP-000370,CAND-000370,REQ-0013,Company Careers,2026-03-22,Rejected,Position filled,Yes
+APP-000371,CAND-000371,REQ-0013,LinkedIn,2026-04-06,Rejected,Job-related requirements not met,Yes
+APP-000372,CAND-000372,REQ-0013,Employee Referral,2026-03-24,Rejected,Job-related requirements not met,Yes
+APP-000373,CAND-000373,REQ-0013,Professional Network,2026-03-26,Rejected,Job-related requirements not met,Yes
+APP-000374,CAND-000374,REQ-0013,Indeed,2026-03-30,Withdrawn,Candidate withdrew after review,Yes
+APP-000375,CAND-000375,REQ-0013,Employee Referral,2026-04-05,Rejected,Other candidates progressed,Yes
+APP-000376,CAND-000376,REQ-0013,Indeed,2026-03-10,Rejected,Job-related requirements not met,Yes
+APP-000377,CAND-000377,REQ-0013,University,2026-04-05,Rejected,Other candidates progressed,Yes
+APP-000378,CAND-000378,REQ-0013,Indeed,2026-03-28,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000379,CAND-000379,REQ-0013,Company Careers,2026-03-30,Withdrawn,Candidate withdrew after review,Yes
+APP-000380,CAND-000380,REQ-0013,Company Careers,2026-03-23,Rejected,Other candidates progressed,Yes
+APP-000381,CAND-000381,REQ-0013,Employee Referral,2026-03-20,Rejected,Position filled,Yes
+APP-000382,CAND-000382,REQ-0013,Indeed,2026-03-18,Rejected,Other candidates progressed,Yes
+APP-000383,CAND-000383,REQ-0013,Company Careers,2026-04-01,Rejected,Other candidates progressed,Yes
+APP-000384,CAND-000384,REQ-0013,Indeed,2026-04-04,Rejected,Position filled,Yes
+APP-000385,CAND-000385,REQ-0014,Indeed,2026-03-26,Rejected,Other candidates progressed,Yes
+APP-000386,CAND-000386,REQ-0014,LinkedIn,2026-03-18,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000387,CAND-000387,REQ-0014,Professional Network,2026-03-29,Rejected,Other candidates progressed,Yes
+APP-000388,CAND-000388,REQ-0014,Professional Network,2026-03-04,Withdrawn,Candidate withdrew after review,Yes
+APP-000389,CAND-000389,REQ-0014,University,2026-03-11,Rejected,Position filled,Yes
+APP-000390,CAND-000390,REQ-0014,Indeed,2026-04-11,Withdrawn,Candidate withdrew after review,Yes
+APP-000391,CAND-000391,REQ-0014,University,2026-03-19,Rejected,Position filled,Yes
+APP-000392,CAND-000392,REQ-0014,Employee Referral,2026-04-05,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000393,CAND-000393,REQ-0014,Indeed,2026-03-15,Rejected,Other candidates progressed,Yes
+APP-000394,CAND-000394,REQ-0014,Professional Network,2026-03-29,Rejected,Job-related requirements not met,Yes
+APP-000395,CAND-000395,REQ-0014,University,2026-04-02,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000396,CAND-000396,REQ-0014,Professional Network,2026-03-15,Withdrawn,Candidate withdrew after review,Yes
+APP-000397,CAND-000397,REQ-0014,Professional Network,2026-03-11,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000398,CAND-000398,REQ-0014,Company Careers,2026-03-11,Rejected,Job-related requirements not met,Yes
+APP-000399,CAND-000399,REQ-0014,Indeed,2026-04-05,Rejected,Other candidates progressed,Yes
+APP-000400,CAND-000400,REQ-0014,University,2026-04-06,Rejected,Position filled,Yes
+APP-000401,CAND-000401,REQ-0014,Employee Referral,2026-04-05,Withdrawn,Candidate withdrew after review,Yes
+APP-000402,CAND-000402,REQ-0014,Employee Referral,2026-03-08,Rejected,Other candidates progressed,No
+APP-000403,CAND-000403,REQ-0014,LinkedIn,2026-04-03,Rejected,Job-related requirements not met,Yes
+APP-000404,CAND-000404,REQ-0014,University,2026-03-19,Rejected,Other candidates progressed,Yes
+APP-000405,CAND-000405,REQ-0014,Employee Referral,2026-03-22,Rejected,Job-related requirements not met,Yes
+APP-000406,CAND-000406,REQ-0014,Employee Referral,2026-03-28,Rejected,Position filled,Yes
+APP-000407,CAND-000407,REQ-0014,Company Careers,2026-03-11,Rejected,Job-related requirements not met,Yes
+APP-000408,CAND-000408,REQ-0014,University,2026-03-31,Rejected,Other candidates progressed,Yes
+APP-000409,CAND-000409,REQ-0014,Professional Network,2026-04-07,Rejected,Other candidates progressed,Yes
+APP-000410,CAND-000410,REQ-0014,Indeed,2026-03-08,Rejected,Other candidates progressed,Yes
+APP-000411,CAND-000411,REQ-0014,LinkedIn,2026-03-11,Rejected,Position filled,Yes
+APP-000412,CAND-000412,REQ-0014,University,2026-03-11,Rejected,Job-related requirements not met,Yes
+APP-000413,CAND-000413,REQ-0014,Professional Network,2026-03-29,Rejected,Other candidates progressed,Yes
+APP-000414,CAND-000414,REQ-0014,Indeed,2026-03-06,Rejected,Position filled,Yes
+APP-000415,CAND-000415,REQ-0014,University,2026-03-10,Rejected,Job-related requirements not met,Yes
+APP-000416,CAND-000416,REQ-0014,Professional Network,2026-03-17,Hired,,Yes
+APP-000417,CAND-000417,REQ-0014,Indeed,2026-04-06,Withdrawn,Candidate withdrew after review,Yes
+APP-000418,CAND-000418,REQ-0014,University,2026-04-09,Rejected,Other candidates progressed,Yes
+APP-000419,CAND-000419,REQ-0014,Employee Referral,2026-03-06,Rejected,Job-related requirements not met,Yes
+APP-000420,CAND-000420,REQ-0014,Indeed,2026-03-23,Rejected,Job-related requirements not met,Yes
+APP-000421,CAND-000421,REQ-0015,Employee Referral,2026-05-09,Rejected,Job-related requirements not met,Yes
+APP-000422,CAND-000422,REQ-0015,Employee Referral,2026-05-13,Rejected,Position filled,Yes
+APP-000423,CAND-000423,REQ-0015,Company Careers,2026-06-30,Rejected,Job-related requirements not met,Yes
+APP-000424,CAND-000424,REQ-0015,University,2026-05-27,Withdrawn,Candidate withdrew after review,Yes
+APP-000425,CAND-000425,REQ-0015,Indeed,2026-07-01,Rejected,Position filled,Yes
+APP-000426,CAND-000426,REQ-0015,Professional Network,2026-06-10,Withdrawn,Candidate withdrew after review,Yes
+APP-000427,CAND-000427,REQ-0015,Company Careers,2026-05-25,Rejected,Job-related requirements not met,Yes
+APP-000428,CAND-000428,REQ-0015,Company Careers,2026-05-05,Withdrawn,Candidate withdrew after review,Yes
+APP-000429,CAND-000429,REQ-0015,Indeed,2026-06-30,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000430,CAND-000430,REQ-0015,LinkedIn,2026-06-09,Hired,,Yes
+APP-000431,CAND-000431,REQ-0015,Company Careers,2026-05-12,Rejected,Other candidates progressed,Yes
+APP-000432,CAND-000432,REQ-0015,LinkedIn,2026-05-12,Rejected,Other candidates progressed,Yes
+APP-000433,CAND-000433,REQ-0015,LinkedIn,2026-06-20,Withdrawn,Candidate withdrew after review,Yes
+APP-000434,CAND-000434,REQ-0015,LinkedIn,2026-06-08,Rejected,Position filled,Yes
+APP-000435,CAND-000435,REQ-0015,Indeed,2026-05-06,Withdrawn,Candidate withdrew after review,Yes
+APP-000436,CAND-000436,REQ-0015,University,2026-06-13,Rejected,Other candidates progressed,Yes
+APP-000437,CAND-000437,REQ-0015,Indeed,2026-05-25,Rejected,Position filled,Yes
+APP-000438,CAND-000438,REQ-0015,Company Careers,2026-05-27,Rejected,Job-related requirements not met,Yes
+APP-000439,CAND-000439,REQ-0015,Company Careers,2026-07-03,Rejected,Other candidates progressed,Yes
+APP-000440,CAND-000440,REQ-0015,Indeed,2026-06-23,Rejected,Other candidates progressed,Yes
+APP-000441,CAND-000441,REQ-0015,Professional Network,2026-06-22,Withdrawn,Candidate withdrew after review,Yes
+APP-000442,CAND-000442,REQ-0015,Professional Network,2026-05-05,Rejected,Position filled,Yes
+APP-000443,CAND-000443,REQ-0015,Indeed,2026-07-04,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000444,CAND-000444,REQ-0015,Employee Referral,2026-05-25,Rejected,Job-related requirements not met,Yes
+APP-000445,CAND-000445,REQ-0016,Employee Referral,2026-06-01,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000446,CAND-000446,REQ-0016,LinkedIn,2026-06-24,Rejected,Position filled,Yes
+APP-000447,CAND-000447,REQ-0016,Professional Network,2026-06-24,Withdrawn,Candidate withdrew after review,Yes
+APP-000448,CAND-000448,REQ-0016,Employee Referral,2026-06-22,Rejected,Job-related requirements not met,Yes
+APP-000449,CAND-000449,REQ-0016,Company Careers,2026-06-11,Rejected,Position filled,Yes
+APP-000450,CAND-000450,REQ-0016,Company Careers,2026-06-14,Rejected,Other candidates progressed,Yes
+APP-000451,CAND-000451,REQ-0016,Professional Network,2026-05-24,Rejected,Other candidates progressed,Yes
+APP-000452,CAND-000452,REQ-0016,University,2026-05-23,Rejected,Job-related requirements not met,Yes
+APP-000453,CAND-000453,REQ-0016,Indeed,2026-06-11,Rejected,Position filled,Yes
+APP-000454,CAND-000454,REQ-0016,Indeed,2026-06-07,Withdrawn,Candidate withdrew after review,Yes
+APP-000455,CAND-000455,REQ-0016,Employee Referral,2026-06-17,Rejected,Other candidates progressed,Yes
+APP-000456,CAND-000456,REQ-0016,LinkedIn,2026-05-30,Rejected,Other candidates progressed,Yes
+APP-000457,CAND-000457,REQ-0016,Professional Network,2026-06-11,Rejected,Job-related requirements not met,Yes
+APP-000458,CAND-000458,REQ-0016,Company Careers,2026-06-26,Rejected,Position filled,Yes
+APP-000459,CAND-000459,REQ-0016,University,2026-05-23,Rejected,Other candidates progressed,Yes
+APP-000460,CAND-000460,REQ-0016,University,2026-05-27,Rejected,Job-related requirements not met,Yes
+APP-000461,CAND-000461,REQ-0016,Indeed,2026-06-24,Rejected,Position filled,Yes
+APP-000462,CAND-000462,REQ-0016,Professional Network,2026-06-06,Rejected,Job-related requirements not met,Yes
+APP-000463,CAND-000463,REQ-0016,University,2026-06-24,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000464,CAND-000464,REQ-0016,Indeed,2026-06-07,Rejected,Job-related requirements not met,Yes
+APP-000465,CAND-000465,REQ-0016,Professional Network,2026-06-05,Rejected,Job-related requirements not met,Yes
+APP-000466,CAND-000466,REQ-0016,Indeed,2026-06-17,Rejected,Job-related requirements not met,Yes
+APP-000467,CAND-000467,REQ-0016,Professional Network,2026-05-27,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000468,CAND-000468,REQ-0016,University,2026-06-26,Rejected,Other candidates progressed,Yes
+APP-000469,CAND-000469,REQ-0016,Company Careers,2026-05-22,Rejected,Position filled,Yes
+APP-000470,CAND-000470,REQ-0016,Indeed,2026-06-19,Withdrawn,Candidate withdrew after review,No
+APP-000471,CAND-000471,REQ-0016,Professional Network,2026-06-24,Rejected,Job-related requirements not met,Yes
+APP-000472,CAND-000472,REQ-0016,Employee Referral,2026-06-01,Hired,,Yes
+APP-000473,CAND-000473,REQ-0016,Indeed,2026-06-22,Withdrawn,Candidate withdrew after review,Yes
+APP-000474,CAND-000474,REQ-0016,Professional Network,2026-05-31,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000475,CAND-000475,REQ-0016,University,2026-06-10,Withdrawn,Candidate withdrew after review,Yes
+APP-000476,CAND-000476,REQ-0016,Indeed,2026-06-04,Rejected,Position filled,Yes
+APP-000477,CAND-000477,REQ-0017,Professional Network,2026-03-23,Rejected,Job-related requirements not met,Yes
+APP-000478,CAND-000478,REQ-0017,Professional Network,2026-04-10,Withdrawn,Candidate withdrew after review,Yes
+APP-000479,CAND-000479,REQ-0017,Employee Referral,2026-04-04,Rejected,Other candidates progressed,Yes
+APP-000480,CAND-000480,REQ-0017,Indeed,2026-04-12,Rejected,Other candidates progressed,Yes
+APP-000481,CAND-000481,REQ-0017,Employee Referral,2026-03-15,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000482,CAND-000482,REQ-0017,Professional Network,2026-04-11,Rejected,Other candidates progressed,Yes
+APP-000483,CAND-000483,REQ-0017,Employee Referral,2026-03-09,Rejected,Other candidates progressed,Yes
+APP-000484,CAND-000484,REQ-0017,Employee Referral,2026-03-12,Rejected,Other candidates progressed,Yes
+APP-000485,CAND-000485,REQ-0017,Employee Referral,2026-03-14,Withdrawn,Candidate withdrew after review,No
+APP-000486,CAND-000486,REQ-0017,Employee Referral,2026-03-10,Rejected,Other candidates progressed,Yes
+APP-000487,CAND-000487,REQ-0017,Employee Referral,2026-03-27,Rejected,Position filled,Yes
+APP-000488,CAND-000488,REQ-0017,Indeed,2026-04-07,Rejected,Position filled,Yes
+APP-000489,CAND-000489,REQ-0017,Indeed,2026-02-28,Withdrawn,Candidate withdrew after review,Yes
+APP-000490,CAND-000490,REQ-0017,Indeed,2026-03-29,Rejected,Position filled,No
+APP-000491,CAND-000491,REQ-0017,Indeed,2026-03-10,Withdrawn,Candidate withdrew after review,Yes
+APP-000492,CAND-000492,REQ-0017,Employee Referral,2026-03-01,Rejected,Position filled,Yes
+APP-000493,CAND-000493,REQ-0017,Company Careers,2026-04-06,Withdrawn,Candidate withdrew after review,Yes
+APP-000494,CAND-000494,REQ-0017,Employee Referral,2026-04-14,Rejected,Job-related requirements not met,Yes
+APP-000495,CAND-000495,REQ-0017,Employee Referral,2026-04-05,Rejected,Job-related requirements not met,Yes
+APP-000496,CAND-000496,REQ-0017,Indeed,2026-04-15,Rejected,Other candidates progressed,Yes
+APP-000497,CAND-000497,REQ-0017,Professional Network,2026-03-09,Rejected,Job-related requirements not met,Yes
+APP-000498,CAND-000498,REQ-0017,Indeed,2026-03-31,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000499,CAND-000499,REQ-0017,Professional Network,2026-04-09,Withdrawn,Candidate withdrew after review,Yes
+APP-000500,CAND-000500,REQ-0017,Indeed,2026-04-09,Withdrawn,Candidate withdrew after review,Yes
+APP-000501,CAND-000501,REQ-0017,Professional Network,2026-04-06,Withdrawn,Candidate withdrew after review,Yes
+APP-000502,CAND-000502,REQ-0017,Indeed,2026-03-20,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000503,CAND-000503,REQ-0017,LinkedIn,2026-03-21,Hired,,Yes
+APP-000504,CAND-000504,REQ-0017,LinkedIn,2026-03-08,Rejected,Position filled,Yes
+APP-000505,CAND-000505,REQ-0017,LinkedIn,2026-03-24,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000506,CAND-000506,REQ-0017,Company Careers,2026-04-13,Withdrawn,Candidate withdrew after review,Yes
+APP-000507,CAND-000507,REQ-0017,Employee Referral,2026-04-13,Rejected,Position filled,Yes
+APP-000508,CAND-000508,REQ-0017,LinkedIn,2026-04-10,Withdrawn,Candidate withdrew after review,Yes
+APP-000509,CAND-000509,REQ-0018,Professional Network,2026-05-15,Rejected,Job-related requirements not met,Yes
+APP-000510,CAND-000510,REQ-0018,Company Careers,2026-05-18,Rejected,Position filled,Yes
+APP-000511,CAND-000511,REQ-0018,University,2026-05-28,Rejected,Job-related requirements not met,Yes
+APP-000512,CAND-000512,REQ-0018,Professional Network,2026-06-11,Rejected,Position filled,Yes
+APP-000513,CAND-000513,REQ-0018,Employee Referral,2026-06-03,Withdrawn,Candidate withdrew after review,Yes
+APP-000514,CAND-000514,REQ-0018,University,2026-05-08,Withdrawn,Candidate withdrew after review,Yes
+APP-000515,CAND-000515,REQ-0018,Company Careers,2026-05-09,Rejected,Other candidates progressed,Yes
+APP-000516,CAND-000516,REQ-0018,Company Careers,2026-04-29,Withdrawn,Candidate withdrew after review,Yes
+APP-000517,CAND-000517,REQ-0018,Employee Referral,2026-05-03,Rejected,Other candidates progressed,Yes
+APP-000518,CAND-000518,REQ-0018,LinkedIn,2026-05-24,Hired,,Yes
+APP-000519,CAND-000519,REQ-0018,Indeed,2026-05-27,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000520,CAND-000520,REQ-0018,Indeed,2026-04-27,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000521,CAND-000521,REQ-0018,Indeed,2026-05-05,Rejected,Position filled,Yes
+APP-000522,CAND-000522,REQ-0018,LinkedIn,2026-05-18,Rejected,Job-related requirements not met,Yes
+APP-000523,CAND-000523,REQ-0018,Employee Referral,2026-05-14,Rejected,Job-related requirements not met,No
+APP-000524,CAND-000524,REQ-0018,Professional Network,2026-06-06,Withdrawn,Candidate withdrew after review,Yes
+APP-000525,CAND-000525,REQ-0018,Employee Referral,2026-06-16,Withdrawn,Candidate withdrew after review,Yes
+APP-000526,CAND-000526,REQ-0018,University,2026-05-04,Rejected,Other candidates progressed,Yes
+APP-000527,CAND-000527,REQ-0018,University,2026-05-03,Rejected,Other candidates progressed,Yes
+APP-000528,CAND-000528,REQ-0018,Company Careers,2026-05-04,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000529,CAND-000529,REQ-0018,Indeed,2026-05-11,Rejected,Job-related requirements not met,Yes
+APP-000530,CAND-000530,REQ-0018,Professional Network,2026-05-07,Rejected,Other candidates progressed,Yes
+APP-000531,CAND-000531,REQ-0018,Indeed,2026-06-05,Withdrawn,Candidate withdrew after review,No
+APP-000532,CAND-000532,REQ-0018,University,2026-04-27,Rejected,Position filled,Yes
+APP-000533,CAND-000533,REQ-0018,Employee Referral,2026-05-03,Withdrawn,Candidate withdrew after review,Yes
+APP-000534,CAND-000534,REQ-0018,Employee Referral,2026-06-03,Withdrawn,Candidate withdrew after review,Yes
+APP-000535,CAND-000535,REQ-0018,Company Careers,2026-06-09,Rejected,Position filled,Yes
+APP-000536,CAND-000536,REQ-0019,Company Careers,2026-05-30,Rejected,Job-related requirements not met,Yes
+APP-000537,CAND-000537,REQ-0019,University,2026-05-12,Rejected,Position filled,Yes
+APP-000538,CAND-000538,REQ-0019,Employee Referral,2026-05-12,Withdrawn,Candidate withdrew after review,Yes
+APP-000539,CAND-000539,REQ-0019,University,2026-05-17,Rejected,Position filled,Yes
+APP-000540,CAND-000540,REQ-0019,Company Careers,2026-06-18,Rejected,Position filled,Yes
+APP-000541,CAND-000541,REQ-0019,Employee Referral,2026-07-06,Withdrawn,Candidate withdrew after review,Yes
+APP-000542,CAND-000542,REQ-0019,Company Careers,2026-06-22,Withdrawn,Candidate withdrew after review,Yes
+APP-000543,CAND-000543,REQ-0019,Company Careers,2026-06-19,Rejected,Other candidates progressed,Yes
+APP-000544,CAND-000544,REQ-0019,Indeed,2026-05-30,Rejected,Other candidates progressed,Yes
+APP-000545,CAND-000545,REQ-0019,University,2026-05-29,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000546,CAND-000546,REQ-0019,Employee Referral,2026-06-22,Rejected,Position filled,Yes
+APP-000547,CAND-000547,REQ-0019,Indeed,2026-05-19,Rejected,Job-related requirements not met,Yes
+APP-000548,CAND-000548,REQ-0019,Professional Network,2026-05-29,Rejected,Other candidates progressed,Yes
+APP-000549,CAND-000549,REQ-0019,University,2026-05-19,Withdrawn,Candidate withdrew after review,Yes
+APP-000550,CAND-000550,REQ-0019,LinkedIn,2026-06-21,Rejected,Position filled,Yes
+APP-000551,CAND-000551,REQ-0019,Indeed,2026-06-11,Rejected,Position filled,Yes
+APP-000552,CAND-000552,REQ-0019,Company Careers,2026-06-12,Hired,,Yes
+APP-000553,CAND-000553,REQ-0019,Employee Referral,2026-05-14,Rejected,Position filled,Yes
+APP-000554,CAND-000554,REQ-0019,Employee Referral,2026-05-23,Rejected,Other candidates progressed,Yes
+APP-000555,CAND-000555,REQ-0019,University,2026-06-23,Rejected,Position filled,No
+APP-000556,CAND-000556,REQ-0019,Company Careers,2026-06-07,Rejected,Other candidates progressed,Yes
+APP-000557,CAND-000557,REQ-0019,University,2026-06-26,Rejected,Other candidates progressed,No
+APP-000558,CAND-000558,REQ-0019,LinkedIn,2026-06-25,Rejected,Position filled,Yes
+APP-000559,CAND-000559,REQ-0019,Employee Referral,2026-07-02,Rejected,Position filled,Yes
+APP-000560,CAND-000560,REQ-0019,LinkedIn,2026-05-14,Rejected,Other candidates progressed,Yes
+APP-000561,CAND-000561,REQ-0019,University,2026-06-22,Rejected,Job-related requirements not met,Yes
+APP-000562,CAND-000562,REQ-0019,Professional Network,2026-06-06,Rejected,Job-related requirements not met,Yes
+APP-000563,CAND-000563,REQ-0019,Indeed,2026-07-02,Rejected,Other candidates progressed,Yes
+APP-000564,CAND-000564,REQ-0019,University,2026-06-06,Rejected,Other candidates progressed,Yes
+APP-000565,CAND-000565,REQ-0019,Professional Network,2026-06-18,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000566,CAND-000566,REQ-0019,Company Careers,2026-06-06,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000567,CAND-000567,REQ-0019,LinkedIn,2026-07-03,Rejected,Position filled,Yes
+APP-000568,CAND-000568,REQ-0019,University,2026-06-18,Withdrawn,Candidate withdrew after review,Yes
+APP-000569,CAND-000569,REQ-0019,Company Careers,2026-05-29,Rejected,Position filled,Yes
+APP-000570,CAND-000570,REQ-0019,Indeed,2026-06-12,Rejected,Position filled,Yes
+APP-000571,CAND-000571,REQ-0019,Indeed,2026-07-02,Withdrawn,Candidate withdrew after review,Yes
+APP-000572,CAND-000572,REQ-0019,LinkedIn,2026-05-15,Withdrawn,Candidate withdrew after review,Yes
+APP-000573,CAND-000573,REQ-0019,LinkedIn,2026-06-08,Rejected,Position filled,Yes
+APP-000574,CAND-000574,REQ-0020,Company Careers,2026-05-07,Withdrawn,Candidate withdrew after review,No
+APP-000575,CAND-000575,REQ-0020,Professional Network,2026-04-25,Hired,,Yes
+APP-000576,CAND-000576,REQ-0020,Indeed,2026-03-29,Rejected,Job-related requirements not met,Yes
+APP-000577,CAND-000577,REQ-0020,Professional Network,2026-04-08,Rejected,Other candidates progressed,Yes
+APP-000578,CAND-000578,REQ-0020,Professional Network,2026-04-12,Rejected,Position filled,Yes
+APP-000579,CAND-000579,REQ-0020,Indeed,2026-04-26,Rejected,Other candidates progressed,Yes
+APP-000580,CAND-000580,REQ-0020,University,2026-05-02,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000581,CAND-000581,REQ-0020,University,2026-04-08,Withdrawn,Candidate withdrew after review,Yes
+APP-000582,CAND-000582,REQ-0020,Company Careers,2026-04-25,Withdrawn,Candidate withdrew after review,Yes
+APP-000583,CAND-000583,REQ-0020,University,2026-04-27,Withdrawn,Candidate withdrew after review,Yes
+APP-000584,CAND-000584,REQ-0020,University,2026-04-26,Rejected,Other candidates progressed,Yes
+APP-000585,CAND-000585,REQ-0020,University,2026-05-13,Rejected,Other candidates progressed,Yes
+APP-000586,CAND-000586,REQ-0020,Professional Network,2026-04-01,Rejected,Job-related requirements not met,Yes
+APP-000587,CAND-000587,REQ-0020,Professional Network,2026-05-08,Rejected,Other candidates progressed,Yes
+APP-000588,CAND-000588,REQ-0020,University,2026-03-25,Withdrawn,Candidate withdrew after review,Yes
+APP-000589,CAND-000589,REQ-0020,LinkedIn,2026-05-12,Rejected,Other candidates progressed,Yes
+APP-000590,CAND-000590,REQ-0020,University,2026-04-24,Withdrawn,Candidate withdrew after review,Yes
+APP-000591,CAND-000591,REQ-0020,Employee Referral,2026-03-24,Rejected,Job-related requirements not met,Yes
+APP-000592,CAND-000592,REQ-0020,LinkedIn,2026-03-24,Rejected,Other candidates progressed,Yes
+APP-000593,CAND-000593,REQ-0020,Company Careers,2026-04-05,Withdrawn,Candidate withdrew after review,Yes
+APP-000594,CAND-000594,REQ-0020,Indeed,2026-04-22,Rejected,Position filled,Yes
+APP-000595,CAND-000595,REQ-0020,Company Careers,2026-05-07,Withdrawn,Candidate withdrew after review,Yes
+APP-000596,CAND-000596,REQ-0020,Indeed,2026-04-24,Rejected,Other candidates progressed,Yes
+APP-000597,CAND-000597,REQ-0020,LinkedIn,2026-04-24,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000598,CAND-000598,REQ-0020,Company Careers,2026-05-06,Rejected,Other candidates progressed,Yes
+APP-000599,CAND-000599,REQ-0020,Indeed,2026-04-10,Withdrawn,Candidate withdrew after review,Yes
+APP-000600,CAND-000600,REQ-0020,Indeed,2026-04-19,Rejected,Job-related requirements not met,Yes
+APP-000601,CAND-000601,REQ-0020,Professional Network,2026-05-10,Withdrawn,Candidate withdrew after review,Yes
+APP-000602,CAND-000602,REQ-0020,Company Careers,2026-04-07,Rejected,Position filled,Yes
+APP-000603,CAND-000603,REQ-0020,LinkedIn,2026-05-12,Withdrawn,Candidate withdrew after review,Yes
+APP-000604,CAND-000604,REQ-0020,Indeed,2026-05-13,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000605,CAND-000605,REQ-0021,Employee Referral,2026-04-02,Rejected,Other candidates progressed,Yes
+APP-000606,CAND-000606,REQ-0021,University,2026-04-16,Withdrawn,Candidate withdrew after review,Yes
+APP-000607,CAND-000607,REQ-0021,LinkedIn,2026-03-26,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000608,CAND-000608,REQ-0021,Company Careers,2026-04-14,Withdrawn,Candidate withdrew after review,Yes
+APP-000609,CAND-000609,REQ-0021,Professional Network,2026-03-30,Rejected,Other candidates progressed,Yes
+APP-000610,CAND-000610,REQ-0021,University,2026-03-16,Rejected,Position filled,Yes
+APP-000611,CAND-000611,REQ-0021,Company Careers,2026-03-20,Rejected,Position filled,Yes
+APP-000612,CAND-000612,REQ-0021,Indeed,2026-04-02,Rejected,Position filled,Yes
+APP-000613,CAND-000613,REQ-0021,Professional Network,2026-03-14,Rejected,Other candidates progressed,Yes
+APP-000614,CAND-000614,REQ-0021,Professional Network,2026-03-17,Rejected,Other candidates progressed,Yes
+APP-000615,CAND-000615,REQ-0021,Company Careers,2026-04-11,Rejected,Position filled,Yes
+APP-000616,CAND-000616,REQ-0021,Indeed,2026-03-23,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000617,CAND-000617,REQ-0021,Professional Network,2026-04-25,Rejected,Job-related requirements not met,Yes
+APP-000618,CAND-000618,REQ-0021,LinkedIn,2026-05-07,Withdrawn,Candidate withdrew after review,Yes
+APP-000619,CAND-000619,REQ-0021,Employee Referral,2026-03-28,Withdrawn,Candidate withdrew after review,Yes
+APP-000620,CAND-000620,REQ-0021,Professional Network,2026-05-04,Rejected,Other candidates progressed,Yes
+APP-000621,CAND-000621,REQ-0021,Indeed,2026-03-28,Withdrawn,Candidate withdrew after review,Yes
+APP-000622,CAND-000622,REQ-0021,Company Careers,2026-04-27,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000623,CAND-000623,REQ-0021,Employee Referral,2026-05-02,Rejected,Position filled,Yes
+APP-000624,CAND-000624,REQ-0021,Employee Referral,2026-05-07,Rejected,Position filled,Yes
+APP-000625,CAND-000625,REQ-0021,Professional Network,2026-03-16,Rejected,Position filled,No
+APP-000626,CAND-000626,REQ-0021,Professional Network,2026-04-23,Rejected,Job-related requirements not met,Yes
+APP-000627,CAND-000627,REQ-0021,University,2026-04-12,Hired,,Yes
+APP-000628,CAND-000628,REQ-0021,Employee Referral,2026-04-30,Withdrawn,Candidate withdrew after review,Yes
+APP-000629,CAND-000629,REQ-0022,Employee Referral,2026-07-03,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000630,CAND-000630,REQ-0022,LinkedIn,2026-06-19,Withdrawn,Candidate withdrew after review,No
+APP-000631,CAND-000631,REQ-0022,Professional Network,2026-06-27,Withdrawn,Candidate withdrew after review,Yes
+APP-000632,CAND-000632,REQ-0022,Indeed,2026-06-16,Rejected,Job-related requirements not met,Yes
+APP-000633,CAND-000633,REQ-0022,Company Careers,2026-07-05,Rejected,Other candidates progressed,No
+APP-000634,CAND-000634,REQ-0022,Company Careers,2026-06-24,Withdrawn,Candidate withdrew after review,Yes
+APP-000635,CAND-000635,REQ-0022,LinkedIn,2026-06-19,Rejected,Job-related requirements not met,Yes
+APP-000636,CAND-000636,REQ-0022,Indeed,2026-05-17,Rejected,Other candidates progressed,Yes
+APP-000637,CAND-000637,REQ-0022,Indeed,2026-06-13,Hired,,Yes
+APP-000638,CAND-000638,REQ-0022,Professional Network,2026-06-07,Withdrawn,Candidate withdrew after review,Yes
+APP-000639,CAND-000639,REQ-0022,LinkedIn,2026-06-09,Rejected,Other candidates progressed,Yes
+APP-000640,CAND-000640,REQ-0022,Employee Referral,2026-07-02,Rejected,Job-related requirements not met,Yes
+APP-000641,CAND-000641,REQ-0022,Professional Network,2026-06-17,Rejected,Position filled,Yes
+APP-000642,CAND-000642,REQ-0022,Employee Referral,2026-06-10,Rejected,Other candidates progressed,Yes
+APP-000643,CAND-000643,REQ-0022,Professional Network,2026-06-24,Rejected,Position filled,Yes
+APP-000644,CAND-000644,REQ-0022,Company Careers,2026-05-26,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000645,CAND-000645,REQ-0022,Indeed,2026-05-28,Rejected,Job-related requirements not met,Yes
+APP-000646,CAND-000646,REQ-0022,Company Careers,2026-06-24,Rejected,Other candidates progressed,Yes
+APP-000647,CAND-000647,REQ-0022,Company Careers,2026-06-10,Rejected,Other candidates progressed,Yes
+APP-000648,CAND-000648,REQ-0022,University,2026-05-18,Rejected,Job-related requirements not met,Yes
+APP-000649,CAND-000649,REQ-0023,LinkedIn,2026-04-19,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000650,CAND-000650,REQ-0023,Indeed,2026-03-20,Rejected,Position filled,Yes
+APP-000651,CAND-000651,REQ-0023,Professional Network,2026-03-21,Rejected,Job-related requirements not met,Yes
+APP-000652,CAND-000652,REQ-0023,Employee Referral,2026-05-19,Withdrawn,Candidate withdrew after review,Yes
+APP-000653,CAND-000653,REQ-0023,LinkedIn,2026-05-10,Rejected,Job-related requirements not met,Yes
+APP-000654,CAND-000654,REQ-0023,Employee Referral,2026-05-04,Withdrawn,Candidate withdrew after review,Yes
+APP-000655,CAND-000655,REQ-0023,LinkedIn,2026-04-24,Hired,,Yes
+APP-000656,CAND-000656,REQ-0023,Company Careers,2026-04-24,Rejected,Job-related requirements not met,Yes
+APP-000657,CAND-000657,REQ-0023,Indeed,2026-04-14,Rejected,Other candidates progressed,Yes
+APP-000658,CAND-000658,REQ-0023,LinkedIn,2026-03-21,Rejected,Job-related requirements not met,Yes
+APP-000659,CAND-000659,REQ-0023,Company Careers,2026-03-13,Rejected,Position filled,Yes
+APP-000660,CAND-000660,REQ-0023,Company Careers,2026-04-09,Rejected,Job-related requirements not met,Yes
+APP-000661,CAND-000661,REQ-0023,Professional Network,2026-04-24,Rejected,Position filled,Yes
+APP-000662,CAND-000662,REQ-0023,Company Careers,2026-03-29,Rejected,Job-related requirements not met,Yes
+APP-000663,CAND-000663,REQ-0023,Company Careers,2026-03-16,Rejected,Job-related requirements not met,Yes
+APP-000664,CAND-000664,REQ-0023,Company Careers,2026-04-11,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000665,CAND-000665,REQ-0023,Company Careers,2026-05-18,Rejected,Other candidates progressed,No
+APP-000666,CAND-000666,REQ-0023,Professional Network,2026-03-13,Rejected,Other candidates progressed,Yes
+APP-000667,CAND-000667,REQ-0023,Employee Referral,2026-04-09,Rejected,Position filled,Yes
+APP-000668,CAND-000668,REQ-0023,University,2026-04-18,Rejected,Position filled,Yes
+APP-000669,CAND-000669,REQ-0023,LinkedIn,2026-03-15,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000670,CAND-000670,REQ-0023,Professional Network,2026-04-30,Rejected,Other candidates progressed,Yes
+APP-000671,CAND-000671,REQ-0023,University,2026-04-13,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000672,CAND-000672,REQ-0023,Professional Network,2026-03-24,Rejected,Job-related requirements not met,No
+APP-000673,CAND-000673,REQ-0024,LinkedIn,2026-04-25,Rejected,Other candidates progressed,Yes
+APP-000674,CAND-000674,REQ-0024,Professional Network,2026-04-19,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000675,CAND-000675,REQ-0024,Professional Network,2026-03-16,Rejected,Other candidates progressed,Yes
+APP-000676,CAND-000676,REQ-0024,LinkedIn,2026-04-10,Withdrawn,Candidate withdrew after review,Yes
+APP-000677,CAND-000677,REQ-0024,Indeed,2026-03-20,Rejected,Position filled,Yes
+APP-000678,CAND-000678,REQ-0024,Employee Referral,2026-03-22,Rejected,Position filled,Yes
+APP-000679,CAND-000679,REQ-0024,LinkedIn,2026-02-27,Rejected,Position filled,Yes
+APP-000680,CAND-000680,REQ-0024,LinkedIn,2026-03-03,Withdrawn,Candidate withdrew after review,Yes
+APP-000681,CAND-000681,REQ-0024,Company Careers,2026-04-02,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000682,CAND-000682,REQ-0024,Indeed,2026-03-26,Rejected,Other candidates progressed,Yes
+APP-000683,CAND-000683,REQ-0024,University,2026-04-15,Rejected,Position filled,Yes
+APP-000684,CAND-000684,REQ-0024,University,2026-04-21,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000685,CAND-000685,REQ-0024,Company Careers,2026-02-23,Rejected,Position filled,Yes
+APP-000686,CAND-000686,REQ-0024,Professional Network,2026-04-14,Rejected,Job-related requirements not met,Yes
+APP-000687,CAND-000687,REQ-0024,Professional Network,2026-03-31,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000688,CAND-000688,REQ-0024,Company Careers,2026-02-26,Rejected,Other candidates progressed,Yes
+APP-000689,CAND-000689,REQ-0024,Indeed,2026-03-16,Withdrawn,Candidate withdrew after review,Yes
+APP-000690,CAND-000690,REQ-0024,Indeed,2026-03-21,Rejected,Position filled,Yes
+APP-000691,CAND-000691,REQ-0024,Indeed,2026-03-05,Rejected,Position filled,Yes
+APP-000692,CAND-000692,REQ-0024,University,2026-03-24,Rejected,Other candidates progressed,Yes
+APP-000693,CAND-000693,REQ-0024,Professional Network,2026-02-23,Rejected,Job-related requirements not met,Yes
+APP-000694,CAND-000694,REQ-0024,University,2026-04-20,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000695,CAND-000695,REQ-0024,University,2026-03-12,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000696,CAND-000696,REQ-0024,Employee Referral,2026-04-01,Hired,,Yes
+APP-000697,CAND-000697,REQ-0024,Company Careers,2026-04-03,Withdrawn,Candidate withdrew after review,Yes
+APP-000698,CAND-000698,REQ-0024,LinkedIn,2026-02-27,Withdrawn,Candidate withdrew after review,No
+APP-000699,CAND-000699,REQ-0024,Company Careers,2026-03-26,Rejected,Position filled,Yes
+APP-000700,CAND-000700,REQ-0024,Employee Referral,2026-04-22,Rejected,Job-related requirements not met,Yes
+APP-000701,CAND-000701,REQ-0024,Indeed,2026-03-12,Rejected,Job-related requirements not met,Yes
+APP-000702,CAND-000702,REQ-0024,University,2026-02-28,Rejected,Position filled,Yes
+APP-000703,CAND-000703,REQ-0024,Company Careers,2026-04-01,Rejected,Job-related requirements not met,Yes
+APP-000704,CAND-000704,REQ-0025,Company Careers,2026-10-03,Rejected,Job-related requirements not met,Yes
+APP-000705,CAND-000705,REQ-0025,Indeed,2026-08-26,Rejected,Other candidates progressed,Yes
+APP-000706,CAND-000706,REQ-0025,Professional Network,2026-08-23,Rejected,Other candidates progressed,Yes
+APP-000707,CAND-000707,REQ-0025,Professional Network,2026-08-26,Rejected,Job-related requirements not met,Yes
+APP-000708,CAND-000708,REQ-0025,University,2026-09-12,Withdrawn,Candidate withdrew after review,Yes
+APP-000709,CAND-000709,REQ-0025,Company Careers,2026-09-17,Rejected,Job-related requirements not met,Yes
+APP-000710,CAND-000710,REQ-0025,Employee Referral,2026-08-07,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000711,CAND-000711,REQ-0025,Professional Network,2026-10-16,Rejected,Other candidates progressed,Yes
+APP-000712,CAND-000712,REQ-0025,Indeed,2026-10-16,Rejected,Other candidates progressed,Yes
+APP-000713,CAND-000713,REQ-0025,University,2026-09-26,Applied,,Yes
+APP-000714,CAND-000714,REQ-0025,Company Careers,2026-08-23,Rejected,Other candidates progressed,Yes
+APP-000715,CAND-000715,REQ-0025,University,2026-10-12,Rejected,Other candidates progressed,Yes
+APP-000716,CAND-000716,REQ-0025,LinkedIn,2026-09-07,Screened,,Yes
+APP-000717,CAND-000717,REQ-0025,University,2026-10-15,Rejected,Job-related requirements not met,Yes
+APP-000718,CAND-000718,REQ-0025,University,2026-08-30,Withdrawn,Candidate withdrew after review,Yes
+APP-000719,CAND-000719,REQ-0025,Company Careers,2026-08-24,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000720,CAND-000720,REQ-0025,University,2026-09-18,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000721,CAND-000721,REQ-0025,University,2026-10-24,Rejected,Job-related requirements not met,Yes
+APP-000722,CAND-000722,REQ-0025,Employee Referral,2026-08-27,Rejected,Other candidates progressed,Yes
+APP-000723,CAND-000723,REQ-0025,LinkedIn,2026-09-06,Rejected,Job-related requirements not met,Yes
+APP-000724,CAND-000724,REQ-0025,Professional Network,2026-10-05,Rejected,Job-related requirements not met,Yes
+APP-000725,CAND-000725,REQ-0025,Indeed,2026-10-01,Withdrawn,Candidate withdrew (simulated),No
+APP-000726,CAND-000726,REQ-0025,Company Careers,2026-08-13,Rejected,Other candidates progressed,Yes
+APP-000727,CAND-000727,REQ-0025,Indeed,2026-08-21,Final,,Yes
+APP-000728,CAND-000728,REQ-0025,LinkedIn,2026-10-13,Rejected,Other candidates progressed,Yes
+APP-000729,CAND-000729,REQ-0025,Professional Network,2026-09-11,Withdrawn,Candidate withdrew after review,Yes
+APP-000730,CAND-000730,REQ-0025,Indeed,2026-09-10,Rejected,Other candidates progressed,Yes
+APP-000731,CAND-000731,REQ-0025,Company Careers,2026-09-02,Screened,,Yes
+APP-000732,CAND-000732,REQ-0025,Professional Network,2026-10-26,Withdrawn,Candidate withdrew after review,Yes
+APP-000733,CAND-000733,REQ-0025,Employee Referral,2026-08-16,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000734,CAND-000734,REQ-0025,LinkedIn,2026-10-13,Withdrawn,Candidate withdrew after review,Yes
+APP-000735,CAND-000735,REQ-0025,University,2026-08-31,Applied,,Yes
+APP-000736,CAND-000736,REQ-0025,Employee Referral,2026-09-26,Final,,Yes
+APP-000737,CAND-000737,REQ-0025,LinkedIn,2026-08-23,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000738,CAND-000738,REQ-0025,Company Careers,2026-08-28,Offer,,Yes
+APP-000739,CAND-000739,REQ-0025,Company Careers,2026-09-15,Rejected,Job-related requirements not met,Yes
+APP-000740,CAND-000740,REQ-0025,LinkedIn,2026-08-09,Withdrawn,Candidate withdrew after review,Yes
+APP-000741,CAND-000741,REQ-0025,Employee Referral,2026-09-01,Rejected,Other candidates progressed,No
+APP-000742,CAND-000742,REQ-0025,University,2026-10-04,Screened,,Yes
+APP-000743,CAND-000743,REQ-0026,Professional Network,2026-10-25,Interview,,No
+APP-000744,CAND-000744,REQ-0026,University,2026-10-25,Rejected,Other candidates progressed,Yes
+APP-000745,CAND-000745,REQ-0026,University,2026-09-29,Rejected,Other candidates progressed,Yes
+APP-000746,CAND-000746,REQ-0026,Company Careers,2026-09-08,Rejected,Other candidates progressed,Yes
+APP-000747,CAND-000747,REQ-0026,Indeed,2026-09-24,Withdrawn,Candidate withdrew after review,Yes
+APP-000748,CAND-000748,REQ-0026,LinkedIn,2026-10-20,Interview,,Yes
+APP-000749,CAND-000749,REQ-0026,University,2026-10-10,Rejected,Other candidates progressed,Yes
+APP-000750,CAND-000750,REQ-0026,Employee Referral,2026-10-17,Screened,,Yes
+APP-000751,CAND-000751,REQ-0026,LinkedIn,2026-10-24,Applied,,Yes
+APP-000752,CAND-000752,REQ-0026,Indeed,2026-10-26,Rejected,Other candidates progressed,No
+APP-000753,CAND-000753,REQ-0026,LinkedIn,2026-09-21,Rejected,Job-related requirements not met,Yes
+APP-000754,CAND-000754,REQ-0026,Company Careers,2026-10-22,Interview,,Yes
+APP-000755,CAND-000755,REQ-0026,Professional Network,2026-09-21,Screened,,Yes
+APP-000756,CAND-000756,REQ-0026,Indeed,2026-09-11,Screened,,Yes
+APP-000757,CAND-000757,REQ-0026,University,2026-10-17,Rejected,Other candidates progressed,Yes
+APP-000758,CAND-000758,REQ-0026,LinkedIn,2026-10-17,Rejected,Other candidates progressed,Yes
+APP-000759,CAND-000759,REQ-0026,University,2026-09-16,Interview,,Yes
+APP-000760,CAND-000760,REQ-0026,LinkedIn,2026-09-28,Withdrawn,Candidate withdrew after review,Yes
+APP-000761,CAND-000761,REQ-0026,Employee Referral,2026-09-12,Rejected,Job-related requirements not met,No
+APP-000762,CAND-000762,REQ-0026,LinkedIn,2026-10-02,Interview,,Yes
+APP-000763,CAND-000763,REQ-0026,LinkedIn,2026-09-06,Rejected,Other candidates progressed,Yes
+APP-000764,CAND-000764,REQ-0026,Indeed,2026-09-06,Rejected,Other candidates progressed,Yes
+APP-000765,CAND-000765,REQ-0026,Employee Referral,2026-09-18,Applied,,Yes
+APP-000766,CAND-000766,REQ-0026,Employee Referral,2026-10-04,Rejected,Other candidates progressed,Yes
+APP-000767,CAND-000767,REQ-0026,LinkedIn,2026-10-11,Rejected,Other candidates progressed,Yes
+APP-000768,CAND-000768,REQ-0026,LinkedIn,2026-09-14,Rejected,Other candidates progressed,Yes
+APP-000769,CAND-000769,REQ-0026,Professional Network,2026-10-11,Rejected,Job-related requirements not met,Yes
+APP-000770,CAND-000770,REQ-0026,Company Careers,2026-09-29,Rejected,Job-related requirements not met,Yes
+APP-000771,CAND-000771,REQ-0026,Indeed,2026-10-03,Applied,,Yes
+APP-000772,CAND-000772,REQ-0026,Company Careers,2026-09-13,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000773,CAND-000773,REQ-0026,Employee Referral,2026-09-12,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000774,CAND-000774,REQ-0026,Indeed,2026-09-14,Rejected,Other candidates progressed,Yes
+APP-000775,CAND-000775,REQ-0026,Employee Referral,2026-09-27,Applied,,Yes
+APP-000776,CAND-000776,REQ-0026,Professional Network,2026-10-04,Interview,,Yes
+APP-000777,CAND-000777,REQ-0026,Company Careers,2026-10-03,Rejected,Other candidates progressed,Yes
+APP-000778,CAND-000778,REQ-0027,Employee Referral,2026-09-04,Final,,Yes
+APP-000779,CAND-000779,REQ-0027,Company Careers,2026-08-22,Final,,Yes
+APP-000780,CAND-000780,REQ-0027,Employee Referral,2026-09-05,Withdrawn,Candidate withdrew after review,Yes
+APP-000781,CAND-000781,REQ-0027,Professional Network,2026-10-21,Rejected,Other candidates progressed,Yes
+APP-000782,CAND-000782,REQ-0027,Professional Network,2026-08-14,Rejected,Job-related requirements not met,Yes
+APP-000783,CAND-000783,REQ-0027,Professional Network,2026-10-26,Rejected,Job-related requirements not met,Yes
+APP-000784,CAND-000784,REQ-0027,LinkedIn,2026-08-20,Rejected,Job-related requirements not met,Yes
+APP-000785,CAND-000785,REQ-0027,Employee Referral,2026-09-04,Rejected,Other candidates progressed,Yes
+APP-000786,CAND-000786,REQ-0027,Employee Referral,2026-08-13,Rejected,Other candidates progressed,Yes
+APP-000787,CAND-000787,REQ-0027,Company Careers,2026-09-03,Rejected,Other candidates progressed,Yes
+APP-000788,CAND-000788,REQ-0027,Professional Network,2026-10-04,Screened,,Yes
+APP-000789,CAND-000789,REQ-0027,Employee Referral,2026-08-26,Withdrawn,Candidate withdrew after review,Yes
+APP-000790,CAND-000790,REQ-0027,Indeed,2026-09-23,Rejected,Other candidates progressed,Yes
+APP-000791,CAND-000791,REQ-0027,Employee Referral,2026-08-07,Interview,,No
+APP-000792,CAND-000792,REQ-0027,Professional Network,2026-08-20,Withdrawn,Candidate withdrew after review,Yes
+APP-000793,CAND-000793,REQ-0027,Indeed,2026-08-01,Rejected,Job-related requirements not met,Yes
+APP-000794,CAND-000794,REQ-0027,University,2026-10-11,Rejected,Other candidates progressed,Yes
+APP-000795,CAND-000795,REQ-0027,University,2026-07-31,Screened,,Yes
+APP-000796,CAND-000796,REQ-0027,Employee Referral,2026-08-01,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000797,CAND-000797,REQ-0027,LinkedIn,2026-08-08,Applied,,Yes
+APP-000798,CAND-000798,REQ-0027,Professional Network,2026-09-03,Rejected,Other candidates progressed,Yes
+APP-000799,CAND-000799,REQ-0027,University,2026-10-03,Rejected,Other candidates progressed,Yes
+APP-000800,CAND-000800,REQ-0028,Professional Network,2026-10-21,Withdrawn,Candidate withdrew after review,Yes
+APP-000801,CAND-000801,REQ-0028,Employee Referral,2026-10-12,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000802,CAND-000802,REQ-0028,Employee Referral,2026-08-30,Withdrawn,Candidate withdrew after review,Yes
+APP-000803,CAND-000803,REQ-0028,Indeed,2026-08-16,Rejected,Other candidates progressed,Yes
+APP-000804,CAND-000804,REQ-0028,Employee Referral,2026-08-26,Rejected,Job-related requirements not met,Yes
+APP-000805,CAND-000805,REQ-0028,LinkedIn,2026-10-14,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000806,CAND-000806,REQ-0028,Indeed,2026-08-23,Rejected,Other candidates progressed,Yes
+APP-000807,CAND-000807,REQ-0028,Professional Network,2026-08-20,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000808,CAND-000808,REQ-0028,University,2026-10-08,Withdrawn,Candidate withdrew after review,Yes
+APP-000809,CAND-000809,REQ-0028,LinkedIn,2026-09-22,Rejected,Other candidates progressed,Yes
+APP-000810,CAND-000810,REQ-0028,Company Careers,2026-09-25,Withdrawn,Candidate withdrew after review,Yes
+APP-000811,CAND-000811,REQ-0028,Employee Referral,2026-09-16,Screened,,Yes
+APP-000812,CAND-000812,REQ-0028,Indeed,2026-10-25,Rejected,Other candidates progressed,Yes
+APP-000813,CAND-000813,REQ-0028,Indeed,2026-09-15,Screened,,Yes
+APP-000814,CAND-000814,REQ-0028,University,2026-10-01,Rejected,Job-related requirements not met,Yes
+APP-000815,CAND-000815,REQ-0028,Employee Referral,2026-09-21,Rejected,Other candidates progressed,Yes
+APP-000816,CAND-000816,REQ-0028,Company Careers,2026-10-11,Withdrawn,Candidate withdrew after review,Yes
+APP-000817,CAND-000817,REQ-0028,University,2026-08-24,Rejected,Other candidates progressed,Yes
+APP-000818,CAND-000818,REQ-0028,University,2026-09-24,Rejected,Other candidates progressed,Yes
+APP-000819,CAND-000819,REQ-0028,LinkedIn,2026-08-21,Rejected,Other candidates progressed,Yes
+APP-000820,CAND-000820,REQ-0028,Employee Referral,2026-08-28,Screened,,Yes
+APP-000821,CAND-000821,REQ-0028,Employee Referral,2026-08-26,Withdrawn,Candidate withdrew after review,Yes
+APP-000822,CAND-000822,REQ-0028,LinkedIn,2026-09-09,Screened,,Yes
+APP-000823,CAND-000823,REQ-0028,LinkedIn,2026-08-15,Screened,,Yes
+APP-000824,CAND-000824,REQ-0028,Indeed,2026-10-14,Rejected,Other candidates progressed,Yes
+APP-000825,CAND-000825,REQ-0028,Company Careers,2026-08-15,Rejected,Other candidates progressed,Yes
+APP-000826,CAND-000826,REQ-0028,LinkedIn,2026-09-29,Interview,,Yes
+APP-000827,CAND-000827,REQ-0028,Employee Referral,2026-09-26,Rejected,Other candidates progressed,Yes
+APP-000828,CAND-000828,REQ-0028,LinkedIn,2026-09-11,Offer,,Yes
+APP-000829,CAND-000829,REQ-0028,Professional Network,2026-10-25,Final,,No
+APP-000830,CAND-000830,REQ-0028,Employee Referral,2026-10-19,Rejected,Other candidates progressed,Yes
+APP-000831,CAND-000831,REQ-0028,LinkedIn,2026-08-17,Offer,,Yes
+APP-000832,CAND-000832,REQ-0028,LinkedIn,2026-10-20,Screened,,Yes
+APP-000833,CAND-000833,REQ-0028,Indeed,2026-08-21,Rejected,Job-related requirements not met,Yes
+APP-000834,CAND-000834,REQ-0028,Employee Referral,2026-08-12,Applied,,Yes
+APP-000835,CAND-000835,REQ-0028,Company Careers,2026-08-13,Withdrawn,Candidate withdrew after review,Yes
+APP-000836,CAND-000836,REQ-0028,University,2026-10-08,Rejected,Other candidates progressed,Yes
+APP-000837,CAND-000837,REQ-0028,University,2026-09-18,Withdrawn,Candidate withdrew after review,Yes
+APP-000838,CAND-000838,REQ-0028,Employee Referral,2026-09-02,Withdrawn,Candidate withdrew after review,Yes
+APP-000839,CAND-000839,REQ-0029,LinkedIn,2026-09-25,Interview,,No
+APP-000840,CAND-000840,REQ-0029,Company Careers,2026-10-14,Rejected,Other candidates progressed,Yes
+APP-000841,CAND-000841,REQ-0029,University,2026-10-22,Screened,,Yes
+APP-000842,CAND-000842,REQ-0029,Professional Network,2026-10-14,Withdrawn,Candidate withdrew after review,Yes
+APP-000843,CAND-000843,REQ-0029,LinkedIn,2026-10-06,Rejected,Job-related requirements not met,Yes
+APP-000844,CAND-000844,REQ-0029,Indeed,2026-09-15,Rejected,Other candidates progressed,Yes
+APP-000845,CAND-000845,REQ-0029,Indeed,2026-09-24,Rejected,Other candidates progressed,Yes
+APP-000846,CAND-000846,REQ-0029,LinkedIn,2026-10-18,Interview,,Yes
+APP-000847,CAND-000847,REQ-0029,Employee Referral,2026-10-24,Rejected,Other candidates progressed,Yes
+APP-000848,CAND-000848,REQ-0029,Employee Referral,2026-09-17,Withdrawn,Candidate withdrew after review,Yes
+APP-000849,CAND-000849,REQ-0029,LinkedIn,2026-09-22,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000850,CAND-000850,REQ-0029,LinkedIn,2026-10-20,Interview,,Yes
+APP-000851,CAND-000851,REQ-0029,Indeed,2026-09-15,Applied,,Yes
+APP-000852,CAND-000852,REQ-0029,LinkedIn,2026-09-23,Interview,,Yes
+APP-000853,CAND-000853,REQ-0029,LinkedIn,2026-09-21,Withdrawn,Candidate withdrew after review,Yes
+APP-000854,CAND-000854,REQ-0029,LinkedIn,2026-10-24,Applied,,Yes
+APP-000855,CAND-000855,REQ-0029,University,2026-10-16,Rejected,Job-related requirements not met,Yes
+APP-000856,CAND-000856,REQ-0029,Professional Network,2026-10-05,Screened,,Yes
+APP-000857,CAND-000857,REQ-0029,LinkedIn,2026-10-06,Withdrawn,Candidate withdrew after review,Yes
+APP-000858,CAND-000858,REQ-0029,Company Careers,2026-09-28,Screened,,Yes
+APP-000859,CAND-000859,REQ-0029,Company Careers,2026-09-17,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000860,CAND-000860,REQ-0029,Professional Network,2026-10-05,Withdrawn,Candidate withdrew after review,Yes
+APP-000861,CAND-000861,REQ-0029,LinkedIn,2026-10-10,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000862,CAND-000862,REQ-0029,University,2026-09-24,Rejected,Job-related requirements not met,Yes
+APP-000863,CAND-000863,REQ-0029,Employee Referral,2026-10-17,Final,,Yes
+APP-000864,CAND-000864,REQ-0029,Employee Referral,2026-09-21,Applied,,Yes
+APP-000865,CAND-000865,REQ-0029,Employee Referral,2026-10-07,Withdrawn,Candidate withdrew after review,Yes
+APP-000866,CAND-000866,REQ-0029,Indeed,2026-10-14,Screened,,No
+APP-000867,CAND-000867,REQ-0029,Professional Network,2026-10-04,Rejected,Job-related requirements not met,Yes
+APP-000868,CAND-000868,REQ-0029,University,2026-09-13,Screened,,Yes
+APP-000869,CAND-000869,REQ-0029,Company Careers,2026-10-04,Screened,,Yes
+APP-000870,CAND-000870,REQ-0029,Employee Referral,2026-09-21,Rejected,Other candidates progressed,Yes
+APP-000871,CAND-000871,REQ-0030,Employee Referral,2026-10-08,Screened,,Yes
+APP-000872,CAND-000872,REQ-0030,Indeed,2026-08-31,Interview,,Yes
+APP-000873,CAND-000873,REQ-0030,Indeed,2026-09-13,Withdrawn,Candidate withdrew after review,Yes
+APP-000874,CAND-000874,REQ-0030,Indeed,2026-10-22,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000875,CAND-000875,REQ-0030,University,2026-10-08,Rejected,Other candidates progressed,Yes
+APP-000876,CAND-000876,REQ-0030,LinkedIn,2026-10-07,Rejected,Other candidates progressed,Yes
+APP-000877,CAND-000877,REQ-0030,Indeed,2026-09-23,Rejected,Job-related requirements not met,Yes
+APP-000878,CAND-000878,REQ-0030,Professional Network,2026-09-30,Rejected,Other candidates progressed,Yes
+APP-000879,CAND-000879,REQ-0030,Indeed,2026-08-16,Rejected,Other candidates progressed,Yes
+APP-000880,CAND-000880,REQ-0030,Company Careers,2026-10-12,Withdrawn,Candidate withdrew after review,Yes
+APP-000881,CAND-000881,REQ-0030,Employee Referral,2026-09-15,Rejected,Other candidates progressed,Yes
+APP-000882,CAND-000882,REQ-0030,University,2026-10-12,Rejected,Other candidates progressed,Yes
+APP-000883,CAND-000883,REQ-0030,Indeed,2026-09-28,Rejected,Other candidates progressed,Yes
+APP-000884,CAND-000884,REQ-0030,Employee Referral,2026-09-16,Final,,Yes
+APP-000885,CAND-000885,REQ-0030,Employee Referral,2026-10-15,Screened,,Yes
+APP-000886,CAND-000886,REQ-0030,Indeed,2026-09-27,Rejected,Job-related requirements not met,Yes
+APP-000887,CAND-000887,REQ-0030,LinkedIn,2026-09-11,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000888,CAND-000888,REQ-0030,Indeed,2026-09-01,Rejected,Other candidates progressed,Yes
+APP-000889,CAND-000889,REQ-0030,Employee Referral,2026-09-04,Rejected,Other candidates progressed,Yes
+APP-000890,CAND-000890,REQ-0030,Employee Referral,2026-10-15,Rejected,Other candidates progressed,Yes
+APP-000891,CAND-000891,REQ-0030,Employee Referral,2026-08-22,Rejected,Other candidates progressed,Yes
+APP-000892,CAND-000892,REQ-0030,Employee Referral,2026-08-22,Rejected,Job-related requirements not met,Yes
+APP-000893,CAND-000893,REQ-0031,Indeed,2026-09-15,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000894,CAND-000894,REQ-0031,University,2026-08-25,Rejected,Other candidates progressed,Yes
+APP-000895,CAND-000895,REQ-0031,Company Careers,2026-08-19,Screened,,Yes
+APP-000896,CAND-000896,REQ-0031,University,2026-10-13,Rejected,Other candidates progressed,Yes
+APP-000897,CAND-000897,REQ-0031,Professional Network,2026-10-16,Screened,,Yes
+APP-000898,CAND-000898,REQ-0031,LinkedIn,2026-09-29,Rejected,Other candidates progressed,Yes
+APP-000899,CAND-000899,REQ-0031,Company Careers,2026-08-16,Rejected,Other candidates progressed,Yes
+APP-000900,CAND-000900,REQ-0031,LinkedIn,2026-09-06,Rejected,Job-related requirements not met,Yes
+APP-000901,CAND-000901,REQ-0031,University,2026-10-15,Final,,No
+APP-000902,CAND-000902,REQ-0031,LinkedIn,2026-10-20,Interview,,Yes
+APP-000903,CAND-000903,REQ-0031,Professional Network,2026-09-01,Applied,,Yes
+APP-000904,CAND-000904,REQ-0031,Employee Referral,2026-09-01,Withdrawn,Candidate withdrew after review,Yes
+APP-000905,CAND-000905,REQ-0031,Indeed,2026-09-23,Rejected,Other candidates progressed,Yes
+APP-000906,CAND-000906,REQ-0031,Company Careers,2026-08-17,Rejected,Other candidates progressed,Yes
+APP-000907,CAND-000907,REQ-0031,Indeed,2026-10-18,Applied,,Yes
+APP-000908,CAND-000908,REQ-0031,Company Careers,2026-09-23,Rejected,Other candidates progressed,Yes
+APP-000909,CAND-000909,REQ-0031,Employee Referral,2026-10-19,Withdrawn,Candidate withdrew after review,Yes
+APP-000910,CAND-000910,REQ-0031,Company Careers,2026-10-04,Withdrawn,Candidate withdrew after review,Yes
+APP-000911,CAND-000911,REQ-0031,LinkedIn,2026-09-09,Rejected,Job-related requirements not met,Yes
+APP-000912,CAND-000912,REQ-0031,University,2026-08-24,Withdrawn,Candidate withdrew after review,Yes
+APP-000913,CAND-000913,REQ-0031,Company Careers,2026-09-03,Withdrawn,Candidate withdrew after review,Yes
+APP-000914,CAND-000914,REQ-0031,Professional Network,2026-09-12,Rejected,Job-related requirements not met,Yes
+APP-000915,CAND-000915,REQ-0032,Professional Network,2026-10-20,Screened,,Yes
+APP-000916,CAND-000916,REQ-0032,LinkedIn,2026-10-25,Interview,,Yes
+APP-000917,CAND-000917,REQ-0032,Employee Referral,2026-10-16,Rejected,Other candidates progressed,Yes
+APP-000918,CAND-000918,REQ-0032,Indeed,2026-10-23,Interview,,Yes
+APP-000919,CAND-000919,REQ-0032,Company Careers,2026-10-04,Rejected,Other candidates progressed,Yes
+APP-000920,CAND-000920,REQ-0032,LinkedIn,2026-10-02,Rejected,Other candidates progressed,Yes
+APP-000921,CAND-000921,REQ-0032,Employee Referral,2026-10-06,Rejected,Other candidates progressed,Yes
+APP-000922,CAND-000922,REQ-0032,LinkedIn,2026-10-02,Interview,,Yes
+APP-000923,CAND-000923,REQ-0032,LinkedIn,2026-10-08,Screened,,Yes
+APP-000924,CAND-000924,REQ-0032,Employee Referral,2026-09-29,Rejected,Other candidates progressed,Yes
+APP-000925,CAND-000925,REQ-0032,University,2026-10-13,Screened,,Yes
+APP-000926,CAND-000926,REQ-0032,Indeed,2026-10-20,Rejected,Other candidates progressed,Yes
+APP-000927,CAND-000927,REQ-0032,Company Careers,2026-09-24,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000928,CAND-000928,REQ-0032,Indeed,2026-10-02,Rejected,Job-related requirements not met,Yes
+APP-000929,CAND-000929,REQ-0032,LinkedIn,2026-10-11,Interview,,Yes
+APP-000930,CAND-000930,REQ-0032,LinkedIn,2026-10-25,Withdrawn,Candidate withdrew after review,Yes
+APP-000931,CAND-000931,REQ-0032,LinkedIn,2026-10-02,Interview,,Yes
+APP-000932,CAND-000932,REQ-0032,Employee Referral,2026-09-21,Interview,,Yes
+APP-000933,CAND-000933,REQ-0032,Employee Referral,2026-09-26,Interview,,Yes
+APP-000934,CAND-000934,REQ-0032,Employee Referral,2026-10-01,Rejected,Job-related requirements not met,Yes
+APP-000935,CAND-000935,REQ-0032,LinkedIn,2026-10-01,Rejected,Job-related requirements not met,Yes
+APP-000936,CAND-000936,REQ-0032,Company Careers,2026-10-03,Rejected,Other candidates progressed,Yes
+APP-000937,CAND-000937,REQ-0032,University,2026-10-11,Withdrawn,Candidate withdrew after review,Yes
+APP-000938,CAND-000938,REQ-0033,LinkedIn,2026-08-28,Withdrawn,Candidate withdrew after review,Yes
+APP-000939,CAND-000939,REQ-0033,Professional Network,2026-08-23,Rejected,Job-related requirements not met,Yes
+APP-000940,CAND-000940,REQ-0033,Professional Network,2026-08-19,Rejected,Other candidates progressed,No
+APP-000941,CAND-000941,REQ-0033,Company Careers,2026-09-03,Screened,,Yes
+APP-000942,CAND-000942,REQ-0033,Indeed,2026-10-24,Interview,,Yes
+APP-000943,CAND-000943,REQ-0033,Indeed,2026-10-09,Applied,,Yes
+APP-000944,CAND-000944,REQ-0033,University,2026-08-16,Rejected,Other candidates progressed,Yes
+APP-000945,CAND-000945,REQ-0033,Professional Network,2026-10-23,Applied,,Yes
+APP-000946,CAND-000946,REQ-0033,Professional Network,2026-09-03,Rejected,Other candidates progressed,Yes
+APP-000947,CAND-000947,REQ-0033,Professional Network,2026-08-30,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000948,CAND-000948,REQ-0033,Indeed,2026-10-21,Rejected,Job-related requirements not met,Yes
+APP-000949,CAND-000949,REQ-0033,LinkedIn,2026-08-19,Rejected,Other candidates progressed,Yes
+APP-000950,CAND-000950,REQ-0033,University,2026-08-14,Final,,Yes
+APP-000951,CAND-000951,REQ-0033,Company Careers,2026-10-16,Applied,,Yes
+APP-000952,CAND-000952,REQ-0033,Company Careers,2026-08-09,Rejected,Job-related requirements not met,Yes
+APP-000953,CAND-000953,REQ-0033,Employee Referral,2026-09-18,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000954,CAND-000954,REQ-0033,Indeed,2026-10-19,Screened,,Yes
+APP-000955,CAND-000955,REQ-0033,University,2026-09-13,Rejected,Job-related requirements not met,Yes
+APP-000956,CAND-000956,REQ-0033,Company Careers,2026-09-28,Screened,,Yes
+APP-000957,CAND-000957,REQ-0033,Indeed,2026-09-01,Rejected,Job-related requirements not met,Yes
+APP-000958,CAND-000958,REQ-0033,Indeed,2026-08-24,Rejected,Other candidates progressed,Yes
+APP-000959,CAND-000959,REQ-0033,Indeed,2026-10-03,Rejected,Other candidates progressed,Yes
+APP-000960,CAND-000960,REQ-0033,Indeed,2026-09-21,Applied,,Yes
+APP-000961,CAND-000961,REQ-0033,Professional Network,2026-09-11,Withdrawn,Candidate withdrew after review,Yes
+APP-000962,CAND-000962,REQ-0033,Indeed,2026-08-12,Rejected,Job-related requirements not met,Yes
+APP-000963,CAND-000963,REQ-0033,Professional Network,2026-09-25,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000964,CAND-000964,REQ-0033,Professional Network,2026-10-11,Rejected,Other candidates progressed,Yes
+APP-000965,CAND-000965,REQ-0033,Indeed,2026-08-28,Withdrawn,Candidate withdrew after review,Yes
+APP-000966,CAND-000966,REQ-0033,Company Careers,2026-09-25,Final,,Yes
+APP-000967,CAND-000967,REQ-0033,University,2026-10-20,Withdrawn,Candidate withdrew after review,Yes
+APP-000968,CAND-000968,REQ-0033,Indeed,2026-09-20,Interview,,Yes
+APP-000969,CAND-000969,REQ-0033,Employee Referral,2026-10-20,Withdrawn,Candidate withdrew after review,Yes
+APP-000970,CAND-000970,REQ-0033,Employee Referral,2026-10-14,Withdrawn,Candidate withdrew after review,Yes
+APP-000971,CAND-000971,REQ-0033,Indeed,2026-08-15,Withdrawn,Candidate withdrew after review,Yes
+APP-000972,CAND-000972,REQ-0033,Company Careers,2026-09-20,Screened,,Yes
+APP-000973,CAND-000973,REQ-0034,University,2026-08-18,Rejected,Job-related requirements not met,Yes
+APP-000974,CAND-000974,REQ-0034,LinkedIn,2026-09-21,Withdrawn,Candidate withdrew after review,Yes
+APP-000975,CAND-000975,REQ-0034,Indeed,2026-09-01,Withdrawn,Candidate withdrew after review,Yes
+APP-000976,CAND-000976,REQ-0034,Professional Network,2026-10-05,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000977,CAND-000977,REQ-0034,LinkedIn,2026-08-20,Rejected,Job-related requirements not met,Yes
+APP-000978,CAND-000978,REQ-0034,University,2026-09-21,Withdrawn,Candidate withdrew after review,Yes
+APP-000979,CAND-000979,REQ-0034,LinkedIn,2026-07-31,Rejected,Other candidates progressed,Yes
+APP-000980,CAND-000980,REQ-0034,LinkedIn,2026-08-03,Rejected,Other candidates progressed,Yes
+APP-000981,CAND-000981,REQ-0034,University,2026-08-01,Withdrawn,Candidate withdrew after review,Yes
+APP-000982,CAND-000982,REQ-0034,Employee Referral,2026-08-19,Rejected,Other candidates progressed,Yes
+APP-000983,CAND-000983,REQ-0034,Employee Referral,2026-10-23,Rejected,Other candidates progressed,Yes
+APP-000984,CAND-000984,REQ-0034,Company Careers,2026-10-04,Rejected,Other candidates progressed,Yes
+APP-000985,CAND-000985,REQ-0034,Indeed,2026-10-23,Interview,,Yes
+APP-000986,CAND-000986,REQ-0034,Professional Network,2026-10-23,Interview,,Yes
+APP-000987,CAND-000987,REQ-0034,Company Careers,2026-09-14,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000988,CAND-000988,REQ-0034,Indeed,2026-10-07,Withdrawn,Candidate withdrew after review,Yes
+APP-000989,CAND-000989,REQ-0034,Company Careers,2026-08-24,Screened,,Yes
+APP-000990,CAND-000990,REQ-0034,Company Careers,2026-09-13,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000991,CAND-000991,REQ-0034,LinkedIn,2026-09-23,Interview,,Yes
+APP-000992,CAND-000992,REQ-0034,Indeed,2026-08-29,Withdrawn,Candidate withdrew after review,Yes
+APP-000993,CAND-000993,REQ-0034,LinkedIn,2026-08-19,Withdrawn,Candidate withdrew (simulated),Yes
+APP-000994,CAND-000994,REQ-0034,University,2026-09-21,Withdrawn,Candidate withdrew after review,Yes
+APP-000995,CAND-000995,REQ-0034,Indeed,2026-10-14,Withdrawn,Candidate withdrew after review,Yes
+APP-000996,CAND-000996,REQ-0034,Professional Network,2026-08-27,Screened,,Yes
+APP-000997,CAND-000997,REQ-0034,Professional Network,2026-08-17,Withdrawn,Candidate withdrew after review,Yes
+APP-000998,CAND-000998,REQ-0034,Indeed,2026-09-26,Rejected,Other candidates progressed,Yes
+APP-000999,CAND-000999,REQ-0034,University,2026-07-28,Rejected,Other candidates progressed,Yes
+APP-001000,CAND-001000,REQ-0034,Professional Network,2026-08-14,Rejected,Other candidates progressed,Yes
+APP-001001,CAND-001001,REQ-0034,LinkedIn,2026-08-26,Screened,,Yes
+APP-001002,CAND-001002,REQ-0035,Professional Network,2026-10-16,Applied,,Yes
+APP-001003,CAND-001003,REQ-0035,Professional Network,2026-09-24,Final,,Yes
+APP-001004,CAND-001004,REQ-0035,University,2026-09-08,Withdrawn,Candidate withdrew after review,Yes
+APP-001005,CAND-001005,REQ-0035,Professional Network,2026-10-18,Screened,,Yes
+APP-001006,CAND-001006,REQ-0035,Professional Network,2026-10-26,Screened,,Yes
+APP-001007,CAND-001007,REQ-0035,Indeed,2026-10-05,Rejected,Other candidates progressed,Yes
+APP-001008,CAND-001008,REQ-0035,Indeed,2026-08-15,Applied,,Yes
+APP-001009,CAND-001009,REQ-0035,Company Careers,2026-09-18,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001010,CAND-001010,REQ-0035,LinkedIn,2026-09-30,Rejected,Other candidates progressed,Yes
+APP-001011,CAND-001011,REQ-0035,Professional Network,2026-09-16,Rejected,Job-related requirements not met,Yes
+APP-001012,CAND-001012,REQ-0035,Company Careers,2026-09-27,Rejected,Other candidates progressed,Yes
+APP-001013,CAND-001013,REQ-0035,LinkedIn,2026-09-15,Interview,,Yes
+APP-001014,CAND-001014,REQ-0035,Employee Referral,2026-10-06,Withdrawn,Candidate withdrew after review,Yes
+APP-001015,CAND-001015,REQ-0035,Professional Network,2026-10-04,Rejected,Other candidates progressed,Yes
+APP-001016,CAND-001016,REQ-0035,Company Careers,2026-09-28,Withdrawn,Candidate withdrew after review,No
+APP-001017,CAND-001017,REQ-0035,Company Careers,2026-08-10,Withdrawn,Candidate withdrew after review,Yes
+APP-001018,CAND-001018,REQ-0035,Company Careers,2026-10-04,Withdrawn,Candidate withdrew after review,Yes
+APP-001019,CAND-001019,REQ-0035,Employee Referral,2026-09-22,Rejected,Other candidates progressed,Yes
+APP-001020,CAND-001020,REQ-0035,University,2026-09-11,Interview,,Yes
+APP-001021,CAND-001021,REQ-0035,Company Careers,2026-08-02,Rejected,Job-related requirements not met,Yes
+APP-001022,CAND-001022,REQ-0035,Professional Network,2026-10-17,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001023,CAND-001023,REQ-0035,Company Careers,2026-08-05,Rejected,Other candidates progressed,Yes
+APP-001024,CAND-001024,REQ-0035,Professional Network,2026-09-05,Screened,,Yes
+APP-001025,CAND-001025,REQ-0035,LinkedIn,2026-08-22,Withdrawn,Candidate withdrew after review,Yes
+APP-001026,CAND-001026,REQ-0035,Indeed,2026-09-23,Rejected,Other candidates progressed,Yes
+APP-001027,CAND-001027,REQ-0035,Company Careers,2026-09-08,Screened,,Yes
+APP-001028,CAND-001028,REQ-0035,Company Careers,2026-08-23,Rejected,Job-related requirements not met,Yes
+APP-001029,CAND-001029,REQ-0035,Company Careers,2026-08-04,Rejected,Job-related requirements not met,Yes
+APP-001030,CAND-001030,REQ-0035,Professional Network,2026-10-18,Final,,Yes
+APP-001031,CAND-001031,REQ-0035,Indeed,2026-09-06,Withdrawn,Candidate withdrew after review,Yes
+APP-001032,CAND-001032,REQ-0035,LinkedIn,2026-10-04,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001033,CAND-001033,REQ-0035,Company Careers,2026-10-24,Rejected,Other candidates progressed,Yes
+APP-001034,CAND-001034,REQ-0035,Company Careers,2026-10-05,Withdrawn,Candidate withdrew after review,Yes
+APP-001035,CAND-001035,REQ-0035,Professional Network,2026-10-19,Rejected,Job-related requirements not met,Yes
+APP-001036,CAND-001036,REQ-0036,Indeed,2026-10-19,Rejected,Job-related requirements not met,Yes
+APP-001037,CAND-001037,REQ-0036,Company Careers,2026-10-14,Rejected,Other candidates progressed,Yes
+APP-001038,CAND-001038,REQ-0036,Employee Referral,2026-09-24,Rejected,Other candidates progressed,Yes
+APP-001039,CAND-001039,REQ-0036,Indeed,2026-10-09,Applied,,Yes
+APP-001040,CAND-001040,REQ-0036,Indeed,2026-10-05,Rejected,Other candidates progressed,Yes
+APP-001041,CAND-001041,REQ-0036,Professional Network,2026-10-21,Screened,,Yes
+APP-001042,CAND-001042,REQ-0036,LinkedIn,2026-08-17,Rejected,Other candidates progressed,Yes
+APP-001043,CAND-001043,REQ-0036,University,2026-08-21,Applied,,Yes
+APP-001044,CAND-001044,REQ-0036,Employee Referral,2026-10-16,Rejected,Job-related requirements not met,Yes
+APP-001045,CAND-001045,REQ-0036,Company Careers,2026-08-18,Rejected,Other candidates progressed,Yes
+APP-001046,CAND-001046,REQ-0036,LinkedIn,2026-09-07,Interview,,Yes
+APP-001047,CAND-001047,REQ-0036,Professional Network,2026-09-27,Rejected,Other candidates progressed,Yes
+APP-001048,CAND-001048,REQ-0036,LinkedIn,2026-10-08,Rejected,Other candidates progressed,Yes
+APP-001049,CAND-001049,REQ-0036,Professional Network,2026-10-24,Interview,,Yes
+APP-001050,CAND-001050,REQ-0036,Company Careers,2026-08-10,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001051,CAND-001051,REQ-0036,Employee Referral,2026-10-25,Rejected,Other candidates progressed,Yes
+APP-001052,CAND-001052,REQ-0036,Indeed,2026-08-09,Rejected,Other candidates progressed,Yes
+APP-001053,CAND-001053,REQ-0036,Indeed,2026-10-04,Final,,Yes
+APP-001054,CAND-001054,REQ-0036,Indeed,2026-08-18,Withdrawn,Candidate withdrew after review,Yes
+APP-001055,CAND-001055,REQ-0036,Employee Referral,2026-08-06,Screened,,Yes
+APP-001056,CAND-001056,REQ-0036,Indeed,2026-08-16,Screened,,Yes
+APP-001057,CAND-001057,REQ-0036,Professional Network,2026-09-12,Rejected,Job-related requirements not met,Yes
+APP-001058,CAND-001058,REQ-0036,Company Careers,2026-08-21,Rejected,Other candidates progressed,Yes
+APP-001059,CAND-001059,REQ-0036,LinkedIn,2026-09-20,Final,,Yes
+APP-001060,CAND-001060,REQ-0036,Company Careers,2026-09-08,Rejected,Other candidates progressed,Yes
+APP-001061,CAND-001061,REQ-0036,Company Careers,2026-08-03,Withdrawn,Candidate withdrew after review,Yes
+APP-001062,CAND-001062,REQ-0036,University,2026-10-08,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001063,CAND-001063,REQ-0036,Company Careers,2026-09-05,Rejected,Other candidates progressed,Yes
+APP-001064,CAND-001064,REQ-0036,Indeed,2026-10-24,Rejected,Other candidates progressed,Yes
+APP-001065,CAND-001065,REQ-0036,Professional Network,2026-10-04,Rejected,Other candidates progressed,Yes
+APP-001066,CAND-001066,REQ-0036,University,2026-08-09,Interview,,No
+APP-001067,CAND-001067,REQ-0036,LinkedIn,2026-09-14,Rejected,Other candidates progressed,Yes
+APP-001068,CAND-001068,REQ-0036,Indeed,2026-10-25,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001069,CAND-001069,REQ-0036,LinkedIn,2026-09-11,Rejected,Other candidates progressed,Yes
+APP-001070,CAND-001070,REQ-0036,Employee Referral,2026-08-07,Rejected,Other candidates progressed,Yes
+APP-001071,CAND-001071,REQ-0036,Employee Referral,2026-10-17,Final,,Yes
+APP-001072,CAND-001072,REQ-0036,University,2026-09-23,Rejected,Other candidates progressed,Yes
+APP-001073,CAND-001073,REQ-0036,University,2026-09-08,Rejected,Other candidates progressed,Yes
+APP-001074,CAND-001074,REQ-0037,University,2026-04-12,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001075,CAND-001075,REQ-0037,Indeed,2026-04-23,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001076,CAND-001076,REQ-0037,University,2026-05-04,Rejected,Requisition closed,Yes
+APP-001077,CAND-001077,REQ-0037,Employee Referral,2026-05-01,Rejected,Requisition closed,Yes
+APP-001078,CAND-001078,REQ-0037,Indeed,2026-03-22,Withdrawn,Candidate withdrew (simulated),No
+APP-001079,CAND-001079,REQ-0037,University,2026-04-03,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001080,CAND-001080,REQ-0037,Professional Network,2026-05-01,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001081,CAND-001081,REQ-0037,Indeed,2026-04-11,Rejected,Requisition closed,Yes
+APP-001082,CAND-001082,REQ-0037,Indeed,2026-03-30,Rejected,Requisition closed,Yes
+APP-001083,CAND-001083,REQ-0037,Employee Referral,2026-05-06,Rejected,Requisition closed,Yes
+APP-001084,CAND-001084,REQ-0037,Employee Referral,2026-04-21,Rejected,Requisition closed,Yes
+APP-001085,CAND-001085,REQ-0037,Indeed,2026-05-04,Rejected,Requisition closed,Yes
+APP-001086,CAND-001086,REQ-0037,Professional Network,2026-03-31,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001087,CAND-001087,REQ-0037,University,2026-04-02,Rejected,Requisition closed,Yes
+APP-001088,CAND-001088,REQ-0037,Indeed,2026-03-28,Rejected,Requisition closed,Yes
+APP-001089,CAND-001089,REQ-0037,Employee Referral,2026-04-06,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001090,CAND-001090,REQ-0037,Professional Network,2026-04-17,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001091,CAND-001091,REQ-0037,University,2026-04-16,Rejected,Requisition closed,Yes
+APP-001092,CAND-001092,REQ-0037,Company Careers,2026-04-26,Rejected,Requisition closed,Yes
+APP-001093,CAND-001093,REQ-0037,Employee Referral,2026-04-13,Rejected,Requisition closed,Yes
+APP-001094,CAND-001094,REQ-0037,Indeed,2026-04-14,Rejected,Requisition closed,Yes
+APP-001095,CAND-001095,REQ-0038,Company Careers,2026-04-23,Rejected,Requisition closed,Yes
+APP-001096,CAND-001096,REQ-0038,Employee Referral,2026-05-27,Rejected,Requisition closed,Yes
+APP-001097,CAND-001097,REQ-0038,Employee Referral,2026-05-09,Rejected,Requisition closed,Yes
+APP-001098,CAND-001098,REQ-0038,LinkedIn,2026-04-24,Rejected,Requisition closed,Yes
+APP-001099,CAND-001099,REQ-0038,LinkedIn,2026-05-21,Rejected,Requisition closed,Yes
+APP-001100,CAND-001100,REQ-0038,LinkedIn,2026-04-13,Rejected,Requisition closed,Yes
+APP-001101,CAND-001101,REQ-0038,Company Careers,2026-05-07,Rejected,Requisition closed,Yes
+APP-001102,CAND-001102,REQ-0038,Indeed,2026-05-18,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001103,CAND-001103,REQ-0038,University,2026-05-04,Rejected,Requisition closed,Yes
+APP-001104,CAND-001104,REQ-0038,LinkedIn,2026-04-22,Rejected,Requisition closed,Yes
+APP-001105,CAND-001105,REQ-0038,Professional Network,2026-04-25,Rejected,Requisition closed,Yes
+APP-001106,CAND-001106,REQ-0038,Professional Network,2026-05-26,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001107,CAND-001107,REQ-0038,University,2026-04-10,Rejected,Requisition closed,Yes
+APP-001108,CAND-001108,REQ-0038,Employee Referral,2026-04-11,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001109,CAND-001109,REQ-0038,Employee Referral,2026-04-18,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001110,CAND-001110,REQ-0038,LinkedIn,2026-04-09,Rejected,Requisition closed,Yes
+APP-001111,CAND-001111,REQ-0038,Professional Network,2026-04-23,Rejected,Requisition closed,Yes
+APP-001112,CAND-001112,REQ-0038,University,2026-04-12,Rejected,Requisition closed,Yes
+APP-001113,CAND-001113,REQ-0038,Indeed,2026-05-07,Rejected,Requisition closed,Yes
+APP-001114,CAND-001114,REQ-0038,Employee Referral,2026-05-01,Rejected,Requisition closed,Yes
+APP-001115,CAND-001115,REQ-0038,Company Careers,2026-05-11,Rejected,Requisition closed,Yes
+APP-001116,CAND-001116,REQ-0038,University,2026-04-22,Rejected,Requisition closed,Yes
+APP-001117,CAND-001117,REQ-0038,Indeed,2026-04-18,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001118,CAND-001118,REQ-0038,Professional Network,2026-04-13,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001119,CAND-001119,REQ-0038,University,2026-05-07,Rejected,Requisition closed,Yes
+APP-001120,CAND-001120,REQ-0038,LinkedIn,2026-04-28,Rejected,Requisition closed,Yes
+APP-001121,CAND-001121,REQ-0038,Employee Referral,2026-05-27,Rejected,Requisition closed,Yes
+APP-001122,CAND-001122,REQ-0038,LinkedIn,2026-04-22,Rejected,Requisition closed,Yes
+APP-001123,CAND-001123,REQ-0039,Indeed,2026-03-30,Rejected,Requisition closed,Yes
+APP-001124,CAND-001124,REQ-0039,Company Careers,2026-04-18,Rejected,Requisition closed,Yes
+APP-001125,CAND-001125,REQ-0039,Company Careers,2026-04-28,Rejected,Requisition closed,Yes
+APP-001126,CAND-001126,REQ-0039,Indeed,2026-04-08,Rejected,Requisition closed,Yes
+APP-001127,CAND-001127,REQ-0039,Employee Referral,2026-03-30,Rejected,Requisition closed,Yes
+APP-001128,CAND-001128,REQ-0039,Company Careers,2026-04-23,Rejected,Requisition closed,No
+APP-001129,CAND-001129,REQ-0039,Employee Referral,2026-04-08,Rejected,Requisition closed,Yes
+APP-001130,CAND-001130,REQ-0039,Indeed,2026-04-16,Rejected,Requisition closed,Yes
+APP-001131,CAND-001131,REQ-0039,Indeed,2026-04-18,Rejected,Requisition closed,Yes
+APP-001132,CAND-001132,REQ-0039,LinkedIn,2026-04-05,Rejected,Requisition closed,Yes
+APP-001133,CAND-001133,REQ-0039,Company Careers,2026-03-30,Rejected,Requisition closed,Yes
+APP-001134,CAND-001134,REQ-0039,Company Careers,2026-05-08,Rejected,Requisition closed,Yes
+APP-001135,CAND-001135,REQ-0039,Employee Referral,2026-05-09,Rejected,Requisition closed,Yes
+APP-001136,CAND-001136,REQ-0039,Company Careers,2026-04-22,Rejected,Requisition closed,Yes
+APP-001137,CAND-001137,REQ-0039,Indeed,2026-05-11,Rejected,Requisition closed,Yes
+APP-001138,CAND-001138,REQ-0039,Employee Referral,2026-03-28,Rejected,Requisition closed,Yes
+APP-001139,CAND-001139,REQ-0039,Company Careers,2026-03-29,Rejected,Requisition closed,Yes
+APP-001140,CAND-001140,REQ-0039,LinkedIn,2026-04-16,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001141,CAND-001141,REQ-0039,University,2026-04-07,Rejected,Requisition closed,Yes
+APP-001142,CAND-001142,REQ-0039,Company Careers,2026-04-09,Rejected,Requisition closed,No
+APP-001143,CAND-001143,REQ-0039,LinkedIn,2026-04-12,Rejected,Requisition closed,Yes
+APP-001144,CAND-001144,REQ-0039,Company Careers,2026-05-01,Rejected,Requisition closed,Yes
+APP-001145,CAND-001145,REQ-0039,LinkedIn,2026-04-08,Rejected,Requisition closed,Yes
+APP-001146,CAND-001146,REQ-0039,Indeed,2026-03-27,Rejected,Requisition closed,Yes
+APP-001147,CAND-001147,REQ-0039,University,2026-04-19,Rejected,Requisition closed,Yes
+APP-001148,CAND-001148,REQ-0039,University,2026-04-13,Rejected,Requisition closed,Yes
+APP-001149,CAND-001149,REQ-0039,Company Careers,2026-04-30,Rejected,Requisition closed,Yes
+APP-001150,CAND-001150,REQ-0039,Employee Referral,2026-03-30,Rejected,Requisition closed,Yes
+APP-001151,CAND-001151,REQ-0039,Employee Referral,2026-04-09,Rejected,Requisition closed,Yes
+APP-001152,CAND-001152,REQ-0039,University,2026-04-04,Rejected,Requisition closed,Yes
+APP-001153,CAND-001153,REQ-0039,Indeed,2026-04-09,Rejected,Requisition closed,Yes
+APP-001154,CAND-001154,REQ-0039,University,2026-04-24,Rejected,Requisition closed,Yes
+APP-001155,CAND-001155,REQ-0039,Indeed,2026-05-05,Withdrawn,Candidate withdrew (simulated),No
+APP-001156,CAND-001156,REQ-0040,Indeed,2026-04-16,Rejected,Requisition closed,No
+APP-001157,CAND-001157,REQ-0040,Indeed,2026-04-15,Rejected,Requisition closed,Yes
+APP-001158,CAND-001158,REQ-0040,LinkedIn,2026-05-09,Rejected,Requisition closed,Yes
+APP-001159,CAND-001159,REQ-0040,University,2026-03-25,Rejected,Requisition closed,Yes
+APP-001160,CAND-001160,REQ-0040,Employee Referral,2026-04-22,Rejected,Requisition closed,Yes
+APP-001161,CAND-001161,REQ-0040,LinkedIn,2026-04-20,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001162,CAND-001162,REQ-0040,Indeed,2026-04-13,Rejected,Requisition closed,Yes
+APP-001163,CAND-001163,REQ-0040,Employee Referral,2026-04-11,Rejected,Requisition closed,Yes
+APP-001164,CAND-001164,REQ-0040,Indeed,2026-03-29,Rejected,Requisition closed,Yes
+APP-001165,CAND-001165,REQ-0040,University,2026-04-04,Rejected,Requisition closed,Yes
+APP-001166,CAND-001166,REQ-0040,Company Careers,2026-04-20,Rejected,Requisition closed,Yes
+APP-001167,CAND-001167,REQ-0040,Employee Referral,2026-04-29,Rejected,Requisition closed,Yes
+APP-001168,CAND-001168,REQ-0040,Company Careers,2026-04-29,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001169,CAND-001169,REQ-0040,University,2026-04-03,Rejected,Requisition closed,Yes
+APP-001170,CAND-001170,REQ-0040,University,2026-04-20,Rejected,Requisition closed,No
+APP-001171,CAND-001171,REQ-0040,Company Careers,2026-05-03,Rejected,Requisition closed,Yes
+APP-001172,CAND-001172,REQ-0040,LinkedIn,2026-03-30,Rejected,Requisition closed,Yes
+APP-001173,CAND-001173,REQ-0040,University,2026-04-18,Rejected,Requisition closed,Yes
+APP-001174,CAND-001174,REQ-0040,Professional Network,2026-04-20,Rejected,Requisition closed,Yes
+APP-001175,CAND-001175,REQ-0040,Professional Network,2026-04-17,Rejected,Requisition closed,Yes
+APP-001176,CAND-001176,REQ-0040,Professional Network,2026-04-04,Rejected,Requisition closed,Yes
+APP-001177,CAND-001177,REQ-0040,Indeed,2026-04-10,Rejected,Requisition closed,Yes
+APP-001178,CAND-001178,REQ-0040,LinkedIn,2026-04-25,Rejected,Requisition closed,Yes
+APP-001179,CAND-001179,REQ-0040,Indeed,2026-03-19,Rejected,Requisition closed,Yes
+APP-001180,CAND-001180,REQ-0040,Company Careers,2026-04-11,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001181,CAND-001181,REQ-0040,University,2026-05-01,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001182,CAND-001182,REQ-0040,Company Careers,2026-03-16,Rejected,Requisition closed,Yes
+APP-001183,CAND-001183,REQ-0040,Employee Referral,2026-05-09,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001184,CAND-001184,REQ-0040,Employee Referral,2026-05-06,Rejected,Requisition closed,Yes
+APP-001185,CAND-001185,REQ-0040,Professional Network,2026-03-22,Withdrawn,Candidate withdrew (simulated),No
+APP-001186,CAND-001186,REQ-0040,Employee Referral,2026-04-09,Rejected,Requisition closed,Yes
+APP-001187,CAND-001187,REQ-0040,Employee Referral,2026-05-07,Rejected,Requisition closed,Yes
+APP-001188,CAND-001188,REQ-0040,Employee Referral,2026-04-01,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001189,CAND-001189,REQ-0040,Employee Referral,2026-04-28,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001190,CAND-001190,REQ-0041,Company Careers,2026-04-09,Rejected,Requisition closed,Yes
+APP-001191,CAND-001191,REQ-0041,Professional Network,2026-05-04,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001192,CAND-001192,REQ-0041,Indeed,2026-04-17,Rejected,Requisition closed,Yes
+APP-001193,CAND-001193,REQ-0041,LinkedIn,2026-04-30,Rejected,Requisition closed,Yes
+APP-001194,CAND-001194,REQ-0041,LinkedIn,2026-04-09,Rejected,Requisition closed,Yes
+APP-001195,CAND-001195,REQ-0041,Indeed,2026-04-14,Rejected,Requisition closed,Yes
+APP-001196,CAND-001196,REQ-0041,University,2026-05-12,Rejected,Requisition closed,Yes
+APP-001197,CAND-001197,REQ-0041,University,2026-04-19,Rejected,Requisition closed,Yes
+APP-001198,CAND-001198,REQ-0041,Indeed,2026-04-28,Withdrawn,Candidate withdrew (simulated),No
+APP-001199,CAND-001199,REQ-0041,Indeed,2026-05-10,Rejected,Requisition closed,Yes
+APP-001200,CAND-001200,REQ-0041,Company Careers,2026-05-04,Rejected,Requisition closed,Yes
+APP-001201,CAND-001201,REQ-0041,Company Careers,2026-04-13,Rejected,Requisition closed,Yes
+APP-001202,CAND-001202,REQ-0041,University,2026-05-05,Rejected,Requisition closed,Yes
+APP-001203,CAND-001203,REQ-0041,LinkedIn,2026-04-21,Rejected,Requisition closed,Yes
+APP-001204,CAND-001204,REQ-0041,Indeed,2026-04-21,Rejected,Requisition closed,Yes
+APP-001205,CAND-001205,REQ-0041,Indeed,2026-05-06,Rejected,Requisition closed,Yes
+APP-001206,CAND-001206,REQ-0041,Employee Referral,2026-05-14,Rejected,Requisition closed,Yes
+APP-001207,CAND-001207,REQ-0041,Company Careers,2026-05-05,Rejected,Requisition closed,Yes
+APP-001208,CAND-001208,REQ-0041,LinkedIn,2026-05-06,Rejected,Requisition closed,Yes
+APP-001209,CAND-001209,REQ-0041,Indeed,2026-05-25,Rejected,Requisition closed,Yes
+APP-001210,CAND-001210,REQ-0041,Professional Network,2026-05-20,Rejected,Requisition closed,Yes
+APP-001211,CAND-001211,REQ-0041,Indeed,2026-05-16,Rejected,Requisition closed,Yes
+APP-001212,CAND-001212,REQ-0041,Employee Referral,2026-04-08,Rejected,Requisition closed,Yes
+APP-001213,CAND-001213,REQ-0041,Employee Referral,2026-05-08,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001214,CAND-001214,REQ-0041,Indeed,2026-04-14,Rejected,Requisition closed,Yes
+APP-001215,CAND-001215,REQ-0041,Company Careers,2026-05-17,Rejected,Requisition closed,Yes
+APP-001216,CAND-001216,REQ-0041,Company Careers,2026-05-02,Rejected,Requisition closed,Yes
+APP-001217,CAND-001217,REQ-0041,Indeed,2026-04-13,Rejected,Requisition closed,Yes
+APP-001218,CAND-001218,REQ-0042,Indeed,2026-06-11,Rejected,Requisition closed,No
+APP-001219,CAND-001219,REQ-0042,Indeed,2026-06-19,Rejected,Requisition closed,Yes
+APP-001220,CAND-001220,REQ-0042,University,2026-06-04,Rejected,Requisition closed,Yes
+APP-001221,CAND-001221,REQ-0042,Company Careers,2026-05-10,Rejected,Requisition closed,Yes
+APP-001222,CAND-001222,REQ-0042,University,2026-06-13,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001223,CAND-001223,REQ-0042,Indeed,2026-05-30,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001224,CAND-001224,REQ-0042,Employee Referral,2026-05-18,Rejected,Requisition closed,Yes
+APP-001225,CAND-001225,REQ-0042,LinkedIn,2026-05-25,Rejected,Requisition closed,Yes
+APP-001226,CAND-001226,REQ-0042,Professional Network,2026-05-26,Rejected,Requisition closed,Yes
+APP-001227,CAND-001227,REQ-0042,Indeed,2026-05-10,Rejected,Requisition closed,No
+APP-001228,CAND-001228,REQ-0042,Employee Referral,2026-06-01,Withdrawn,Candidate withdrew (simulated),Yes
+APP-001229,CAND-001229,REQ-0042,Employee Referral,2026-05-10,Rejected,Requisition closed,Yes
+APP-001230,CAND-001230,REQ-0042,Professional Network,2026-05-20,Rejected,Requisition closed,Yes
+APP-001231,CAND-001231,REQ-0042,Indeed,2026-05-11,Rejected,Requisition closed,Yes
+APP-001232,CAND-001232,REQ-0042,Professional Network,2026-06-20,Rejected,Requisition closed,Yes
+APP-001233,CAND-001233,REQ-0042,Professional Network,2026-05-30,Rejected,Requisition closed,Yes
+APP-001234,CAND-001234,REQ-0042,Indeed,2026-05-24,Rejected,Requisition closed,Yes
+APP-001235,CAND-001235,REQ-0042,University,2026-06-18,Rejected,Requisition closed,Yes
+APP-001236,CAND-001236,REQ-0042,Company Careers,2026-05-20,Rejected,Requisition closed,Yes
+APP-001237,CAND-001237,REQ-0042,LinkedIn,2026-06-16,Rejected,Requisition closed,Yes
+APP-001238,CAND-001238,REQ-0042,Company Careers,2026-05-18,Rejected,Requisition closed,Yes
+APP-001239,CAND-001239,REQ-0042,University,2026-06-13,Rejected,Requisition closed,Yes
+APP-001240,CAND-001240,REQ-0042,LinkedIn,2026-05-28,Rejected,Requisition closed,Yes
+APP-001241,CAND-001241,REQ-0042,University,2026-05-10,Rejected,Requisition closed,Yes
+APP-001242,CAND-001242,REQ-0042,University,2026-06-03,Rejected,Requisition closed,Yes
+APP-001243,CAND-001243,REQ-0042,Indeed,2026-06-11,Rejected,Requisition closed,Yes
+APP-001244,CAND-001244,REQ-0042,University,2026-06-08,Rejected,Requisition closed,Yes
+APP-001245,CAND-001245,REQ-0042,Professional Network,2026-06-03,Rejected,Requisition closed,Yes
+APP-001246,CAND-001246,REQ-0042,LinkedIn,2026-05-18,Rejected,Requisition closed,Yes
+APP-001247,CAND-001247,REQ-0042,University,2026-06-13,Rejected,Requisition closed,No
+APP-001248,CAND-001248,REQ-0042,LinkedIn,2026-05-28,Rejected,Requisition closed,Yes
+APP-001249,CAND-001249,REQ-0042,University,2026-05-29,Withdrawn,Candidate withdrew (simulated),Yes

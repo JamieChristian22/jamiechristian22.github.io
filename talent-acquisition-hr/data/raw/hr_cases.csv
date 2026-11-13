@@ -1,0 +1,151 @@
+case_id,employee_id,category,priority,opened_at,closed_at,status,assigned_team,resolution_code
+CASE-00001,EMP-00071,Leave Routing,High,2026-07-09,2026-07-17,Resolved,People Operations,Guidance provided
+CASE-00002,EMP-00117,Benefits Guidance,Normal,2026-06-04,2026-06-10,Resolved,People Operations,Guidance provided
+CASE-00003,EMP-00190,HRIS Access,Normal,2026-06-08,2026-06-14,Resolved,People Operations,Guidance provided
+CASE-00004,EMP-00016,Payroll Question,Normal,2026-07-26,2026-08-02,Resolved,People Operations,Guidance provided
+CASE-00005,EMP-00126,HRIS Access,High,2026-07-27,2026-08-02,Resolved,People Operations,Guidance provided
+CASE-00006,EMP-00189,HRIS Access,Normal,2026-04-24,2026-04-28,Resolved,People Operations,Guidance provided
+CASE-00007,EMP-00084,Leave Routing,Normal,2026-10-19,2026-10-21,Resolved,People Operations,Guidance provided
+CASE-00008,EMP-00025,Policy Clarification,High,2026-10-17,2026-10-18,Resolved,People Operations,Guidance provided
+CASE-00009,EMP-00016,HRIS Access,Normal,2026-08-22,,Open,People Operations,
+CASE-00010,EMP-00139,Policy Clarification,Normal,2026-10-17,2026-10-25,Resolved,People Operations,Guidance provided
+CASE-00011,EMP-00132,Policy Clarification,High,2026-09-24,,Open,People Operations,
+CASE-00012,EMP-00185,Manager Support,High,2026-04-27,2026-04-30,Resolved,People Operations,Guidance provided
+CASE-00013,EMP-00128,Leave Routing,Normal,2026-08-15,2026-08-23,Resolved,People Operations,Guidance provided
+CASE-00014,EMP-00021,Payroll Question,Normal,2026-05-01,2026-05-04,Resolved,People Operations,Guidance provided
+CASE-00015,EMP-00038,HRIS Access,High,2026-09-15,2026-09-15,Resolved,People Operations,Guidance provided
+CASE-00016,EMP-00185,Benefits Guidance,Normal,2026-05-18,,Open,People Operations,
+CASE-00017,EMP-00082,Policy Clarification,High,2026-08-05,2026-08-12,Resolved,People Operations,Guidance provided
+CASE-00018,EMP-00091,Policy Clarification,High,2026-09-12,2026-09-21,Resolved,People Operations,Guidance provided
+CASE-00019,EMP-00069,Leave Routing,High,2026-04-04,2026-04-09,Resolved,People Operations,Guidance provided
+CASE-00020,EMP-00047,HRIS Access,High,2026-09-29,,Open,People Operations,
+CASE-00021,EMP-00193,Manager Support,Normal,2026-06-12,2026-06-17,Resolved,People Operations,Guidance provided
+CASE-00022,EMP-00100,HRIS Access,High,2026-06-15,2026-06-23,Resolved,People Operations,Guidance provided
+CASE-00023,EMP-00195,HRIS Access,Normal,2026-08-18,2026-08-21,Resolved,People Operations,Guidance provided
+CASE-00024,EMP-00092,Policy Clarification,Normal,2026-08-08,2026-08-14,Resolved,People Operations,Guidance provided
+CASE-00025,EMP-00172,Manager Support,Normal,2026-05-15,,Open,People Operations,
+CASE-00026,EMP-00120,Payroll Question,Normal,2026-04-25,2026-05-02,Resolved,People Operations,Guidance provided
+CASE-00027,EMP-00038,Manager Support,Normal,2026-09-30,2026-10-03,Resolved,People Operations,Guidance provided
+CASE-00028,EMP-00197,Manager Support,Normal,2026-05-22,2026-05-31,Resolved,People Operations,Guidance provided
+CASE-00029,EMP-00125,Benefits Guidance,Normal,2026-05-28,2026-05-31,Resolved,People Operations,Guidance provided
+CASE-00030,EMP-00024,Policy Clarification,Normal,2026-07-18,2026-07-25,Resolved,People Operations,Guidance provided
+CASE-00031,EMP-00170,HRIS Access,High,2026-10-09,2026-10-16,Resolved,People Operations,Guidance provided
+CASE-00032,EMP-00197,Benefits Guidance,Normal,2026-06-09,,Open,People Operations,
+CASE-00033,EMP-00059,Leave Routing,Normal,2026-05-12,2026-05-19,Resolved,People Operations,Guidance provided
+CASE-00034,EMP-00012,Payroll Question,Normal,2026-07-04,2026-07-13,Resolved,People Operations,Guidance provided
+CASE-00035,EMP-00150,Manager Support,Normal,2026-05-01,2026-05-01,Resolved,People Operations,Guidance provided
+CASE-00036,EMP-00083,Payroll Question,Normal,2026-04-09,2026-04-16,Resolved,People Operations,Guidance provided
+CASE-00037,EMP-00185,Leave Routing,Normal,2026-08-01,2026-08-07,Resolved,People Operations,Guidance provided
+CASE-00038,EMP-00009,Policy Clarification,Normal,2026-07-16,2026-07-17,Resolved,People Operations,Guidance provided
+CASE-00039,EMP-00014,Manager Support,Normal,2026-06-09,2026-06-09,Resolved,People Operations,Guidance provided
+CASE-00040,EMP-00080,Payroll Question,Normal,2026-10-20,2026-10-21,Resolved,People Operations,Guidance provided
+CASE-00041,EMP-00124,Manager Support,High,2026-07-30,2026-08-05,Resolved,People Operations,Guidance provided
+CASE-00042,EMP-00111,HRIS Access,Normal,2026-05-08,2026-05-12,Resolved,People Operations,Guidance provided
+CASE-00043,EMP-00090,HRIS Access,High,2026-05-08,2026-05-09,Resolved,People Operations,Guidance provided
+CASE-00044,EMP-00011,Leave Routing,Normal,2026-07-23,2026-07-30,Resolved,People Operations,Guidance provided
+CASE-00045,EMP-00184,Benefits Guidance,Normal,2026-05-07,2026-05-07,Resolved,People Operations,Guidance provided
+CASE-00046,EMP-00036,Manager Support,Normal,2026-09-12,2026-09-18,Resolved,People Operations,Guidance provided
+CASE-00047,EMP-00043,Payroll Question,High,2026-05-26,2026-05-28,Resolved,People Operations,Guidance provided
+CASE-00048,EMP-00171,Leave Routing,High,2026-07-09,2026-07-13,Resolved,People Operations,Guidance provided
+CASE-00049,EMP-00171,Leave Routing,Normal,2026-05-23,,Open,People Operations,
+CASE-00050,EMP-00111,Manager Support,Normal,2026-08-10,2026-08-19,Resolved,People Operations,Guidance provided
+CASE-00051,EMP-00145,Leave Routing,Normal,2026-10-20,2026-10-29,Resolved,People Operations,Guidance provided
+CASE-00052,EMP-00051,Payroll Question,High,2026-08-04,2026-08-13,Resolved,People Operations,Guidance provided
+CASE-00053,EMP-00139,Manager Support,Normal,2026-05-09,2026-05-10,Resolved,People Operations,Guidance provided
+CASE-00054,EMP-00103,HRIS Access,Normal,2026-08-24,2026-08-26,Resolved,People Operations,Guidance provided
+CASE-00055,EMP-00194,Leave Routing,High,2026-09-07,2026-09-08,Resolved,People Operations,Guidance provided
+CASE-00056,EMP-00163,Policy Clarification,Normal,2026-10-10,2026-10-12,Resolved,People Operations,Guidance provided
+CASE-00057,EMP-00043,HRIS Access,Normal,2026-06-06,2026-06-14,Resolved,People Operations,Guidance provided
+CASE-00058,EMP-00090,Benefits Guidance,High,2026-05-14,2026-05-23,Resolved,People Operations,Guidance provided
+CASE-00059,EMP-00169,HRIS Access,Normal,2026-06-29,,Open,People Operations,
+CASE-00060,EMP-00015,Policy Clarification,Normal,2026-10-01,2026-10-07,Resolved,People Operations,Guidance provided
+CASE-00061,EMP-00014,Payroll Question,High,2026-06-05,,Open,People Operations,
+CASE-00062,EMP-00196,HRIS Access,Normal,2026-08-13,2026-08-19,Resolved,People Operations,Guidance provided
+CASE-00063,EMP-00124,Manager Support,Normal,2026-10-04,2026-10-13,Resolved,People Operations,Guidance provided
+CASE-00064,EMP-00160,Leave Routing,High,2026-10-04,2026-10-12,Resolved,People Operations,Guidance provided
+CASE-00065,EMP-00144,Policy Clarification,Normal,2026-06-26,2026-07-04,Resolved,People Operations,Guidance provided
+CASE-00066,EMP-00200,Payroll Question,High,2026-07-16,2026-07-23,Resolved,People Operations,Guidance provided
+CASE-00067,EMP-00191,Policy Clarification,High,2026-10-22,2026-10-22,Resolved,People Operations,Guidance provided
+CASE-00068,EMP-00008,Leave Routing,High,2026-09-13,2026-09-18,Resolved,People Operations,Guidance provided
+CASE-00069,EMP-00174,Payroll Question,Normal,2026-05-20,2026-05-20,Resolved,People Operations,Guidance provided
+CASE-00070,EMP-00025,Leave Routing,High,2026-04-11,2026-04-18,Resolved,People Operations,Guidance provided
+CASE-00071,EMP-00179,HRIS Access,Normal,2026-07-10,2026-07-15,Resolved,People Operations,Guidance provided
+CASE-00072,EMP-00098,HRIS Access,Normal,2026-05-13,2026-05-21,Resolved,People Operations,Guidance provided
+CASE-00073,EMP-00058,Leave Routing,Normal,2026-07-27,,Open,People Operations,
+CASE-00074,EMP-00101,Policy Clarification,Normal,2026-10-01,2026-10-01,Resolved,People Operations,Guidance provided
+CASE-00075,EMP-00160,Policy Clarification,Normal,2026-09-05,2026-09-06,Resolved,People Operations,Guidance provided
+CASE-00076,EMP-00003,Manager Support,Normal,2026-09-22,2026-09-30,Resolved,People Operations,Guidance provided
+CASE-00077,EMP-00152,Policy Clarification,Normal,2026-08-10,2026-08-13,Resolved,People Operations,Guidance provided
+CASE-00078,EMP-00075,Manager Support,Normal,2026-06-09,2026-06-14,Resolved,People Operations,Guidance provided
+CASE-00079,EMP-00030,Policy Clarification,Normal,2026-04-15,2026-04-18,Resolved,People Operations,Guidance provided
+CASE-00080,EMP-00112,Leave Routing,Normal,2026-07-30,2026-08-04,Resolved,People Operations,Guidance provided
+CASE-00081,EMP-00133,Leave Routing,Normal,2026-07-04,2026-07-11,Resolved,People Operations,Guidance provided
+CASE-00082,EMP-00186,Payroll Question,Normal,2026-06-26,2026-06-29,Resolved,People Operations,Guidance provided
+CASE-00083,EMP-00058,Manager Support,High,2026-04-26,2026-05-04,Resolved,People Operations,Guidance provided
+CASE-00084,EMP-00135,Benefits Guidance,High,2026-09-25,2026-10-02,Resolved,People Operations,Guidance provided
+CASE-00085,EMP-00079,Benefits Guidance,Normal,2026-10-15,2026-10-18,Resolved,People Operations,Guidance provided
+CASE-00086,EMP-00189,Policy Clarification,Normal,2026-10-22,2026-10-22,Resolved,People Operations,Guidance provided
+CASE-00087,EMP-00036,HRIS Access,Normal,2026-09-29,2026-09-29,Resolved,People Operations,Guidance provided
+CASE-00088,EMP-00142,Manager Support,High,2026-08-31,2026-08-31,Resolved,People Operations,Guidance provided
+CASE-00089,EMP-00144,Leave Routing,High,2026-10-13,2026-10-20,Resolved,People Operations,Guidance provided
+CASE-00090,EMP-00077,Leave Routing,High,2026-07-27,2026-07-27,Resolved,People Operations,Guidance provided
+CASE-00091,EMP-00194,Policy Clarification,High,2026-06-17,2026-06-19,Resolved,People Operations,Guidance provided
+CASE-00092,EMP-00179,HRIS Access,High,2026-04-20,2026-04-28,Resolved,People Operations,Guidance provided
+CASE-00093,EMP-00018,Policy Clarification,High,2026-05-02,2026-05-04,Resolved,People Operations,Guidance provided
+CASE-00094,EMP-00130,Manager Support,Normal,2026-07-30,2026-08-02,Resolved,People Operations,Guidance provided
+CASE-00095,EMP-00175,Policy Clarification,High,2026-04-30,2026-05-03,Resolved,People Operations,Guidance provided
+CASE-00096,EMP-00025,Policy Clarification,Normal,2026-07-17,2026-07-23,Resolved,People Operations,Guidance provided
+CASE-00097,EMP-00051,Leave Routing,Normal,2026-06-24,2026-06-25,Resolved,People Operations,Guidance provided
+CASE-00098,EMP-00046,Manager Support,High,2026-04-11,2026-04-17,Resolved,People Operations,Guidance provided
+CASE-00099,EMP-00049,Benefits Guidance,High,2026-09-01,2026-09-03,Resolved,People Operations,Guidance provided
+CASE-00100,EMP-00186,Leave Routing,Normal,2026-07-24,2026-07-28,Resolved,People Operations,Guidance provided
+CASE-00101,EMP-00032,Policy Clarification,Normal,2026-10-02,,Open,People Operations,
+CASE-00102,EMP-00084,Leave Routing,High,2026-04-13,2026-04-20,Resolved,People Operations,Guidance provided
+CASE-00103,EMP-00186,Benefits Guidance,High,2026-04-26,2026-04-28,Resolved,People Operations,Guidance provided
+CASE-00104,EMP-00171,Benefits Guidance,High,2026-06-07,2026-06-07,Resolved,People Operations,Guidance provided
+CASE-00105,EMP-00202,Policy Clarification,Normal,2026-05-26,2026-06-01,Resolved,People Operations,Guidance provided
+CASE-00106,EMP-00079,Policy Clarification,High,2026-04-22,2026-04-26,Resolved,People Operations,Guidance provided
+CASE-00107,EMP-00032,HRIS Access,Normal,2026-04-04,2026-04-06,Resolved,People Operations,Guidance provided
+CASE-00108,EMP-00107,Policy Clarification,Normal,2026-04-15,,Open,People Operations,
+CASE-00109,EMP-00055,Benefits Guidance,Normal,2026-06-17,2026-06-22,Resolved,People Operations,Guidance provided
+CASE-00110,EMP-00040,HRIS Access,Normal,2026-10-02,2026-10-10,Resolved,People Operations,Guidance provided
+CASE-00111,EMP-00066,Policy Clarification,Normal,2026-06-21,2026-06-22,Resolved,People Operations,Guidance provided
+CASE-00112,EMP-00144,Leave Routing,High,2026-05-11,2026-05-11,Resolved,People Operations,Guidance provided
+CASE-00113,EMP-00167,Payroll Question,Normal,2026-09-23,2026-09-23,Resolved,People Operations,Guidance provided
+CASE-00114,EMP-00064,Benefits Guidance,High,2026-05-12,2026-05-13,Resolved,People Operations,Guidance provided
+CASE-00115,EMP-00044,Benefits Guidance,Normal,2026-05-07,2026-05-13,Resolved,People Operations,Guidance provided
+CASE-00116,EMP-00133,Manager Support,High,2026-05-02,2026-05-09,Resolved,People Operations,Guidance provided
+CASE-00117,EMP-00031,Leave Routing,Normal,2026-07-15,2026-07-22,Resolved,People Operations,Guidance provided
+CASE-00118,EMP-00176,Manager Support,Normal,2026-09-22,,Open,People Operations,
+CASE-00119,EMP-00003,Policy Clarification,Normal,2026-10-14,2026-10-22,Resolved,People Operations,Guidance provided
+CASE-00120,EMP-00036,Policy Clarification,Normal,2026-04-15,2026-04-24,Resolved,People Operations,Guidance provided
+CASE-00121,EMP-00149,Leave Routing,Normal,2026-05-28,2026-05-31,Resolved,People Operations,Guidance provided
+CASE-00122,EMP-00160,HRIS Access,High,2026-07-20,,Open,People Operations,
+CASE-00123,EMP-00099,Payroll Question,Normal,2026-10-01,2026-10-07,Resolved,People Operations,Guidance provided
+CASE-00124,EMP-00047,Policy Clarification,Normal,2026-10-07,2026-10-08,Resolved,People Operations,Guidance provided
+CASE-00125,EMP-00037,Policy Clarification,High,2026-04-16,2026-04-25,Resolved,People Operations,Guidance provided
+CASE-00126,EMP-00097,Leave Routing,Normal,2026-09-19,2026-09-23,Resolved,People Operations,Guidance provided
+CASE-00127,EMP-00152,Payroll Question,Normal,2026-09-05,2026-09-13,Resolved,People Operations,Guidance provided
+CASE-00128,EMP-00140,HRIS Access,High,2026-04-16,2026-04-17,Resolved,People Operations,Guidance provided
+CASE-00129,EMP-00005,HRIS Access,Normal,2026-05-05,2026-05-11,Resolved,People Operations,Guidance provided
+CASE-00130,EMP-00006,HRIS Access,Normal,2026-10-21,2026-10-29,Resolved,People Operations,Guidance provided
+CASE-00131,EMP-00064,Payroll Question,Normal,2026-09-13,2026-09-21,Resolved,People Operations,Guidance provided
+CASE-00132,EMP-00196,Payroll Question,Normal,2026-07-24,2026-07-30,Resolved,People Operations,Guidance provided
+CASE-00133,EMP-00061,Manager Support,High,2026-07-28,2026-08-05,Resolved,People Operations,Guidance provided
+CASE-00134,EMP-00068,HRIS Access,Normal,2026-10-10,,Open,People Operations,
+CASE-00135,EMP-00087,Manager Support,High,2026-09-06,2026-09-15,Resolved,People Operations,Guidance provided
+CASE-00136,EMP-00077,HRIS Access,High,2026-04-14,2026-04-21,Resolved,People Operations,Guidance provided
+CASE-00137,EMP-00122,Benefits Guidance,Normal,2026-04-28,2026-05-07,Resolved,People Operations,Guidance provided
+CASE-00138,EMP-00143,HRIS Access,Normal,2026-05-21,2026-05-26,Resolved,People Operations,Guidance provided
+CASE-00139,EMP-00068,HRIS Access,High,2026-04-10,2026-04-19,Resolved,People Operations,Guidance provided
+CASE-00140,EMP-00202,Manager Support,High,2026-05-24,2026-05-29,Resolved,People Operations,Guidance provided
+CASE-00141,EMP-00136,HRIS Access,Normal,2026-06-26,,Open,People Operations,
+CASE-00142,EMP-00142,Manager Support,Normal,2026-05-02,,Open,People Operations,
+CASE-00143,EMP-00027,Benefits Guidance,Normal,2026-09-15,,Open,People Operations,
+CASE-00144,EMP-00152,Manager Support,Normal,2026-08-18,2026-08-27,Resolved,People Operations,Guidance provided
+CASE-00145,EMP-00121,HRIS Access,Normal,2026-07-16,2026-07-24,Resolved,People Operations,Guidance provided
+CASE-00146,EMP-00074,Leave Routing,Normal,2026-10-17,,Open,People Operations,
+CASE-00147,EMP-00102,Manager Support,Normal,2026-05-30,2026-06-05,Resolved,People Operations,Guidance provided
+CASE-00148,EMP-00127,HRIS Access,Normal,2026-09-12,2026-09-20,Resolved,People Operations,Guidance provided
+CASE-00149,EMP-00127,Manager Support,High,2026-09-20,2026-09-27,Resolved,People Operations,Guidance provided
+CASE-00150,EMP-00183,HRIS Access,High,2026-07-03,2026-07-07,Resolved,People Operations,Guidance provided

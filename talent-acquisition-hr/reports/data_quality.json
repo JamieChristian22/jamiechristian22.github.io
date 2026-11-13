@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "error_count": 0,
+  "warning_count": 0,
+  "errors": [],
+  "warnings": [],
+  "table_counts": {
+    "requisitions": 42,
+    "applications": 1249,
+    "stage_events": 3144,
+    "offers": 89,
+    "employees": 204,
+    "onboarding_tasks": 168,
+    "hr_cases": 150
+  },
+  "as_of": "2026-10-31",
+  "data_classification": "PUBLIC_SYNTHETIC"
+}

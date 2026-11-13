@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "as_of": "2026-10-31",
+    "simulation": true,
+    "mature_cohort_days": 60,
+    "selection_method": "Stage event records for process metrics; source application records for cohorts",
+    "warning": "Synthetic cross-sectional data, incomplete cohorts and low sample sizes; no causal or predictive claims"
+  },
+  "application_cohorts": [
+    {
+      "cohort_month": "2026-01",
+      "applications": 21,
+      "screened": 19,
+      "interviewed": 11,
+      "offers_extended": 0,
+      "accepted": 0,
+      "hires": 0,
+      "mature_60d": true,
+      "hire_rate_pct": 0.0,
+      "interpretation": "Mature cohort"
+    },
+    {
+      "cohort_month": "2026-02",
+      "applications": 41,
+      "screened": 31,
+      "interviewed": 16,
+      "offers_extended": 5,
+      "accepted": 2,
+      "hires": 2,
+      "mature_60d": true,
+      "hire_rate_pct": 4.9,
+      "interpretation": "Mature cohort"
+    },
+    {
+      "cohort_month": "2026-03",
+      "applications": 176,
+      "screened": 131,
+      "interviewed": 79,
+      "offers_extended": 19,
+      "accepted": 5,
+      "hires": 5,
+      "mature_60d": true,
+      "hire_rate_pct": 2.8,
+      "interpretation": "Mature cohort"
+    },
+    {
+      "cohort_month": "2026-04",
+      "applications": 271,
+      "screened": 221,
+      "interviewed": 129,
+      "offers_extended": 24,
+      "accepted": 8,
+      "hires": 8,
+      "mature_60d": true,
+      "hire_rate_pct": 3.0,
+      "interpretation": "Mature cohort"
+    },
+    {
+      "cohort_month": "2026-05",
+      "applications": 208,
+      "screened": 151,
+      "interviewed": 93,
+      "offers_extended": 9,
+      "accepted": 2,
+      "hires": 2,
+      "mature_60d": true,
+      "hire_rate_pct": 1.0,
+      "interpretation": "Mature cohort"
+    },
+    {
+      "cohort_month": "2026-06",
+      "applications": 143,
+      "screened": 114,
+      "interviewed": 60,
+      "offers_extended": 18,
+      "accepted": 7,
+      "hires": 7,
+      "mature_60d": true,
+      "hire_rate_pct": 4.9,
+      "interpretation": "Mature cohort"
+    },
+    {
+      "cohort_month": "2026-07",
+      "applications": 22,
+      "screened": 21,
+      "interviewed": 10,
+      "offers_extended": 0,
+      "accepted": 0,
+      "hires": 0,
+      "mature_60d": true,
+      "hire_rate_pct": 0.0,
+      "interpretation": "Mature cohort"
+    },
+    {
+      "cohort_month": "2026-08",
+      "applications": 92,
+      "screened": 71,
+      "interviewed": 40,
+      "offers_extended": 8,
+      "accepted": 0,
+      "hires": 0,
+      "mature_60d": true,
+      "hire_rate_pct": 0.0,
+      "interpretation": "Mature cohort"
+    },
+    {
+      "cohort_month": "2026-09",
+      "applications": 131,
+      "screened": 99,
+      "interviewed": 61,
+      "offers_extended": 5,
+      "accepted": 0,
+      "hires": 0,
+      "mature_60d": false,
+      "hire_rate_pct": 0.0,
+      "interpretation": "Immature: do not compare final conversion"
+    },
+    {
+      "cohort_month": "2026-10",
+      "applications": 144,
+      "screened": 115,
+      "interviewed": 63,
+      "offers_extended": 1,
+      "accepted": 0,
+      "hires": 0,
+      "mature_60d": false,
+      "hire_rate_pct": 0.0,
+      "interpretation": "Immature: do not compare final conversion"
+    }
+  ],
+  "source_cohorts_60d": [
+    {
+      "source": "Company Careers",
+      "applications": 200,
+      "mature_applications": 159,
+      "mature_hires": 3,
+      "mature_hire_rate_pct": 1.9
+    },
+    {
+      "source": "Employee Referral",
+      "applications": 212,
+      "mature_applications": 167,
+      "mature_hires": 2,
+      "mature_hire_rate_pct": 1.2
+    },
+    {
+      "source": "Indeed",
+      "applications": 243,
+      "mature_applications": 195,
+      "mature_hires": 3,
+      "mature_hire_rate_pct": 1.5
+    },
+    {
+      "source": "LinkedIn",
+      "applications": 205,
+      "mature_applications": 152,
+      "mature_hires": 7,
+      "mature_hire_rate_pct": 4.6
+    },
+    {
+      "source": "Professional Network",
+      "applications": 194,
+      "mature_applications": 150,
+      "mature_hires": 6,
+      "mature_hire_rate_pct": 4.0
+    },
+    {
+      "source": "University",
+      "applications": 195,
+      "mature_applications": 157,
+      "mature_hires": 3,
+      "mature_hire_rate_pct": 1.9
+    }
+  ],
+  "stage_cycle_time": [
+    {
+      "stage_transition": "Applied → Screened",
+      "completed_pairs": 973,
+      "median_days": 4,
+      "p75_days": 5.0
+    },
+    {
+      "stage_transition": "Screened → Interview",
+      "completed_pairs": 562,
+      "median_days": 4.0,
+      "p75_days": 5.0
+    },
+    {
+      "stage_transition": "Interview → Final",
+      "completed_pairs": 247,
+      "median_days": 3,
+      "p75_days": 5.0
+    },
+    {
+      "stage_transition": "Final → Offer",
+      "completed_pairs": 89,
+      "median_days": 4,
+      "p75_days": 7.0
+    },
+    {
+      "stage_transition": "Offer → Hired",
+      "completed_pairs": 24,
+      "median_days": 5.0,
+      "p75_days": 5.0
+    }
+  ],
+  "requisition_fill_scenarios": [
+    {
+      "department": "Analytics",
+      "filled_reqs": 4,
+      "p25_days": 46.5,
+      "median_days": 54.0,
+      "p75_days": 61.2,
+      "scenario": "Illustrative historical duration band; not a forecast or commitment"
+    },
+    {
+      "department": "Customer Success",
+      "filled_reqs": 4,
+      "p25_days": 52.8,
+      "median_days": 61.0,
+      "p75_days": 66.5,
+      "scenario": "Illustrative historical duration band; not a forecast or commitment"
+    },
+    {
+      "department": "Engineering",
+      "filled_reqs": 4,
+      "p25_days": 45.8,
+      "median_days": 53.5,
+      "p75_days": 59.5,
+      "scenario": "Illustrative historical duration band; not a forecast or commitment"
+    },
+    {
+      "department": "Finance & Operations",
+      "filled_reqs": 4,
+      "p25_days": 46.5,
+      "median_days": 49.5,
+      "p75_days": 57.0,
+      "scenario": "Illustrative historical duration band; not a forecast or commitment"
+    },
+    {
+      "department": "People & Culture",
+      "filled_reqs": 4,
+      "p25_days": 59.2,
+      "median_days": 63.5,
+      "p75_days": 65.8,
+      "scenario": "Illustrative historical duration band; not a forecast or commitment"
+    },
+    {
+      "department": "Product",
+      "filled_reqs": 4,
+      "p25_days": 53.0,
+      "median_days": 61.5,
+      "p75_days": 66.8,
+      "scenario": "Illustrative historical duration band; not a forecast or commitment"
+    }
+  ],
+  "historical_fill_duration_overall": {
+    "filled_reqs": 24,
+    "p25_days": 47.0,
+    "median_days": 58.0,
+    "p75_days": 65.0
+  },
+  "recommended_decisions": [
+    {
+      "finding": "Low offer acceptance",
+      "action": "Review offer approvals, compensation benchmarks and candidate feedback",
+      "owner": "TA Lead + Total Rewards",
+      "validation": "Track decided-offer acceptance by department for 90 days"
+    },
+    {
+      "finding": "Slow requisition fill",
+      "action": "Define hiring-manager feedback SLA and stage bottleneck review",
+      "owner": "Recruiting Operations",
+      "validation": "Monitor mature requisition cohorts and median stage aging weekly"
+    },
+    {
+      "finding": "Late onboarding tasks",
+      "action": "Introduce pre-start ownership, due-date reminders and escalation",
+      "owner": "People Operations + IT",
+      "validation": "Track due-task on-time completion and overdue tasks weekly"
+    }
+  ]
+}

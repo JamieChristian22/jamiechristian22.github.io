@@ -1,0 +1,43 @@
+req_id,department,job_title,owner,employment_type,location_type,priority,opened_at,closed_at,status,approved_budget_usd,headcount_approved,business_justification
+REQ-0001,Engineering,Cloud Support Engineer I,Recruiter-A,Full-time,Remote,Standard,2026-02-20,2026-03-31,Filled,73500,1,Approved capacity or backfill; simulated
+REQ-0002,Analytics,Reporting Analyst,Recruiter-B,Full-time,Remote,Standard,2026-03-29,2026-05-15,Filled,82000,1,Approved capacity or backfill; simulated
+REQ-0003,People & Culture,Talent Acquisition Specialist,Recruiter-C,Full-time,Remote,High,2026-04-24,2026-06-14,Filled,90500,1,Approved capacity or backfill; simulated
+REQ-0004,Customer Success,Implementation Specialist,Recruiter-D,Full-time,Hybrid,Standard,2026-02-13,2026-04-25,Filled,99000,1,Approved capacity or backfill; simulated
+REQ-0005,Finance & Operations,Financial Analyst,Recruiter-A,Contract,Remote,Standard,2026-01-21,2026-03-09,Filled,107500,1,Approved capacity or backfill; simulated
+REQ-0006,Product,Product Operations Associate,Recruiter-B,Full-time,Remote,High,2026-04-29,2026-07-04,Filled,65000,1,Approved capacity or backfill; simulated
+REQ-0007,Engineering,Platform Engineer,Recruiter-C,Full-time,Remote,Critical,2026-03-28,2026-05-26,Filled,73500,1,Approved capacity or backfill; simulated
+REQ-0008,Analytics,Business Intelligence Analyst,Recruiter-D,Full-time,Hybrid,Standard,2026-05-15,2026-07-15,Filled,82000,1,Approved capacity or backfill; simulated
+REQ-0009,People & Culture,HR Operations Analyst,Recruiter-A,Full-time,Remote,High,2026-03-17,2026-05-24,Filled,90500,1,Approved capacity or backfill; simulated
+REQ-0010,Customer Success,Customer Support Analyst,Recruiter-B,Contract,Remote,Standard,2026-01-18,2026-03-24,Filled,99000,1,Approved capacity or backfill; simulated
+REQ-0011,Finance & Operations,Operations Analyst,Recruiter-C,Full-time,Remote,Standard,2026-05-22,2026-07-06,Filled,107500,1,Approved capacity or backfill; simulated
+REQ-0012,Product,Project Coordinator,Recruiter-D,Full-time,Hybrid,High,2026-03-30,2026-05-10,Filled,65000,1,Approved capacity or backfill; simulated
+REQ-0013,Engineering,Systems Analyst,Recruiter-A,Full-time,Remote,Standard,2026-03-03,2026-04-20,Filled,73500,1,Approved capacity or backfill; simulated
+REQ-0014,Analytics,Data Quality Analyst,Recruiter-B,Full-time,Remote,Critical,2026-03-02,2026-04-16,Filled,82000,1,Approved capacity or backfill; simulated
+REQ-0015,People & Culture,People Coordinator,Recruiter-C,Contract,Remote,High,2026-05-05,2026-07-09,Filled,90500,1,Approved capacity or backfill; simulated
+REQ-0016,Customer Success,Client Operations Associate,Recruiter-D,Full-time,Hybrid,Standard,2026-05-22,2026-07-01,Filled,99000,1,Approved capacity or backfill; simulated
+REQ-0017,Finance & Operations,Procurement Coordinator,Recruiter-A,Full-time,Remote,Standard,2026-02-27,2026-04-20,Filled,107500,1,Approved capacity or backfill; simulated
+REQ-0018,Product,Product Analyst,Recruiter-B,Full-time,Remote,High,2026-04-27,2026-06-23,Filled,65000,1,Approved capacity or backfill; simulated
+REQ-0019,Engineering,Cloud Support Engineer I,Recruiter-C,Full-time,Remote,Standard,2026-05-12,2026-07-12,Filled,73500,1,Approved capacity or backfill; simulated
+REQ-0020,Analytics,Reporting Analyst,Recruiter-D,Contract,Hybrid,Standard,2026-03-24,2026-05-25,Filled,82000,1,Approved capacity or backfill; simulated
+REQ-0021,People & Culture,Talent Acquisition Specialist,Recruiter-A,Full-time,Remote,Critical,2026-03-11,2026-05-12,Filled,90500,1,Approved capacity or backfill; simulated
+REQ-0022,Customer Success,Implementation Specialist,Recruiter-B,Full-time,Remote,Standard,2026-05-17,2026-07-13,Filled,99000,1,Approved capacity or backfill; simulated
+REQ-0023,Finance & Operations,Financial Analyst,Recruiter-C,Full-time,Remote,Standard,2026-03-13,2026-05-24,Filled,107500,1,Approved capacity or backfill; simulated
+REQ-0024,Product,Product Operations Associate,Recruiter-D,Full-time,Hybrid,High,2026-02-21,2026-05-01,Filled,65000,1,Approved capacity or backfill; simulated
+REQ-0025,Engineering,Platform Engineer,Recruiter-A,Contract,Remote,Standard,2026-08-02,,Open,73500,1,Approved capacity or backfill; simulated
+REQ-0026,Analytics,Business Intelligence Analyst,Recruiter-B,Full-time,Remote,Standard,2026-09-06,,Open,82000,1,Approved capacity or backfill; simulated
+REQ-0027,People & Culture,HR Operations Analyst,Recruiter-C,Full-time,Remote,High,2026-07-31,,Open,90500,1,Approved capacity or backfill; simulated
+REQ-0028,Customer Success,Customer Support Analyst,Recruiter-D,Full-time,Hybrid,Critical,2026-08-11,,Open,99000,1,Approved capacity or backfill; simulated
+REQ-0029,Finance & Operations,Operations Analyst,Recruiter-A,Full-time,Remote,Standard,2026-09-13,,Open,107500,1,Approved capacity or backfill; simulated
+REQ-0030,Product,Project Coordinator,Recruiter-B,Contract,Remote,High,2026-08-12,,Open,65000,1,Approved capacity or backfill; simulated
+REQ-0031,Engineering,Systems Analyst,Recruiter-C,Full-time,Remote,Standard,2026-08-15,,Open,73500,1,Approved capacity or backfill; simulated
+REQ-0032,Analytics,Data Quality Analyst,Recruiter-D,Full-time,Hybrid,Standard,2026-09-20,,Open,82000,1,Approved capacity or backfill; simulated
+REQ-0033,People & Culture,People Coordinator,Recruiter-A,Full-time,Remote,High,2026-08-09,,Open,90500,1,Approved capacity or backfill; simulated
+REQ-0034,Customer Success,Client Operations Associate,Recruiter-B,Full-time,Remote,Standard,2026-07-22,,Open,99000,1,Approved capacity or backfill; simulated
+REQ-0035,Finance & Operations,Procurement Coordinator,Recruiter-C,Contract,Remote,Critical,2026-08-02,,Open,107500,1,Approved capacity or backfill; simulated
+REQ-0036,Product,Product Analyst,Recruiter-D,Full-time,Hybrid,High,2026-07-30,,Open,65000,1,Approved capacity or backfill; simulated
+REQ-0037,Engineering,Cloud Support Engineer I,Recruiter-A,Full-time,Remote,Standard,2026-03-22,2026-05-13,Cancelled,73500,1,Approved capacity or backfill; simulated
+REQ-0038,Analytics,Reporting Analyst,Recruiter-B,Full-time,Remote,Standard,2026-04-09,2026-06-02,Cancelled,82000,1,Approved capacity or backfill; simulated
+REQ-0039,People & Culture,Talent Acquisition Specialist,Recruiter-C,Full-time,Remote,High,2026-03-27,2026-05-17,Cancelled,90500,1,Approved capacity or backfill; simulated
+REQ-0040,Customer Success,Implementation Specialist,Recruiter-D,Contract,Hybrid,Standard,2026-03-16,2026-05-14,Cancelled,99000,1,Approved capacity or backfill; simulated
+REQ-0041,Finance & Operations,Financial Analyst,Recruiter-A,Full-time,Remote,Standard,2026-04-08,2026-05-30,Cancelled,107500,1,Approved capacity or backfill; simulated
+REQ-0042,Product,Product Operations Associate,Recruiter-B,Full-time,Remote,Critical,2026-05-10,2026-06-26,Cancelled,65000,1,Approved capacity or backfill; simulated

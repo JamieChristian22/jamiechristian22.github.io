@@ -1,0 +1,33 @@
+name: Quality gates
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.10', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Build deterministic demo and validate
+        run: |
+          PYTHONPATH=src python -m tahr.cli demo
+          PYTHONPATH=src python -m tahr.advanced_analytics
+          PYTHONPATH=src python scripts/build_demo.py
+          PYTHONPATH=src python -m unittest discover -s tests -v
+          PYTHONPATH=src python scripts/verify_release.py
+      - name: Verify generated assets
+        run: |
+          test -s reports/metrics.json
+          test -s reports/data_quality.json
+          test -s reports/dashboard.html
+          test -s reports/advanced_metrics.json
+          test -s demo/index.html
+          test -s data/processed/talent_hr.sqlite
+          grep -q 'SYNTHETIC' reports/dashboard.html

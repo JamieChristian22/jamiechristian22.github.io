@@ -1,0 +1,2 @@
+# Core generator, warehouse, metrics, testing and HTML report require only Python standard library.
+# Optional interactive dashboard: pip install -r requirements-dashboard.txt

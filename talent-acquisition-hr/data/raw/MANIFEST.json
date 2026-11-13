@@ -1,0 +1,20 @@
+{
+  "dataset": "SYNTHETIC - fictional Northstar simulation",
+  "snapshot": "2026-10-31",
+  "seed": 20261113,
+  "counts": {
+    "requisitions.csv": 42,
+    "applications.csv": 1249,
+    "stage_events.csv": 3144,
+    "offers.csv": 89,
+    "onboarding_tasks.csv": 168,
+    "employees.csv": 204,
+    "hr_cases.csv": 150,
+    "candidate_experience_surveys.csv": 311,
+    "hiring_manager_surveys.csv": 24
+  },
+  "restricted_counts": {
+    "voluntary_group_audit.csv": 1249
+  },
+  "disclaimer": "No real human records; generated only for portfolio demonstration."
+}

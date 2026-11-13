@@ -1,0 +1,39 @@
+{
+  "purpose": "Synthetic, aggregated selection-rate screening. NOT automatic hiring selection.",
+  "data_use": "Restricted optional audit dataset; may not be used to rank or decide candidates.",
+  "reference_rate": "Highest eligible group's interview rate",
+  "threshold": 0.8,
+  "minimum_reportable_cell": 20,
+  "groups": [
+    {
+      "group": "Group A",
+      "n": 453,
+      "interview_count": 208,
+      "interview_rate_pct": 45.9,
+      "selection_ratio": 0.983,
+      "review_flag": "NOT_FLAGGED"
+    },
+    {
+      "group": "Group B",
+      "n": 381,
+      "interview_count": 178,
+      "interview_rate_pct": 46.7,
+      "selection_ratio": 1.0,
+      "review_flag": "NOT_FLAGGED"
+    },
+    {
+      "group": "Group C",
+      "n": 301,
+      "interview_count": 130,
+      "interview_rate_pct": 43.2,
+      "selection_ratio": 0.924,
+      "review_flag": "NOT_FLAGGED"
+    }
+  ],
+  "limitations": [
+    "Fictional group codes are not real demographic classifications.",
+    "The four-fifths heuristic alone is not a legal determination or statistical significance test.",
+    "An aggregate screening ratio does not establish causation; investigate job-related criteria and confounding factors.",
+    "Protected/voluntary information must be separately controlled and inaccessible to hiring evaluators."
+  ]
+}

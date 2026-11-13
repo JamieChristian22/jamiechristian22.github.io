@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "simulation": true,
+    "fictional_company": "Northstar People & Talent",
+    "as_of": "2026-10-31",
+    "metric_version": "1.0",
+    "data_classification": "PUBLIC_SYNTHETIC",
+    "interpretation": "Scenario demonstration only: not measured performance at an actual employer"
+  },
+  "recruiting": {
+    "requisitions": {
+      "total": 42,
+      "by_status": {
+        "Cancelled": 6,
+        "Filled": 24,
+        "Open": 12
+      },
+      "by_department": [
+        {
+          "department": "Analytics",
+          "total": 7,
+          "open": 2,
+          "filled": 4,
+          "cancelled": 1
+        },
+        {
+          "department": "Customer Success",
+          "total": 7,
+          "open": 2,
+          "filled": 4,
+          "cancelled": 1
+        },
+        {
+          "department": "Engineering",
+          "total": 7,
+          "open": 2,
+          "filled": 4,
+          "cancelled": 1
+        },
+        {
+          "department": "Finance & Operations",
+          "total": 7,
+          "open": 2,
+          "filled": 4,
+          "cancelled": 1
+        },
+        {
+          "department": "People & Culture",
+          "total": 7,
+          "open": 2,
+          "filled": 4,
+          "cancelled": 1
+        },
+        {
+          "department": "Product",
+          "total": 7,
+          "open": 2,
+          "filled": 4,
+          "cancelled": 1
+        }
+      ],
+      "recruiter_workload": [
+        {
+          "owner": "Recruiter-A",
+          "open_reqs": 3,
+          "total_reqs": 11
+        },
+        {
+          "owner": "Recruiter-B",
+          "open_reqs": 3,
+          "total_reqs": 11
+        },
+        {
+          "owner": "Recruiter-C",
+          "open_reqs": 3,
+          "total_reqs": 10
+        },
+        {
+          "owner": "Recruiter-D",
+          "open_reqs": 3,
+          "total_reqs": 10
+        }
+      ]
+    },
+    "applications": 1249,
+    "current_status_counts": {
+      "Applied": 21,
+      "Final": 15,
+      "Hired": 24,
+      "Interview": 31,
+      "Offer": 3,
+      "Rejected": 773,
+      "Screened": 41,
+      "Withdrawn": 341
+    },
+    "funnel": [
+      {
+        "stage": "Applied",
+        "reached": 1249,
+        "of_applied_pct": 100.0
+      },
+      {
+        "stage": "Screened",
+        "reached": 973,
+        "of_applied_pct": 77.9
+      },
+      {
+        "stage": "Interview",
+        "reached": 562,
+        "of_applied_pct": 45.0
+      },
+      {
+        "stage": "Final",
+        "reached": 247,
+        "of_applied_pct": 19.8
+      },
+      {
+        "stage": "Offer",
+        "reached": 89,
+        "of_applied_pct": 7.1
+      },
+      {
+        "stage": "Hired",
+        "reached": 24,
+        "of_applied_pct": 1.9
+      }
+    ],
+    "source_performance": [
+      {
+        "source": "LinkedIn",
+        "applicants": 205,
+        "hires": 7,
+        "interviewed": 93,
+        "hire_conversion_pct": 3.4
+      },
+      {
+        "source": "Professional Network",
+        "applicants": 194,
+        "hires": 6,
+        "interviewed": 78,
+        "hire_conversion_pct": 3.1
+      },
+      {
+        "source": "Indeed",
+        "applicants": 243,
+        "hires": 3,
+        "interviewed": 102,
+        "hire_conversion_pct": 1.2
+      },
+      {
+        "source": "Company Careers",
+        "applicants": 200,
+        "hires": 3,
+        "interviewed": 93,
+        "hire_conversion_pct": 1.5
+      },
+      {
+        "source": "University",
+        "applicants": 195,
+        "hires": 3,
+        "interviewed": 93,
+        "hire_conversion_pct": 1.5
+      },
+      {
+        "source": "Employee Referral",
+        "applicants": 212,
+        "hires": 2,
+        "interviewed": 103,
+        "hire_conversion_pct": 0.9
+      }
+    ],
+    "time_to_fill_days": {
+      "mean": 56.2,
+      "median": 58.0,
+      "n": 24,
+      "target_days": 45
+    },
+    "time_to_hire_days": {
+      "mean": 30,
+      "median": 30.0,
+      "n": 24,
+      "target_days": 30
+    },
+    "offers": {
+      "total_extended": 89,
+      "accepted": 24,
+      "decided": 77,
+      "pending": 12,
+      "acceptance_pct": 31.2,
+      "target_pct": 85.0
+    },
+    "candidate_experience": {
+      "survey_responses": 311,
+      "total_applicants": 1249,
+      "response_pct": 24.9,
+      "average_rating_1_to_5": 3.94,
+      "favorable_pct": 70.1
+    },
+    "hiring_manager_satisfaction": {
+      "responses": 24,
+      "average_rating_1_to_5": 4.04
+    },
+    "monthly_hires": [
+      {
+        "month": "2026-03",
+        "hired": 3
+      },
+      {
+        "month": "2026-04",
+        "hired": 4
+      },
+      {
+        "month": "2026-05",
+        "hired": 8
+      },
+      {
+        "month": "2026-06",
+        "hired": 2
+      },
+      {
+        "month": "2026-07",
+        "hired": 7
+      }
+    ]
+  },
+  "people_operations": {
+    "headcount": {
+      "active": 188,
+      "exited_in_roster": 16,
+      "by_department": [
+        {
+          "department": "Analytics",
+          "active": 31,
+          "exited": 3
+        },
+        {
+          "department": "Customer Success",
+          "active": 31,
+          "exited": 3
+        },
+        {
+          "department": "Engineering",
+          "active": 32,
+          "exited": 2
+        },
+        {
+          "department": "Finance & Operations",
+          "active": 31,
+          "exited": 3
+        },
+        {
+          "department": "People & Culture",
+          "active": 31,
+          "exited": 3
+        },
+        {
+          "department": "Product",
+          "active": 32,
+          "exited": 2
+        }
+      ],
+      "note": "Exited-in-roster is not an annual turnover rate."
+    },
+    "onboarding": {
+      "total_tasks": 168,
+      "due_by_snapshot": 168,
+      "completed": 153,
+      "completed_on_time": 103,
+      "on_time_pct_of_due": 61.3,
+      "overdue_open": 15,
+      "target_pct": 90.0
+    },
+    "hr_service_cases": {
+      "total": 150,
+      "resolved": 131,
+      "open": 19,
+      "resolved_within_sla": 63,
+      "sla_pct_of_resolved": 48.1,
+      "overdue_open": 19,
+      "sla_days": 5,
+      "by_category": [
+        {
+          "category": "HRIS Access",
+          "total": 33,
+          "open": 6,
+          "resolved": 27
+        },
+        {
+          "category": "Policy Clarification",
+          "total": 30,
+          "open": 3,
+          "resolved": 27
+        },
+        {
+          "category": "Manager Support",
+          "total": 27,
+          "open": 3,
+          "resolved": 24
+        },
+        {
+          "category": "Leave Routing",
+          "total": 27,
+          "open": 3,
+          "resolved": 24
+        },
+        {
+          "category": "Payroll Question",
+          "total": 17,
+          "open": 1,
+          "resolved": 16
+        },
+        {
+          "category": "Benefits Guidance",
+          "total": 16,
+          "open": 3,
+          "resolved": 13
+        }
+      ]
+    }
+  },
+  "methodology_warnings": [
+    "Applications and hires are a mixed-maturity snapshot; source hire percentages are descriptive, not causal or cohort-adjusted.",
+    "Funnel numbers count candidates who ever reached each stage, not exclusive current statuses.",
+    "Time-to-fill excludes cancelled and still-open requisitions; do not infer open-role cycle time from it.",
+    "Offer acceptance excludes pending decisions.",
+    "On-time onboarding is tasks completed on/before due date divided by all tasks due as of snapshot (including incomplete).",
+    "Candidate survey responses are voluntary and may have nonresponse bias.",
+    "SLA uses calendar days, not business days; sample policy is fictional and not a legal requirement.",
+    "HRIS roster is illustrative; exit count must not be called an annual turnover rate."
+  ]
+}

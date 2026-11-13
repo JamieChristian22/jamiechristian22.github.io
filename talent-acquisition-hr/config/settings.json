@@ -1,0 +1,15 @@
+{
+  "organization": "Northstar People & Talent (fictional simulation)",
+  "dataset_label": "SYNTHETIC / NOT REAL APPLICANT OR EMPLOYEE DATA",
+  "snapshot_date": "2026-10-31",
+  "generator_seed": 20261113,
+  "candidate_experience_positive_threshold": 4,
+  "time_to_fill_target_days": 45,
+  "time_to_hire_target_days": 30,
+  "offer_acceptance_target": 0.85,
+  "onboarding_on_time_target": 0.90,
+  "hr_case_sla_days": 5,
+  "audit_min_cell_n": 20,
+  "audit_ratio_screen_threshold": 0.80,
+  "disclaimer": "This is an educational portfolio simulation; metrics and findings are not results from a real employer. Compliance resources are not legal advice."
+}
