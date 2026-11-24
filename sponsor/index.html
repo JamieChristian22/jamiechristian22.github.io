@@ -36,6 +36,7 @@
     .button{display:inline-flex;align-items:center;justify-content:center;padding:11px 19px;min-height:47px;border-radius:10px;border:1px solid var(--mint);background:var(--mint);color:#07131a;font-weight:800;text-decoration:none}
     .button.secondary{background:transparent;color:var(--ink);border-color:var(--edge)}
     .button:hover{filter:brightness(1.12)}
+    button.button{font:inherit;font-weight:800;cursor:pointer}button[hidden]{display:none}button:focus-visible,input:focus-visible{outline:3px solid var(--mint);outline-offset:4px}.share-url{width:min(100%,470px);min-height:47px;border:1px solid var(--edge);border-radius:10px;background:var(--surface);color:var(--ink);padding:10px 14px;font:inherit}
     .micro{color:var(--muted);font-size:.9rem;margin-top:15px}
     section{padding:65px 0}
     h2{font-size:clamp(1.65rem,3.2vw,2.6rem);line-height:1.2;letter-spacing:-.035em;margin:0 0 12px}
@@ -61,7 +62,7 @@
   <a class="skip" href="#main">Skip to content</a>
   <div class="top"><nav class="wrap" aria-label="Primary navigation">
     <a class="brand" href="/">JC / PORTFOLIO</a>
-    <div class="links"><a href="/#work">Explore projects</a><a href="#featured">Featured work</a><a href="#support">How support helps</a><a href="https://github.com/JamieChristian22">GitHub</a></div>
+    <div class="links"><a href="/#work">Explore projects</a><a href="#featured">Featured work</a><a href="#support">How support helps</a><a href="#share">Share</a><a href="https://github.com/JamieChristian22">GitHub</a></div>
   </nav></div>
   <main id="main">
     <header class="hero"><div class="wrap">
@@ -105,7 +106,37 @@
       <div class="buttons"><a class="button secondary" href="https://github.com/JamieChristian22?tab=repositories">Share a project from GitHub ↗</a><a class="button secondary" href="https://www.linkedin.com/in/jamiechristian2/">Connect on LinkedIn ↗</a></div>
       <p class="notice">Sponsorship is voluntary and does not buy guaranteed features, endorsements, influence over project findings, or consulting services. Many projects are independent labs, demonstrations, and simulations; each repository describes its scope and evidence. Public resources remain subject to their respective repository terms.</p>
     </div></section>
+    <section id="share" aria-labelledby="share-title"><div class="wrap">
+      <div class="eyebrow">Help others discover useful projects</div>
+      <h2 id="share-title">Share a resource you find useful</h2>
+      <p class="intro">Share this page with a colleague, student, or developer who could benefit from the public work. No sponsorship is necessary to explore the resources.</p>
+      <label for="share-url">Campaign link</label>
+      <div class="buttons"><input id="share-url" class="share-url" type="url" value="https://jamiechristian22.github.io/sponsor/" readonly><button type="button" id="copy-share" class="button secondary" hidden>Copy link</button></div>
+      <p id="share-status" role="status" aria-live="polite" class="micro"></p>
+      <div class="buttons"><a class="button secondary" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fjamiechristian22.github.io%2Fsponsor%2F" target="_blank" rel="noopener noreferrer">Share on LinkedIn ↗</a><a class="button secondary" href="mailto:?subject=Practical%20public%20project%20resources&amp;body=Explore%20these%20public%20project%20resources%3A%20https%3A%2F%2Fjamiechristian22.github.io%2Fsponsor%2F">Share by email</a><a class="button secondary" href="/#engineering">Explore engineering evidence →</a></div>
+      <p class="micro">Share thoughtfully with people who may benefit, and respect community posting rules.</p>
+    </div></section>
   </main>
   <footer><div class="wrap"><span>© Jamie Christian II · Practical public projects across technology and business</span><span><a href="/">Portfolio home</a> · <a href="https://github.com/JamieChristian22">GitHub</a> · <a href="https://github.com/sponsors/JamieChristian22">Sponsor</a></span></div></footer>
+  <script>
+    const copyButton = document.getElementById('copy-share');
+    const shareUrl = document.getElementById('share-url');
+    const shareStatus = document.getElementById('share-status');
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      copyButton.hidden = false;
+      copyButton.addEventListener('click', async () => {
+        try {
+          await navigator.clipboard.writeText(shareUrl.value);
+          shareStatus.textContent = 'Link copied.';
+        } catch {
+          shareUrl.focus();
+          shareUrl.select();
+          shareStatus.textContent = 'Select and copy the link manually.';
+        }
+      });
+    } else {
+      shareStatus.textContent = 'Select and copy the campaign link above.';
+    }
+  </script>
 </body>
 </html>
