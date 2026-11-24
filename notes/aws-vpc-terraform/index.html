@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0b1220">
+<meta name="description" content="A practical AWS VPC Terraform lab explaining subnet isolation, route tables, security groups, and validation without deploying cloud resources.">
+<link rel="canonical" href="https://jamiechristian22.github.io/notes/aws-vpc-terraform/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="What a small AWS VPC lab teaches about cloud engineering">
+<meta property="og:description" content="Explore a two-tier network design, Terraform source, and validation boundaries without an AWS deployment.">
+<meta property="og:url" content="https://jamiechristian22.github.io/notes/aws-vpc-terraform/">
+<meta name="twitter:card" content="summary">
+<title>What a small AWS VPC lab teaches about cloud engineering | Jamie Christian II</title>
+<style>
+:root{color-scheme:dark;--bg:#0b1220;--panel:#142238;--ink:#f2f6ff;--muted:#bbcede;--edge:#35465e;--accent:#69e7ce}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:1rem/1.7 system-ui,sans-serif}a{color:var(--accent);text-underline-offset:3px}a:focus-visible{outline:3px solid var(--accent);outline-offset:4px}.wrap{width:min(790px,calc(100% - 36px));margin:auto}nav{display:flex;flex-wrap:wrap;gap:14px 24px;padding:22px 0;border-bottom:1px solid var(--edge);font-weight:700}header{padding:58px 0 22px}.eyebrow{font-size:.78rem;text-transform:uppercase;letter-spacing:.12em;font-weight:800;color:var(--accent)}h1{font-size:clamp(2.3rem,6vw,3.8rem);line-height:1.12;letter-spacing:-.045em;margin:14px 0}h2{font-size:1.6rem;line-height:1.3;margin:36px 0 10px}p,li{color:var(--muted)}.lead{font-size:1.15rem}.note,pre{border:1px solid var(--edge);background:var(--panel);border-radius:12px;padding:18px}.note strong{color:var(--ink)}pre{overflow:auto;font-size:.86rem;line-height:1.6}code{color:var(--ink)}.actions{display:flex;flex-wrap:wrap;gap:12px;margin:25px 0}.btn{display:inline-flex;align-items:center;padding:10px 16px;min-height:44px;border:1px solid var(--edge);border-radius:9px;font-weight:750;text-decoration:none}.btn.primary{background:var(--accent);color:var(--bg);border-color:var(--accent)}footer{border-top:1px solid var(--edge);margin-top:48px;padding:24px 0;color:var(--muted)}.skip{position:absolute;left:-9999px}.skip:focus{left:12px;top:12px;background:var(--bg);padding:8px}svg{display:block;width:100%;height:auto}figure{margin:24px 0}figcaption{color:var(--muted);font-size:.9rem;margin-top:8px}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to article</a>
+<nav class="wrap" aria-label="Primary navigation"><a href="/">Portfolio home</a><a href="/#engineering">Engineering projects</a><a href="/sponsor/">Support public work</a></nav>
+<main id="main" class="wrap">
+<article>
+<header><p class="eyebrow">Engineering notes · Infrastructure as code</p><h1>What a small AWS VPC lab teaches about cloud engineering</h1><p class="lead">A useful infrastructure portfolio should explain the design, show the source, and make its verification limits clear.</p><p>Jamie Christian II · <time datetime="2026-11-23">November 23, 2026</time></p></header>
+<div class="note"><strong>Scope:</strong> This independent learning lab defines AWS networking resources in Terraform. The configuration was validated locally; AWS infrastructure was not deployed. Application and database workloads are conceptual.</div>
+<h2>1. Separate reachability from access</h2>
+<p>A virtual private cloud defines the network boundary. The public subnet has a route toward an internet gateway and automatic public IPv4 assignment for eligible resources. The private subnet has neither automatic public IPv4 assignment nor a default internet route in this lab.</p>
+<figure><svg viewBox="0 0 700 340" role="img" aria-labelledby="diagram-title diagram-desc" xmlns="http://www.w3.org/2000/svg"><title id="diagram-title">Logical two-tier VPC network</title><desc id="diagram-desc">An internet gateway connects to a public subnet with a conceptual application workload. An application security group can reach the conceptual database security group on TCP port 5432. The private subnet has no internet default route.</desc><rect x="8" y="8" width="684" height="324" rx="16" fill="#142238" stroke="#35465e"/><g font-family="system-ui,sans-serif" font-size="15" text-anchor="middle" fill="#f2f6ff"><text x="350" y="36" font-weight="700">VPC 10.0.0.0/16 · us-east-1</text><rect x="265" y="51" width="170" height="43" rx="8" fill="#22354d" stroke="#69e7ce"/><text x="350" y="78">Internet gateway</text><rect x="30" y="125" width="300" height="160" rx="12" fill="#1c3046" stroke="#69e7ce"/><rect x="370" y="125" width="300" height="160" rx="12" fill="#1c3046" stroke="#9abaff"/><text x="180" y="151" font-weight="700">Public subnet</text><text x="180" y="174">10.0.1.0/24</text><text x="180" y="202">Default route → IGW</text><text x="180" y="248">Application SG</text><text x="520" y="151" font-weight="700">Private subnet</text><text x="520" y="174">10.0.2.0/24</text><text x="520" y="202">No internet default route</text><text x="520" y="248">Database SG</text><path d="M350 94 V108 H180 V125" fill="none" stroke="#69e7ce" stroke-width="2"/><path d="M270 260 H430" fill="none" stroke="#69e7ce" stroke-width="2"/><path d="M430 260 l-9 -5 v10 z" fill="#69e7ce"/><text x="350" y="309" fill="#bbcede">TCP 5432 · application SG → database SG</text></g></svg><figcaption>Logical design only: security groups govern workload traffic, not subnet routing. No servers or database instance are provisioned.</figcaption></figure>
+<h2>2. Use security group references</h2>
+<p>The application security group permits HTTPS ingress on TCP 443 from IPv4 addresses. PostgreSQL ingress on TCP 5432 references the application security group instead of allowing arbitrary internet addresses. The app-to-database egress rule also uses a security group reference.</p>
+<p>This illustrates a narrower access path, not a complete production security design. A live deployment would require reviewing actual workloads, identity controls, logging, availability and cost.</p>
+<h2>3. Validate without deploying</h2>
+<p>These commands check configuration format, initialize providers without a backend, and validate Terraform configuration. They do not create AWS resources.</p>
+<pre><code>terraform fmt -check -recursive
+terraform init -backend=false -lockfile=readonly -input=false
+terraform validate -no-color</code></pre>
+<p>The repository also contains a GitHub Actions validation workflow. Review the current run status separately: a workflow definition is not proof that it passed.</p>
+<h2>4. Document what remains unverified</h2>
+<p>The lab does not establish live connectivity, production availability, load balancing, database deployment, or operational monitoring. Those are separate design and testing milestones. Clear limitations make a portfolio easier to trust and discuss in an interview.</p>
+<h2>Explore the evidence</h2>
+<div class="actions"><a class="btn primary" href="https://github.com/JamieChristian22/aws-vpc-terraform-lab">Read the project</a><a class="btn" href="https://github.com/JamieChristian22/aws-vpc-terraform-lab/blob/main/main.tf">Inspect Terraform source</a><a class="btn" href="https://github.com/JamieChristian22/aws-vpc-terraform-lab/actions/workflows/terraform-validate.yml">Check CI status</a></div>
+<p>For the broader practice session, see the <a href="https://github.com/JamieChristian22/aws-vpc-terraform-lab/blob/main/docs/training/2026-11-23-cloud-platform-engineering.md">documented training log</a>, including local Docker troubleshooting and Kubernetes deployment cleanup.</p>
+<h2>Share or support</h2>
+<p>If this explanation helps someone learn, share the article or contribute constructive feedback through the repository. Optional sponsorship helps maintain public projects across technology, data, and business.</p>
+<div class="actions"><a class="btn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fjamiechristian22.github.io%2Fnotes%2Faws-vpc-terraform%2F" target="_blank" rel="noopener noreferrer">Share on LinkedIn</a><a class="btn" href="/sponsor/">Explore sponsorship</a></div>
+</article>
+</main>
+<footer class="wrap">Independent educational project · <a href="https://github.com/JamieChristian22">GitHub profile</a></footer>
+</body>
+</html>
